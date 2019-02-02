@@ -1,0 +1,6 @@
+{
+  "default": true,
+  "MD013": { "line_length": 3000 },
+  "MD026": { "punctuation": ".,;!" },
+  "MD036": false
+}
