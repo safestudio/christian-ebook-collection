@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "dd634123225ab2f5e91bce81abf1510a"
+    "revision": "785b0e558b285223f577028ea4f7f84b"
   },
   {
     "url": "assets/css/0.styles.59e0dcb8.css",
@@ -48,40 +48,40 @@ self.__precacheManifest = [
     "revision": "77bdbc5093ec1b1308285b7662614083"
   },
   {
-    "url": "assets/js/app.642a0d2b.js",
-    "revision": "7147536a7f19a943b93f0dbaec6cedcf"
+    "url": "assets/js/app.a6719fc0.js",
+    "revision": "e9c75aa2ba04ad03cdfe8a4397c99755"
   },
   {
     "url": "books/duong-linh/binh-an-voi-chua.html",
-    "revision": "02a83564ea2e5754b9aa6ea5f3b869cd"
+    "revision": "b1459401371a10c16d4dac0c7b20a0f9"
   },
   {
     "url": "hero.png",
-    "revision": "e90026e39d13d1e9e63ff0510a95a6a6"
+    "revision": "ef80daaa731df89baf4d6a2e7f040094"
   },
   {
     "url": "icons/android-chrome-192x192.png",
-    "revision": "b141cd50b0fbd8f37cee0a84a0e5fc45"
+    "revision": "c4c630599f5c5157b53281e7f8b7e697"
   },
   {
     "url": "icons/android-chrome-512x512.png",
-    "revision": "2075c44b31ef49e5b45419e10bc0e166"
+    "revision": "b9986a7dee9813f5cc6e778cdacec962"
   },
   {
     "url": "icons/apple-touch-icon-152x152.png",
-    "revision": "7d6932c68e5f93066ba94b7698698099"
+    "revision": "7d2ab7325c0c5748a967b144d30d8b00"
   },
   {
     "url": "icons/favicon-16x16.png",
-    "revision": "c0b2777401587c2b4c9983bbc1c4e45d"
+    "revision": "af56e7f479366db5e5d603ae910711de"
   },
   {
     "url": "icons/favicon-32x32.png",
-    "revision": "6c76e598a652eadf4eca7be4918fc0c9"
+    "revision": "2568303c2230651c50af27dc73d8a289"
   },
   {
     "url": "icons/msapplication-icon-144x144.png",
-    "revision": "f2990d306486389cecd02a6cb75a649d"
+    "revision": "39863d712d7ebbc40a686cb740e390e1"
   },
   {
     "url": "icons/safari-pinned-tab.svg",
@@ -89,11 +89,11 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "781684f0a3335d54d7ac33bb416b4893"
+    "revision": "be8fc1188a16bac5f9d9672dad97fc67"
   },
   {
     "url": "logo.png",
-    "revision": "b141cd50b0fbd8f37cee0a84a0e5fc45"
+    "revision": "c4c630599f5c5157b53281e7f8b7e697"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
