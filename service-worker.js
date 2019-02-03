@@ -21,39 +21,47 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "785b0e558b285223f577028ea4f7f84b"
+    "revision": "969615fc9f2cf32d18628e76dc96d8a8"
   },
   {
-    "url": "assets/css/0.styles.59e0dcb8.css",
-    "revision": "9004da55bc47c16599c08d9e3a9437c1"
+    "url": "assets/css/0.styles.621ea09d.css",
+    "revision": "98ed8c845664974f82585871fcacbb34"
   },
   {
     "url": "assets/img/search.83621669.svg",
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/2.32fc2f60.js",
-    "revision": "bbd498f606cfd3cc8eeab1b1dbf2f4b1"
+    "url": "assets/js/1.83899088.js",
+    "revision": "ac7eb1eac07643e0778b0b55f2dbdf02"
   },
   {
-    "url": "assets/js/3.0fe528bd.js",
-    "revision": "d87f8f5af738c37fe781e095a8e13f2a"
+    "url": "assets/js/2.26abcf07.js",
+    "revision": "e5f54001b67c92ad3e0b33f2cef3e529"
   },
   {
-    "url": "assets/js/4.630f9ac0.js",
-    "revision": "f7753c60aded4071a57343cddbeb0356"
+    "url": "assets/js/3.805cd242.js",
+    "revision": "1ff8f9ad2bc0690be121ec472ee6e165"
   },
   {
-    "url": "assets/js/5.c3e42228.js",
-    "revision": "77bdbc5093ec1b1308285b7662614083"
+    "url": "assets/js/4.4bd4f657.js",
+    "revision": "18a3cf37be88af968f1df5a8675f2a26"
   },
   {
-    "url": "assets/js/app.a6719fc0.js",
-    "revision": "e9c75aa2ba04ad03cdfe8a4397c99755"
+    "url": "assets/js/5.5bb596ae.js",
+    "revision": "2a0f0243ec7acc40b1a1bfedf6bda6ea"
+  },
+  {
+    "url": "assets/js/6.9d0f90ab.js",
+    "revision": "5de39038f07a0e8cb4b59c77753a3763"
+  },
+  {
+    "url": "assets/js/app.b7a9e654.js",
+    "revision": "f463a9d10d2a1e1e0aec6b2f462b4ef0"
   },
   {
     "url": "books/duong-linh/binh-an-voi-chua.html",
-    "revision": "b1459401371a10c16d4dac0c7b20a0f9"
+    "revision": "9f39acba4d19d20b214186779198b26f"
   },
   {
     "url": "hero.png",
@@ -89,7 +97,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "be8fc1188a16bac5f9d9672dad97fc67"
+    "revision": "ccb797732f534b8d9065fd99f7a9b5c1"
   },
   {
     "url": "logo.png",
