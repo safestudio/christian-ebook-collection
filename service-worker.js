@@ -21,79 +21,79 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "b2656a9894dc5613909921811edcec2d"
+    "revision": "dd634123225ab2f5e91bce81abf1510a"
   },
   {
-    "url": "assets/css/0.styles.730dea4f.css",
-    "revision": "d6f16bc0a3883bd7200af1b424c07167"
+    "url": "assets/css/0.styles.59e0dcb8.css",
+    "revision": "9004da55bc47c16599c08d9e3a9437c1"
   },
   {
     "url": "assets/img/search.83621669.svg",
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/2.2ab4813c.js",
+    "url": "assets/js/2.32fc2f60.js",
     "revision": "bbd498f606cfd3cc8eeab1b1dbf2f4b1"
   },
   {
-    "url": "assets/js/3.f7536755.js",
+    "url": "assets/js/3.0fe528bd.js",
     "revision": "d87f8f5af738c37fe781e095a8e13f2a"
   },
   {
-    "url": "assets/js/4.1eb4e4e4.js",
+    "url": "assets/js/4.630f9ac0.js",
     "revision": "f7753c60aded4071a57343cddbeb0356"
   },
   {
-    "url": "assets/js/5.2620732e.js",
+    "url": "assets/js/5.c3e42228.js",
     "revision": "77bdbc5093ec1b1308285b7662614083"
   },
   {
-    "url": "assets/js/app.9da94529.js",
-    "revision": "6428be4a6accfbb098080801a21de11d"
+    "url": "assets/js/app.642a0d2b.js",
+    "revision": "7147536a7f19a943b93f0dbaec6cedcf"
   },
   {
     "url": "books/duong-linh/binh-an-voi-chua.html",
-    "revision": "e505b4bbef0d54e1f6ae84df9322c929"
+    "revision": "02a83564ea2e5754b9aa6ea5f3b869cd"
   },
   {
     "url": "hero.png",
-    "revision": "86b82e76944d1625a00eed8143b83414"
+    "revision": "e90026e39d13d1e9e63ff0510a95a6a6"
   },
   {
     "url": "icons/android-chrome-192x192.png",
-    "revision": "7011ead68f5b7ebc333c5db102055ad2"
+    "revision": "b141cd50b0fbd8f37cee0a84a0e5fc45"
   },
   {
     "url": "icons/android-chrome-512x512.png",
-    "revision": "86b82e76944d1625a00eed8143b83414"
+    "revision": "2075c44b31ef49e5b45419e10bc0e166"
   },
   {
-    "url": "icons/apple-touch-icon.png",
-    "revision": "444df8b144ae0229262b4c4f06ea0c83"
+    "url": "icons/apple-touch-icon-152x152.png",
+    "revision": "7d6932c68e5f93066ba94b7698698099"
   },
   {
     "url": "icons/favicon-16x16.png",
-    "revision": "e4d30d0deab01d187d91aee881dca725"
+    "revision": "c0b2777401587c2b4c9983bbc1c4e45d"
   },
   {
     "url": "icons/favicon-32x32.png",
-    "revision": "c965b75f0fde1de25a5687d618933664"
+    "revision": "6c76e598a652eadf4eca7be4918fc0c9"
   },
   {
-    "url": "icons/mstile-150x150.png",
-    "revision": "ea31b6654c4e8123fd490b19e22eba13"
+    "url": "icons/msapplication-icon-144x144.png",
+    "revision": "f2990d306486389cecd02a6cb75a649d"
   },
   {
     "url": "icons/safari-pinned-tab.svg",
-    "revision": "4b04e6d3463cc73002fd0d06bca3aefc"
+    "revision": "d847c7e8e35a8f2cf7d40a06ccf88de1"
   },
   {
     "url": "index.html",
-    "revision": "aa3a0164c2cafa56f5b59c214005f583"
+    "revision": "781684f0a3335d54d7ac33bb416b4893"
   },
   {
     "url": "logo.png",
-    "revision": "7011ead68f5b7ebc333c5db102055ad2"
+    "revision": "b141cd50b0fbd8f37cee0a84a0e5fc45"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
