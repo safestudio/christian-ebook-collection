@@ -14,14 +14,9 @@ module.exports = {
   ],
   serviceWorker: true,
   base: '/',
+  ga: 'UA-108003633-2',
+  theme: 'ebook',
   themeConfig: {
-    // algolia: {
-    //   apiKey: '67346acb58a687206ed3790536caa923',
-    //   indexName: 'awesome-nuxt',
-    //   algoliaOptions: {
-    //     hitsPerPage: 10,
-    //   },
-    // },
     repo: 'SafeStudio/christian-ebook-collection',
     editLinks: true,
     lastUpdated: 'Last Updated',
@@ -43,5 +38,6 @@ module.exports = {
     '@vuepress/back-to-top',
     '@vuepress/pwa',
     'vuepress-plugin-reading-time',
+    'enhanced-search'
   ]
 };
