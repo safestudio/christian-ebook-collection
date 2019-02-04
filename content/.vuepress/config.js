@@ -15,7 +15,7 @@ module.exports = {
   serviceWorker: true,
   base: '/',
   ga: 'UA-108003633-2',
-  theme: 'ebook',
+  theme: '@safestudio/vuepress-theme-ebook',
   themeConfig: {
     repo: 'SafeStudio/christian-ebook-collection',
     editLinks: true,
@@ -38,6 +38,5 @@ module.exports = {
     '@vuepress/back-to-top',
     '@vuepress/pwa',
     'vuepress-plugin-reading-time',
-    'enhanced-search'
   ]
 };

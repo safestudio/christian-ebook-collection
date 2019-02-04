@@ -35,6 +35,9 @@
     "markdownlint-cli": "^0.13.0",
     "vuepress": "^1.0.0-alpha.36",
     "vuepress-plugin-reading-time": "^0.1.1",
-    "vuepress-theme-ebook": "^1.0.0-alpha.36"
+    "@safestudio/vuepress-theme-ebook": "^0.0.2"
+  },
+  "resolutions": {
+    "terser": "3.14.1"
   }
 }
