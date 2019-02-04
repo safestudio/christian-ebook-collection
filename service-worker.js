@@ -21,47 +21,47 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "969615fc9f2cf32d18628e76dc96d8a8"
+    "revision": "64eca515fb84a6ad7a14b5e91b6733ae"
   },
   {
-    "url": "assets/css/0.styles.621ea09d.css",
-    "revision": "98ed8c845664974f82585871fcacbb34"
+    "url": "assets/css/0.styles.07768f3a.css",
+    "revision": "fe5c46b6878211d3d09357f6536021fb"
   },
   {
     "url": "assets/img/search.83621669.svg",
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/1.83899088.js",
-    "revision": "ac7eb1eac07643e0778b0b55f2dbdf02"
+    "url": "assets/js/2.3515c565.js",
+    "revision": "9b341bf7c7520010d412cd2805a6ff9f"
   },
   {
-    "url": "assets/js/2.26abcf07.js",
-    "revision": "e5f54001b67c92ad3e0b33f2cef3e529"
+    "url": "assets/js/3.1669288a.js",
+    "revision": "1f01f7b666da8bfb27786dc889b2d297"
   },
   {
-    "url": "assets/js/3.805cd242.js",
-    "revision": "1ff8f9ad2bc0690be121ec472ee6e165"
+    "url": "assets/js/4.a0926cbf.js",
+    "revision": "0adf61d8c83fd002a6181b2e8446ace3"
   },
   {
-    "url": "assets/js/4.4bd4f657.js",
-    "revision": "18a3cf37be88af968f1df5a8675f2a26"
+    "url": "assets/js/5.9cae9d89.js",
+    "revision": "214258911a3648a442e0a9d5e84e4cb0"
   },
   {
-    "url": "assets/js/5.5bb596ae.js",
-    "revision": "2a0f0243ec7acc40b1a1bfedf6bda6ea"
+    "url": "assets/js/6.b186d743.js",
+    "revision": "4040b74c68074f40dc2174cc53e33710"
   },
   {
-    "url": "assets/js/6.9d0f90ab.js",
-    "revision": "5de39038f07a0e8cb4b59c77753a3763"
+    "url": "assets/js/7.57be3200.js",
+    "revision": "10ac3bf110ba1f64288c40cd6024c78f"
   },
   {
-    "url": "assets/js/app.b7a9e654.js",
-    "revision": "f463a9d10d2a1e1e0aec6b2f462b4ef0"
+    "url": "assets/js/app.c78d818a.js",
+    "revision": "7514c37ff3da326ce65f158bf9ea19e1"
   },
   {
     "url": "books/duong-linh/binh-an-voi-chua.html",
-    "revision": "9f39acba4d19d20b214186779198b26f"
+    "revision": "3f405feac33c7009a6417052ba4b3a71"
   },
   {
     "url": "hero.png",
@@ -97,7 +97,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "ccb797732f534b8d9065fd99f7a9b5c1"
+    "revision": "e5cec9024f4ae1e62dae9854499a80e4"
   },
   {
     "url": "logo.png",
