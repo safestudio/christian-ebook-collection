@@ -1,7 +1,7 @@
 # Christian ebook collection [![Build Status][badge]][ci]
 
-[badge]: https://travis-ci.com/SafeStudio/christian-ebook-collection.svg?branch=master
-[ci]: https://travis-ci.com/SafeStudio/christian-ebook-collection
+[badge]: https://travis-ci.org/SafeStudio/christian-ebook-collection.svg?branch=master
+[ci]: https://travis-ci.org/SafeStudio/christian-ebook-collection
 
 > 🎉 A collection of Christian ebook
 
