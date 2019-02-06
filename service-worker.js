@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "a7dd56c6438a42758b8dd04e66ae3684"
+    "revision": "3cb2b68f35d4b1fb17354444df1f0702"
   },
   {
     "url": "assets/css/0.styles.78d0d592.css",
@@ -60,12 +60,12 @@ self.__precacheManifest = [
     "revision": "7ebe33788f3163473a886a71c4cc6f46"
   },
   {
-    "url": "assets/js/app.e6d63993.js",
-    "revision": "cae69ed526b06fd58b08e01178142baa"
+    "url": "assets/js/app.5bf5a604.js",
+    "revision": "cd0068723a5de19a98e1aa2ede47eb6a"
   },
   {
     "url": "books/duong-linh/binh-an-voi-chua.html",
-    "revision": "8e53450206c61be908d68b6f4436088e"
+    "revision": "a142c81f359ffff6018a0964c19bfe20"
   },
   {
     "url": "hero.png",
@@ -485,7 +485,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "ad7b2db4dc1d1507ba46d534ed76994f"
+    "revision": "9ef000374acacf6a684a4e55aacc5467"
   },
   {
     "url": "logo.png",

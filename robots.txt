@@ -1,4 +1,4 @@
 User-agent: *
 Allow: *
 
-Sitemap: http://awesome-nuxt.js.org/sitemap.xml
+Sitemap: http://cec.safestudio.tech/sitemap.xml
