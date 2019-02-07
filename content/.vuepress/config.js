@@ -45,7 +45,9 @@ module.exports = {
   ga: 'UA-108003633-2',
   themeConfig: {
     repo: 'SafeStudio/christian-ebook-collection',
+    repoLabel: 'Contribute!',
     editLinks: true,
+    editLinkText: 'Help us improve this page!',
     lastUpdated: 'Last Updated',
     nav: [],
     serviceWorker: {
