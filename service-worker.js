@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "a7558ca777660648cf4d97d4209750d6"
+    "revision": "1390c06d503d803c9b93d8e96ec22a15"
   },
   {
     "url": "assets/css/0.styles.78d0d592.css",
@@ -48,8 +48,8 @@ self.__precacheManifest = [
     "revision": "35e996a1888a4a90cd58fba6475dd183"
   },
   {
-    "url": "assets/js/6.07e29f6c.js",
-    "revision": "b061406c8c5986afb6831a0bf45f15db"
+    "url": "assets/js/6.344c00d5.js",
+    "revision": "0c87cac5147d47cc1ce3776a6adc32db"
   },
   {
     "url": "assets/js/7.2ef6fccc.js",
@@ -60,12 +60,12 @@ self.__precacheManifest = [
     "revision": "7ebe33788f3163473a886a71c4cc6f46"
   },
   {
-    "url": "assets/js/app.905d9a0f.js",
-    "revision": "05a2c75d12f3d33372d41dd16323bcae"
+    "url": "assets/js/app.9eaabb69.js",
+    "revision": "5b66e07a36a5ac8fcd6abe6dc2a877d7"
   },
   {
     "url": "books/duong-linh/binh-an-voi-chua.html",
-    "revision": "625653c9871c793885fac462c5c99eb7"
+    "revision": "c8545279b23c7d5951ef862c5626dc47"
   },
   {
     "url": "hero.png",
@@ -485,7 +485,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "53e8544daef68bd3d6058b8d45d4bfae"
+    "revision": "758c43fb270b183ab8160b734ecfb782"
   },
   {
     "url": "logo.png",
