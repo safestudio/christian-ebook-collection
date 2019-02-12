@@ -30,14 +30,14 @@
     "test": "yarn lint"
   },
   "devDependencies": {
+    "@safestudio/vuepress-plugin-enhanced-search": "^0.0.1",
     "@vuepress/plugin-back-to-top": "^1.0.0-alpha.0",
+    "@vuepress/plugin-blog": "^1.0.0-alpha.0",
     "@vuepress/plugin-pwa": "^1.0.0-alpha.0",
     "markdownlint-cli": "^0.13.0",
+    "node-sass": "^4.11.0",
+    "sass-loader": "^7.1.0",
     "vuepress": "^1.0.0-alpha.36",
-    "vuepress-plugin-reading-time": "^0.1.1",
-    "@safestudio/vuepress-theme-ebook": "^0.0.2"
-  },
-  "resolutions": {
-    "terser": "3.14.1"
+    "vuepress-plugin-reading-time": "^0.1.1"
   }
 }
