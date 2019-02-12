@@ -49,7 +49,9 @@ module.exports = {
     editLinks: true,
     editLinkText: 'Help us improve this page!',
     lastUpdated: 'Last Updated',
-    nav: [],
+    nav: [
+      { text: "Books", link: "/books/" }
+    ],
     serviceWorker: {
       updatePopup: true,
     },

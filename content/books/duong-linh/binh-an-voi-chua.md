@@ -2,11 +2,28 @@
 title: Bình an với Chúa
 description: Bình an với Chúa
 lang: vi-VN
+coverImage: /covers/duong-linh/binh-an-voi-chua.jpg
+author: Billy Graham
+tags:
+  - Dưỡng linh
+  - Billy Graham
 ---
 
 # Bình an với Chúa
 
 <Badge :text="$page.readingTime.text" type="tip"/>
+
+## Giới thiệu
+
+Đây là quyển sách đã được tác giả: Mục sư Tiến sĩ BILLY GRAHAM viết và xuất bản từ năm 1953 vào thời điểm thế giới vừa trải qua trận đại chiến kinh hoàng kéo dài từ 1939 đến năm 1945. Thời điểm mà cả một thế hệ phải sống trong nơm nớp lo âu, sợ hãi. Nhiều thanh niên đang ở đỉnh cao của tuổi xuân đầy hứa hẹn lại tìm nhiều cách khác nhau để tìm đến cái chết chỉ vì mất phương hướng.
+
+Ấn bản đầu tiên của BÌNH AN VỚI CHÚA đã được dịch ra hơn 30 ngôn ngữ khác nhau và cho đến nay con số đó đã thêm lên rất nhiều vì nhu cầu của con người muốn có được bình an với Chúa càng lúc càng gia tăng.
+
+Lời cầu nguyện của tác giả là quyển sách có thể đến được với từng bàn tay và tấm lòng những người đang bối rối , lầm lạc trong thế giới tối tăm hiện tại và chạm đến hàng triệu cuộc đời đang khao khát sự bình an thật với Chúa.
+
+Bạn đã đọc quyển sách này chưa? Nếu chưa, xin hãy tìm đọc ngay để tìm được bí quyết có được sự bình an thật với Chúa. Nếu đã đọc qua rồi, xin hãy mua ngay để chia sẻ cho những bạn bè thân thiết có nhu cầu này.
+
+Sách do Nhà Xuất Bản Tôn Giáo ấn hành từ năm 2015 với giá bìa là 40.000VNĐ.
 
 ## Lời dẫn
 
