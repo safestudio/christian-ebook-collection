@@ -21,51 +21,59 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "1390c06d503d803c9b93d8e96ec22a15"
+    "revision": "8d2582f00538948e857f1b3ebe35eb05"
   },
   {
-    "url": "assets/css/0.styles.78d0d592.css",
-    "revision": "309e85e49d67789912ec92523297a6f3"
+    "url": "assets/css/0.styles.600b2cde.css",
+    "revision": "6ce16481958ac87be864cd3cb03c7e7d"
   },
   {
     "url": "assets/img/search.83621669.svg",
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/2.0c7653a6.js",
-    "revision": "50a60365b95b562155a3346921461757"
+    "url": "assets/js/2.c66361d3.js",
+    "revision": "eeeb811f4a061e65ed7c40a6189e821e"
   },
   {
-    "url": "assets/js/3.b31f6837.js",
-    "revision": "6b5c9b2dd7f9f318448644e12e1ad375"
+    "url": "assets/js/3.6bb0e15a.js",
+    "revision": "745755fd7d363d3e9f43cb28b25deb2b"
   },
   {
-    "url": "assets/js/4.0d2ad800.js",
-    "revision": "18f2338c44289ee69acc2e2cc5fbae1b"
+    "url": "assets/js/4.d6f8f713.js",
+    "revision": "d15f41a4f8f9ff14aecb189247a1315c"
   },
   {
-    "url": "assets/js/5.caea8a66.js",
-    "revision": "35e996a1888a4a90cd58fba6475dd183"
+    "url": "assets/js/5.58318b2a.js",
+    "revision": "e4094c139067de33385f969fd9bdd268"
   },
   {
-    "url": "assets/js/6.344c00d5.js",
-    "revision": "0c87cac5147d47cc1ce3776a6adc32db"
+    "url": "assets/js/6.03555785.js",
+    "revision": "7ca9d83b6d4f792051102ea3ba8aeee9"
   },
   {
-    "url": "assets/js/7.2ef6fccc.js",
-    "revision": "fad8f38f157d82e3b565cb9f954f1e1a"
+    "url": "assets/js/7.14bcad87.js",
+    "revision": "dbb995e7f829503078aa4a9b87df4315"
   },
   {
-    "url": "assets/js/8.da19d2a8.js",
-    "revision": "7ebe33788f3163473a886a71c4cc6f46"
+    "url": "assets/js/8.9d686589.js",
+    "revision": "1d082a9222ca02644f26a6a304058b00"
   },
   {
-    "url": "assets/js/app.9eaabb69.js",
-    "revision": "5b66e07a36a5ac8fcd6abe6dc2a877d7"
+    "url": "assets/js/app.fbb90354.js",
+    "revision": "f2e58fd5af9bbc94f59caffc4c8e116b"
   },
   {
     "url": "books/duong-linh/binh-an-voi-chua.html",
-    "revision": "c8545279b23c7d5951ef862c5626dc47"
+    "revision": "7cda823fafb09e2ddf66a608cffcb8d7"
+  },
+  {
+    "url": "books/index.html",
+    "revision": "31328d9d23bccc011377612f631ba7ae"
+  },
+  {
+    "url": "covers/duong-linh/binh-an-voi-chua.jpg",
+    "revision": "fdfbbc009ed9acb7dbf8769323866152"
   },
   {
     "url": "hero.png",
@@ -485,7 +493,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "758c43fb270b183ab8160b734ecfb782"
+    "revision": "09855d39b89e5e7b04304ad86b550a3f"
   },
   {
     "url": "logo.png",
