@@ -30,7 +30,6 @@
     </Sidebar>
 
     <Home v-if="$page.frontmatter.home"/>
-    <PostList v-if="$page.frontmatter.view === 'card'" page="books"/>
 
     <Page
       v-else
@@ -52,12 +51,11 @@
 import Home from '../components/Home.vue'
 import Navbar from '../components/Navbar.vue'
 import Page from '../components/Page.vue'
-import PostList from '../components/PostList.vue'
 import Sidebar from '../components/Sidebar.vue'
 import { resolveSidebarItems } from '../util'
 
 export default {
-  components: { Home, Page, PostList, Sidebar, Navbar },
+  components: { Home, Page, Sidebar, Navbar },
 
   data () {
     return {
@@ -87,7 +85,6 @@ export default {
       const { frontmatter } = this.$page
       return (
         !frontmatter.home
-        && frontmatter.view !== 'card'
         && frontmatter.sidebar !== false
         && this.sidebarItems.length
       )
