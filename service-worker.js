@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "82ab92bdfab883df743e6899ddd71417"
+    "revision": "5da73e2a3380a8495bdf6c12a1102b57"
   },
   {
     "url": "assets/css/0.styles.badf1985.css",
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "revision": "90a40140564bd93cafb8bb26b1e01941"
   },
   {
-    "url": "assets/js/5.96a26d14.js",
-    "revision": "489ce7783c8471075fb0af28cf55914a"
+    "url": "assets/js/5.286113af.js",
+    "revision": "9d0edb9f367d9855f5d1d7e699da2591"
   },
   {
     "url": "assets/js/6.7eb40a24.js",
@@ -60,16 +60,16 @@ self.__precacheManifest = [
     "revision": "1d082a9222ca02644f26a6a304058b00"
   },
   {
-    "url": "assets/js/app.1992dd28.js",
-    "revision": "a866b2414c02c75658acffd42f5ca635"
+    "url": "assets/js/app.5f9baecc.js",
+    "revision": "dada7cea92894d5c4283056c741a22e8"
   },
   {
     "url": "books/duong-linh/binh-an-voi-chua.html",
-    "revision": "62c4b3042402cdf3575b2412c10a56dc"
+    "revision": "15b890835d647fdeb795f713d27d30c3"
   },
   {
     "url": "books/index.html",
-    "revision": "02914cb750a0ad04c6e9809bb9359eef"
+    "revision": "364ad2f4736c909331284afcb09bb7ad"
   },
   {
     "url": "covers/duong-linh/binh-an-voi-chua.jpg",
@@ -493,7 +493,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "aa8730a26bf75e0ea3fe4d76a5c8719d"
+    "revision": "ba3eefeb26495b1568cc2a29c4fbb5db"
   },
   {
     "url": "logo.png",
