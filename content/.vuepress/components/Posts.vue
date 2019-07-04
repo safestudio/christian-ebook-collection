@@ -28,8 +28,6 @@
 </template>
 
 <script>
-import { parse, format } from "date-fns";
-
 export default {
   props: {
     postType: {
@@ -57,12 +55,6 @@ export default {
     filteredPosts() {
       let offset = (this.page - 1) * this.limit;
       return this.posts.slice(offset, offset + this.limit);
-    }
-  },
-
-  methods: {
-    formatTime(time) {
-      return format(time, "DD/MM/YYYY HH:MM");
     }
   },
 
@@ -95,7 +87,7 @@ $color_grey_dark = #a2a2a2
     &:hover
       color: $color_prime
   .post-image
-    width: 100%
+    width: 40%
     background-size: cover
     background-position: top
     transition: transform .2s
