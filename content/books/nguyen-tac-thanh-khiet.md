@@ -1,6 +1,6 @@
 ---
 title: Nguyên tắc thánh khiết
-description: Cuốn sách "NGUYÊN TẮC THÁNH KHIẾT" của tác giả Randy Alcorn viết về các biện pháp bảo vệ của Đức Chúa Trời trước những con đường nguy hiểm trong cuộc sống. Đây là một quyển sách nhỏ với một tác động thật to lớn! Randy Alcorn dập tắt mọi ánh mắt sáng le lói của sự bất khiết về mặt tín dục và cho thấy vì sao sự thánh khiết lại triệu lần tốt đẹp hơn.
+description: Cuốn sách "NGUYÊN TẮC THÁNH KHIẾT" của tác giả Randy Alcorn viết về các biện pháp bảo vệ của Đức Chúa Trời trước những con đường nguy hiểm trong cuộc sống. Đây là một quyển sách nhỏ với một tác động thật to lớn! Randy Alcorn dập tắt mọi ánh mắt sáng le lói của sự bất khiết về mặt tính dục và cho thấy vì sao sự thánh khiết lại triệu lần tốt đẹp hơn.
 lang: vi-VN
 type: book
 coverImage: /covers/duong-linh/nguyen-tac-thanh-khiet.jpg
@@ -19,20 +19,20 @@ tags:
 
 ## Giới thiệu
 
-Cuốn sách "NGUYÊN TẮC THÁNH KHIẾT" của tác giả Randy Alcorn viết về các biện pháp bảo vệ của Đức Chúa Trời trước những con đường nguy hiểm trong cuộc sống. Đây là một quyển sách nhỏ với một tác động thật to lớn! Randy Alcorn dập tắt mọi ánh mắt sáng le lói của sự bất khiết về mặt tín dục và cho thấy vì sao sự thánh khiết lại triệu lần tốt đẹp hơn.
+Cuốn sách "NGUYÊN TẮC THÁNH KHIẾT" của tác giả Randy Alcorn viết về các biện pháp bảo vệ của Đức Chúa Trời trước những con đường nguy hiểm trong cuộc sống. Đây là một quyển sách nhỏ với một tác động thật to lớn! Randy Alcorn dập tắt mọi ánh mắt sáng le lói của sự bất khiết về mặt tính dục và cho thấy vì sao sự thánh khiết lại triệu lần tốt đẹp hơn.
 
 **Mục lục:**
 
 1. <a href="#chuong-1-bo-lo-co-hoi">Chương 1: Bỏ lỡ cơ hội</a>
 2. <a href="#chuong-2-loi-ich-ca-nhan-sang-suot">Chương 2: Lợi ích cá nhân sáng suốt</a>
-3. Chương 3: Có gì quan trọng về tình dục thế
-4. Chương 4: Bị nằm trong tầm ngắm và dẽ bị H giục
+3. <a href="#chuong-3-co-gi-quan-trong-the-ve-tinh-duc">Chương 3: Có gì quan trọng về tình dục thế</a>
+4. Chương 4: Bị nằm trong tầm ngắm và dễ bị hạ gục
 5. Chương 5: Cuộc chiến đấu nằm trong tâm trí của bạn
-6. Chương 6: Sách lượt khôn ngoan
-7. Chương 7: Hàn động triệt để
+6. Chương 6: Sách lược khôn ngoan
+7. Chương 7: Hành động triệt để
 8. Chương 8: Hướng dẫn cho người độc thân
 9. Chương 9: Hướng dẫn cho vợ chồng và phụ huynh
-10. Chương 10: Xưng tội , tin thần trách nhiệm và cái giá phải trả
+10. Chương 10: Xưng tội, tinh thần trách nhiệm và cái giá phải trả
 
 ## Chương 1: Bỏ lỡ cơ hội
 
@@ -294,3 +294,93 @@ Khảo sát cho thấy rằng đạo đức tình dục của Cơ Đốc nhân n
 *Tại sao sự thánh khiết lại là một phần không thể thiếu được của đời sống được ban thưởng? Tại sao tình dục trước hôn nhân và ngoài hôn nhân lại độc hại đối với sự vui mừng? Tại sao nhiều người cố gắng và cố gắng mà vẫn thất bại và thất bại? Làm thế nào chúng ta có thể tránh được sự cám dỗ và bẫy rập trói buộc chúng ta và phá nát cuộc sống dư dật?*
 
 Thật không quá đáng khi xem đây là vấn đề sinh tử. Thời giờ bạn bỏ ra để đọc phần còn lại của cuốn sách này có thể cứu bạn khỏi tai hoạ. Nó có thể đưa bạn vào hướng đi mà bạn và gia đình sẽ rất biết ơn về hướng đi này.
+
+## Chương 3: Có gì quan trọng thế về tình dục
+
+Bạn có bao giờ nghe câu châm ngôn: "Mọi tội lỗi đều giống nhau trước mặt Chúa?"
+
+Theo thánh Phao-lô thì không phải như vậy. Ông đã nói điều này với Hội thánh Cô-rinh-tô bị bão hoà vì sex:
+
+**"Hãy tránh sự dâm dục. Mặc dầu người ta phạm tội gì, tội ấy còn là ngoài thân thể; nhưng kẻ buông mình vào sự dâm dục, thì phạm đến chính thân thể mình." (I Cô-rinh-tô 6:18)**.
+
+Ngay từ đầu có một sự khác biệt về chất đối với tội tà dâm. Tại sao? Bời vì tình dục không chỉ là điều mà bạn làm, mà còn chính là con người của bạn. Khi bạn quan hệ tình dục, bạn đặt cuộc đời bạn đi trên dây trong không trung. Bạn cho đi một điều mà có thể không bao giờ lấy lại được.
+
+Sự thánh khiết và bất khiết không đơn thuần chỉ là những vấn đề bên ngoài như cách cư xử, văn hóa, và tập quán. Nó liên quan đến tận linh hồn. Nó xẻ vào vấn đề cốt lõi cuộc sống: bạn là ai và bạn sẽ trở thành người như thế nào.
+
+Tình dục không phải được sáng tạo bởi Hollywood, Madonna, hay một kẻ có lối sống tình dục bệnh hoạn trong phòng chatroom internet. Tình dục là do Đấng Thiêng Liêng vô hạn sáng tạo ra, được kết dệt trong ánh sáng chói loà và vinh hiển, được vây quanh bởi thiên thần thánh khiết và đầy hào quang. Sự tốt lành của tình dục đứng vững hoặc sụp đổ với sự tốt lành của Đấng Tạo Hoá.
+
+**"Đức Chúa Trời thấy các việc Ngài đã làm thật rất tốt lành." (Sáng Thế Ký 1:31)**. Tình dục là một phần của "mọi điều" tốt lành đó. Thậm chí sau khi loài người phạm tội, Lời của Đức Chúa Trời nói công khai về sự khoái lạc của tình dục trong hôn nhân. (**Châm Ngôn 5:18-19**); (**Nhã ca 4:5, 7:1, 6-9**).
+
+Tình dục là phương cách cho sự thụ thai và sự thân mật vợ chồng được biểu lộ. Cả hai điều này đều quan trọng đối với Đức Chúa Trời. Khi sự giao hợp diễn ra trong bối cảnh đúng của nó, trong tinh thần của sự dâng hiến, Đấng Tạo Hoá mỉm cười.
+
+### Sức mạnh của tình dục
+
+Đây là điều làm cho Nguyên tắc Thánh khiết thật quan trọng:
+
+Tình dục có sức mạnh thật kinh khủng; nó có thể đem lại điều thật tốt hoặc tai hại rất lớn.
+
+Lửa là một quà tặng của Đức Chúa Trời. Chúng ta làm gì được nếu không có lửa? Bạn đã bao giờ nhìn vào ngọn lửa trại trong một đêm giá lạnh trời trong, sâu tận giữa lòng thiên nhiên hoang sơ với bầu trời đầy sao? Tuy vậy khi cũng chính những ngọn lửa diệu kỳ ấy lan ra ngoài giới hạn của nó, điều gì đã xảy ra? Sự tàn phá khủng khiếp. Đau đớn. Sự chết.
+
+Những món quà tuyệt diệu nhất của Đức Chúa Trời nếu mang ra ngoài ranh giới mà Đức Chúa Trời đã ấn định cho nó sẽ trở nên hoàn toàn tác hại. Tình dục cũng vậy. Năng lực mang đến những điều tốt lành lớn nhất của nó có một mặt trái – nó cũng có khả năng gây ra những tội ác to lớn.
+
+Cho đến khi nào ngọn lửa còn được kiềm chế trong lò sưởi, nó sẽ giữ ấm cho bạn. Nhưng nếu ngọn lửa được "phóng thích", ngôi nhà sẽ bị thiêu rụi.
+
+Tôi đã từng bước qua những đống đổ nát còn cháy khói của những cuộc đời bị sự tà dâm phá tan hoang. Tôi đã chia sẻ sự tuyệt vọng của họ khi họ tự hỏi không biết có bao giờ họ có thể xây dựng lại từ đầu được không. (Họ thực sự có thể – nhưng có được niềm tin rằng họ có thể lại là một chuyện khác). Tôi không thể quên được những cảnh tượng đó đã in dấu mãi vào tâm hồn tôi.
+
+Ngược lại, giữ sự thánh khiết là được đòi một món quà tuyệt diệu. Sự thánh khiết đẹp không có gì sánh nổi... giống như hương thơm của một đóa hồng sau cơn mưa hè. Và đó là sắc đẹp không bao giờ tàn, bởi vì tất cả những ai sống trên thiên đàng sẽ sống thánh khiết (**Khải Huyền 21:27**).
+
+### Xác định ranh giới đến đâu
+
+Theo Kinh Thánh, ranh giới của tình dục là ranh giới của hôn nhân. Tình dục và hôn nhân đi chung với nhau. Sự ân ái phải là hình thức biểu lộ sự cam kết suốt đời. Ngoài hôn nhân, không có sự cam kết lâu dài. Do đó hành động tình dục trở thành sự nói dối.
+
+Tình dục là một đặc quyền không tách rời khỏi trách nhiệm của giao ước hôn nhân thiêng liêng. Đòi được đặc quyền nhưng trốn tránh trách nhiệm là đi ngược lại ý muốn của Đức Chúa Trời. Bất kỳ hành vi tình dục nào ngoài hôn nhân đều làm giảm giá trị của cả đặc quyền và trách nhiệm.
+
+Tình dục được thiết kế là sự kết nối giữa hai người, hai linh hồn chứ không phải là hai thân thể. Tình dục phải được dâng hiến cho người mà bạn 100% cam kết sẽ sống đời với (đo bằng hôn nhân hợp pháp), chứ không phải lấy từ người mà bạn không muốn chung sống suốt đời.
+
+Lý lẽ kiểu "nhưng chúng tôi thật sự yêu nhau" không liên hệ gì đến đạo đức của sự ân ái. Tình dục không được phép diễn ra vì những cảm xúc chủ quan mà phải do cam kết hôn nhân cam kết sống đời khách quan. Đây là những luật lệ của Đức Chúa Trời. Chúng ta không thể làm gì để thay đổi những luật lệ này. Những luật lệ này luôn luôn có hiệu lực. Khi chúng ta phá vỡ nó thì nó luôn luôn phá nát chúng ta.
+
+Một du khách khôn ngoan sẽ không rủa sả hàng rào chắn bờ vực. Anh ta không rỉ, "hàng rào này đã làm móp thanh chắn xe của tôi". Anh ta nhìn xuống vực, thấy những chiếc xe tan nát và cám ơn Đức Chúa Trời vì đã đặt những hàng rào chắn đó.
+
+Hàng rào chắn của Đức Chúa Trời là những luật lệ đạo đức của Ngài. Chúng đứng chắn ở giữa chúng ta và sự hư nát. Chúng được đặt ra không phải trừng phạt hay làm tổn thất cho chúng ta mà để bảo vệ chúng ta.
+
+### Sự thánh khiết và ý muốn của Đức Chúa Trời
+
+Thánh Phao-lô đã viết một đoạn văn mạnh mẽ về sự thánh khiết, vang vọng ý "khôn ngoan hay ngu dại":
+
+**"Vì ý muốn của Đức Chúa Trời, ấy là khiến anh em nên thánh: tức là phải lánh sự ô uế, mỗi người phải biết giữ thân mình cho thánh sạch và tôn trọng, chẳng bao giờ sa vào tình dục luông tuồng như người ngoại đạo, là kẻ không nhìn biết Đức Chúa Trời. Chớ có ai phỉnh phờ anh em mình, hay là làm hại anh em bất kỳ việc gì, vì Chúa là Đấng báo oán những sự đó, như chúng tôi đã nói trước cùng anh em và đã làm chứng. Bởi chưng Đức Chúa Trời chẳng gọi chúng ta đến từ sự ô uế đâu, bèn là sụ nên thánh vậy. Cho nên ai khinh bỏ điều chúng tôi nói, thì không phải là khinh bỏ người ta đâu, bèn là khinh bỏ Đức Chúa Trời, là Đấng đã ban Thánh Linh của Ngài trong anh em." (I Tê-sa-lô-ni-ca 4:3-8)**.
+
+Đã bao nhiêu lần bạn nghe người ta nói về *"tìm kiếm ý muốn Đức Chúa Trời"*? Chúng ta nói đến ý muốn Đức Chúa Trời như thể là nó bị đánh mất hoặc nó là một khối rubic phải mất nhiều năm và bộ óc của Einstein mới hiểu nổi.
+
+Nhưng bạn không cần phải thắc mắc muốn biết quan điểm của Đức Chúa Trời như thế nào về tình dục ngoài hôn nhân. **"Vì ý muốn của Đức Chúa Trời, ấy là khiến anh em nên thánh: tức là phải lánh sự ô uế"**.
+
+Điều này rõ ràng như thế nào?
+
+Nhiều người đang "tìm kiếm ý muốn của Đức Chúa Trời" – nhưng cũng nhiều người trong số đó không màng sống theo điều mà Kinh Thánh chỉ ra ý muốn của Đức Chúa Trời. Liệu có ích gì khi tìm kiếm ý muốn của Đức Chúa Trời trong những chuyện kém quan trọng hơn nếu bạn bỏ qua điều mà Ngài đã phán dạy cho bạn: phải thánh khiết?
+
+Các môn đồ của Chúa không sống bằng nhục dục và điều này thực sự biệt riêng họ ra khỏi văn hoá tà thần chung quanh họ. Hội thánh ngày nay cần tái khám phá khía cạnh quan trọng của bản chất chúng ta - là cô dâu không tì vết của Ngài.
+
+Vấn đề không phải là sự đam mê mà là nhục dục. Chúng ta hầu việc một Đức Chúa Trời đầy lòng yêu thương. Chúng ta phải yêu và hầu việc Ngài một cách đam mê. Nhưng chúng ta cần phải nuôi dưỡng sự đam mê đúng đối tượng, chứ không được sai đối tượng.
+
+"Hãy học cách kiểm soát thân thể của chính mình" có nghĩa là điều này không đến một cách tự nhiên – nếu không bạn đã không cần phải học nó. Điều này đòi hỏi sự tập luyện và kỷ luật.
+
+Cưỡng lại sự cám dỗ là từ chối vi phạm luật của Đức Chúa Trời một cách kiên quyết can đảm mạnh mẽ. Điều này liên tục đòi hỏi phải biết nhờ cậy Đấng Christ để có sức mạnh từ chối thế gian, xác thịt, và ma quỉ – và thay vào đó là vâng lời Đức Chúa Trời. Chúng ta làm điều này để tìm kiếm niềm vui đích thực mà chỉ có thể tìm thấy trong việc nhận biết Đức Chúa Trời.
+
+Bạn có nhớ bài hát của ban nhạc The Beatles mà ca sĩ Ringo Starr đã hát không, *"Những gì tôi phải làm là hành động một cách tự nhiên"*?
+
+Sự thực là nếu bạn hành động một cách tự nhiên thì bạn sẽ được hoan nghênh.
+
+Nhưng nếu bạn hành động một cách siêu nhiên, dựa vào sức của Đấng Christ ở bên trong mình, bạn sẽ được hưởng những lợi ích to lớn cho bản thân bây giờ và mai sau.
+
+Bạn có muốn ý muốn của Đức Chúa Trời một cách thực sự không? Vậy thì hãy gìn giữ sự thánh khiết. Hãy học cách kiểm soát thân thể của mình. Từ chối không lợi dụng tình dục bất cứ ai. Khi làm điều này bạn sẽ tránh được sự trừng phạt của Đức Chúa Trời và nếm trải niềm vui của đời sống đẹp lòng Chúa.
+
+### Ai làm chủ thân thể của bạn
+
+Đôi khi, khi nói về sự thánh khiết, tôi hỏi mượn một cây bút chì. Tôi bẻ cây bút chì ra làm đôi, ném xuống và dẫm lên nó. Mọi người trong phòng trố mắt nhìn tôi. Tôi hỏi các thính giả tại sao họ lại bị sốc. Luôn luôn có người trả lời rằng, "bởi vì anh đã làm gẫy cây bút chì của họ."
+
+Rồi tôi giải thích rằng đây thực sự là bút chì của tôi nhưng trước đó tôi đã đưa nó cho người kia và dặn cô ta đưa lại khi tôi yêu cầu. Đột nhiên mọi chuyện thay đổi. Vì cây bút chì thuộc về tôi, tôi có quyền làm gì với nó cũng được. Nếu nó thuộc về người khác thì tôi không có quyền làm như vậy.
+
+**"Vậy thân thể tôi thuộc về ai? Anh em chẳng phải thuộc chính mình sao? Vì chưng anh em đã được chuộc bằng giá cao rồi. Vậy hãy lấy thân thể mình làm sáng danh Đức Chúa Trời." (I Cô-rinh-tô 6:19-20)**.
+
+Khi tôi đến với Đấng Christ, chủ quyền của cuộc đời tôi được chuyển từ tôi qua Đức Chúa Trời. Tôi đã được mua và chuộc. Với cái giá nào? Bằng việc đổ huyết của Đức Chúa Trời. Chúng ta thuộc về Ngài vì Ngài đã tạo ra chúng ta và một lần nữa lại thuộc về Ngài vì sự cứu chuộc. Ngài có toàn quyền bảo tôi làm điều gì với tâm thần và thể xác của tôi. Tôi không có quyền làm bất cứ điều gì tôi muốn với thân thể tôi.
+
+May mắn thay Đức Chúa Trời luôn luôn hành động không phải chỉ cho sự vinh hiển của Ngài mà còn mang lại điều tốt nhất cho tôi. Do đó tôi có thể hoàn toàn tin tưởng rằng bất kỳ điều gì Ngài cấm đoán sẽ làm hại tôi và bất kỳ điều gì Ngài bảo làm sẽ chỉ có lợi cho tôi.
