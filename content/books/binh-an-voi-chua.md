@@ -36,11 +36,11 @@ Chúng ta đang sống trong một thế giới bất an. Có thể nói mọi t
 
 Nói như vậy không có nghĩa là chúng ta bịt tai lại hay làm ngơ kể như không có gì đang xảy ra. Vấn đề là làm sao chúng ta có thể đối diện, đối đầu với những thông tin không lấy gì làm tốt lành với tấm lòng an bình, không xao xuyến. An bình trong tâm hồn hay an bình nội tâm vì vậy là điều cần thiết để sống trên đời. Khó khăn trên đời là điều không tránh được, chúng ta phải đối đầu với những khó khăn đó. Nhưng đối đầu như thế nào, đó là điều quan trọng. Chúa Cứu Thế Giê-xu có lời hứa sau đây cho những người tin nơi Ngài. Chúa phán:
 
-**“Ta để bình an lại cho các con, Ta ban bình an Ta cho các con. Ta cho các con bình an chẳng phải như thế gian cho. Lòng các con chớ bối rối và đừng sợ hãi” (Giăng 14:27)**
+**"Ta để bình an lại cho các con, Ta ban bình an Ta cho các con. Ta cho các con bình an chẳng phải như thế gian cho. Lòng các con chớ bối rối và đừng sợ hãi" (Giăng 14:27)**
 
-**“Ta đã bảo các con những điều đó hầu cho các con có lòng bình an trong Ta. Các con sẽ có hoạn nạn trong thế gian nhưng hãy cứ vững lòng, Ta đã thắng thế gian rồi” (Giăng 16:32)**
+**"Ta đã bảo các con những điều đó hầu cho các con có lòng bình an trong Ta. Các con sẽ có hoạn nạn trong thế gian nhưng hãy cứ vững lòng, Ta đã thắng thế gian rồi" (Giăng 16:32)**
 
-Thật không có gì an ủi, khích lệ chúng ta hơn những lời nầy. Biết mình sẽ phải đối diện với hoạn nạn, thử thách khó khăn nhưng vẫn an tâm, vững lòng vì biết rằng Chúa là Đấng chiến thắng, Chúa cầm quyền trên mọi thử thách, khó khăn đó. Trước hết chúng ta thấy rằng trong lời hứa nầy, Chúa phán về “lòng bình an trong Ta.” Bình an Chúa hứa ban cho chúng ta là bình an trong Chúa, bình an với Chúa mà suốt hai mươi chương sách này giúp cho chúng ta có cái nhìn đầy sự an ủi từ Đấng Bình An.
+Thật không có gì an ủi, khích lệ chúng ta hơn những lời nầy. Biết mình sẽ phải đối diện với hoạn nạn, thử thách khó khăn nhưng vẫn an tâm, vững lòng vì biết rằng Chúa là Đấng chiến thắng, Chúa cầm quyền trên mọi thử thách, khó khăn đó. Trước hết chúng ta thấy rằng trong lời hứa nầy, Chúa phán về "lòng bình an trong Ta." Bình an Chúa hứa ban cho chúng ta là bình an trong Chúa, bình an với Chúa mà suốt hai mươi chương sách này giúp cho chúng ta có cái nhìn đầy sự an ủi từ Đấng Bình An.
 
 ## Chương 1: Cuộc tìm kiếm vĩ đại
 

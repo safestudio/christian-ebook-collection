@@ -26,7 +26,7 @@ Cuốn sách "NGUYÊN TẮC THÁNH KHIẾT" của tác giả Randy Alcorn viết
 1. <a href="#chuong-1-bo-lo-co-hoi">Chương 1: Bỏ lỡ cơ hội</a>
 2. <a href="#chuong-2-loi-ich-ca-nhan-sang-suot">Chương 2: Lợi ích cá nhân sáng suốt</a>
 3. <a href="#chuong-3-co-gi-quan-trong-the-ve-tinh-duc">Chương 3: Có gì quan trọng về tình dục thế</a>
-4. Chương 4: Bị nằm trong tầm ngắm và dễ bị hạ gục
+4. <a href="#chuong-4-bi-nam-trong-tam-ngam-va-de-bi-ha-guc">Chương 4: Bị nằm trong tầm ngắm và dễ bị hạ gục</a>
 5. Chương 5: Cuộc chiến đấu nằm trong tâm trí của bạn
 6. Chương 6: Sách lược khôn ngoan
 7. Chương 7: Hành động triệt để
@@ -214,7 +214,7 @@ Lịch sử đã minh chứng phần còn lại.
 
     Và bị lầm lạc vì ngu dại quá."
 
-    (Châm Ngôn 5:20-23)
+    (Châm ngôn 5:20-23)
 
 Tại sao phải tránh tội ngoại tình?
 
@@ -222,7 +222,7 @@ Bởi vì Đức Chúa Trời sẽ nhìn thấy và Ngài sẽ phán xét.
 
 Nhưng thậm chí trước ngày phán xét **"dây của tội lỗi đã xiết chặt kẻ phạm tội."**
 
-Kẻ ngoại tình sẽ bị mắc bẫy bởi chính sự gian ác của mình; hắn sẽ chết. Hắn là nạn nhân chính của sự ngu dại của chính mình. Ngược lại người nào giữ được sự thánh khiết có thể "vui mừng" và "được giam giữ" trong tình yêu thương của vợ anh ta, vui hưởng cuộc sống chăn gối (**Châm Ngôn 5:18-19**).
+Kẻ ngoại tình sẽ bị mắc bẫy bởi chính sự gian ác của mình; hắn sẽ chết. Hắn là nạn nhân chính của sự ngu dại của chính mình. Ngược lại người nào giữ được sự thánh khiết có thể "vui mừng" và "được giam giữ" trong tình yêu thương của vợ anh ta, vui hưởng cuộc sống chăn gối (**Châm ngôn 5:18-19**).
 
 Trong chương kế Đức Chúa Trời đã dạy:
 
@@ -238,9 +238,9 @@ Trong chương kế Đức Chúa Trời đã dạy:
 
     Phàm ai đụng đến nàng ắt chẳng khỏi bị phạt."
 
-    (Châm Ngôn 6:27-29).
+    (Châm ngôn 6:27-29).
 
-Sách Châm-ngôn cũng mô tả người đàn ông bị cám dỗ vào tội ngoại tình như là **"một con bò đi đến lò mổ"** và giống như con nai hoặc chim bị thợ săn hạ sát. (**Châm Ngôn 7:21-27**).
+Sách Châm-ngôn cũng mô tả người đàn ông bị cám dỗ vào tội ngoại tình như là **"một con bò đi đến lò mổ"** và giống như con nai hoặc chim bị thợ săn hạ sát. (**Châm ngôn 7:21-27**).
 
 Một tín hữu sau khi thoát khỏi cơn nghiện tình dục đã nói với tôi: **"Kẻ nghiện luôn nghĩ họ có thể thoát ra được. Bạn sẽ chỉ thay đổi khi ý thức được rằng bạn không thể thoát được nó."**
 
@@ -264,7 +264,7 @@ Có phải đó là một động lực ít quan trọng và không đáng làm?
 
 Bạn có nghĩ vợ con ông ta rất biết ơn ông ta vì nhờ sự kính sợ Chúa đã giúp ông ta thánh khiết khi đối diện với những cám dỗ tối tăm? Hoàn toàn là vậy.
 
-Sự kính sợ Chúa không làm cho chúng ta sợ đến mất khôn; vì sợ nên chúng ta khôn lên. **"Sự kính sợ Chúa là nguồn sự sống, cứu con người khỏi nanh vuốt của sự chết" (Châm Ngôn 13:27)**.
+Sự kính sợ Chúa không làm cho chúng ta sợ đến mất khôn; vì sợ nên chúng ta khôn lên. **"Sự kính sợ Chúa là nguồn sự sống, cứu con người khỏi nanh vuốt của sự chết" (Châm ngôn 13:27)**.
 
 Kẻ nào bị cám dỗ về nhục dục không hành động vì lợi ích của mình. Đúng hơn họ theo đuổi cái mà họ tưởng tượng là lợi ích bản thân, cái mà Sa-tan lừa dối làm cho họ nghĩ rằng đó là lợi ích của họ. Nếu họ đã theo đuổi lợi ích bản thân một cách đích thực, đáng lẽ họ đã phải chạy trốn khỏi sự cám dỗ giống như họ phải chạy trốn khỏi rắn hổ mang đang thè lưỡi hoặc trái lựu đạn đã mở kíp. Đáng lẽ họ đã phải gìn giữ sự thánh khiết như kẻ chết đuối bám lấy phao cứu sinh. Và cuộc sống cũng như gia đình của họ đã khác đi biết bao nếu như họ đã hành động đúng.
 
@@ -309,7 +309,7 @@ Sự thánh khiết và bất khiết không đơn thuần chỉ là những v�
 
 Tình dục không phải được sáng tạo bởi Hollywood, Madonna, hay một kẻ có lối sống tình dục bệnh hoạn trong phòng chatroom internet. Tình dục là do Đấng Thiêng Liêng vô hạn sáng tạo ra, được kết dệt trong ánh sáng chói loà và vinh hiển, được vây quanh bởi thiên thần thánh khiết và đầy hào quang. Sự tốt lành của tình dục đứng vững hoặc sụp đổ với sự tốt lành của Đấng Tạo Hoá.
 
-**"Đức Chúa Trời thấy các việc Ngài đã làm thật rất tốt lành." (Sáng Thế Ký 1:31)**. Tình dục là một phần của "mọi điều" tốt lành đó. Thậm chí sau khi loài người phạm tội, Lời của Đức Chúa Trời nói công khai về sự khoái lạc của tình dục trong hôn nhân. (**Châm Ngôn 5:18-19**); (**Nhã ca 4:5, 7:1, 6-9**).
+**"Đức Chúa Trời thấy các việc Ngài đã làm thật rất tốt lành." (Sáng Thế Ký 1:31)**. Tình dục là một phần của "mọi điều" tốt lành đó. Thậm chí sau khi loài người phạm tội, Lời của Đức Chúa Trời nói công khai về sự khoái lạc của tình dục trong hôn nhân. (**Châm ngôn 5:18-19**); (**Nhã ca 4:5, 7:1, 6-9**).
 
 Tình dục là phương cách cho sự thụ thai và sự thân mật vợ chồng được biểu lộ. Cả hai điều này đều quan trọng đối với Đức Chúa Trời. Khi sự giao hợp diễn ra trong bối cảnh đúng của nó, trong tinh thần của sự dâng hiến, Đấng Tạo Hoá mỉm cười.
 
@@ -384,3 +384,111 @@ Rồi tôi giải thích rằng đây thực sự là bút chì của tôi nhưn
 Khi tôi đến với Đấng Christ, chủ quyền của cuộc đời tôi được chuyển từ tôi qua Đức Chúa Trời. Tôi đã được mua và chuộc. Với cái giá nào? Bằng việc đổ huyết của Đức Chúa Trời. Chúng ta thuộc về Ngài vì Ngài đã tạo ra chúng ta và một lần nữa lại thuộc về Ngài vì sự cứu chuộc. Ngài có toàn quyền bảo tôi làm điều gì với tâm thần và thể xác của tôi. Tôi không có quyền làm bất cứ điều gì tôi muốn với thân thể tôi.
 
 May mắn thay Đức Chúa Trời luôn luôn hành động không phải chỉ cho sự vinh hiển của Ngài mà còn mang lại điều tốt nhất cho tôi. Do đó tôi có thể hoàn toàn tin tưởng rằng bất kỳ điều gì Ngài cấm đoán sẽ làm hại tôi và bất kỳ điều gì Ngài bảo làm sẽ chỉ có lợi cho tôi.
+
+## Chương 4: Bị nằm trong tầm ngắm và dễ bị hạ gục
+
+Nếu bạn là một Cơ Đốc nhân, bạn là một người đàn ông bị đặt trong tầm ngắm, là một phụ nữ bị đánh dấu mục tiêu ngắm bắn. Thế lực tội lỗi đã ký hợp đồng để tiêu diệt bạn. Sa-tan luôn rình rập để đánh gục bạn. Nếu nó không đem được bạn xuống địa ngục thì nó cũng làm hết sức để cuộc sống của bạn thành địa ngục trên trần gian.
+
+Tôi còn nhớ với sự bối rối khi tôi còn là một sinh viên trường thần học. Tôi nghe nói về một vị lãnh đạo Cơ Đốc nổi tiếng đã phạm tội tà dâm. Ngoại tình sao? Đó là ngày ông ta bị hạ! Tôi biết tôi sẽ không bao giờ phản bội Đức Chúa Trời và vợ tôi giống như vậy. Không bao giờ là tôi.
+
+Bởi ân điển của Chúa tôi chưa bao giờ có quan hệ tình dục với người nào khác trừ vợ tôi. Nhưng điều nầy chủ yếu là do tôi hiểu ra vấn đề. Tôi dần dần hiểu được một sự thật đáng sợ: rằng chuyện đó thực sự có thể xảy đến cho tôi. Và tôi sẽ là một tên ngu ngốc nếu nghĩ ngược lại.
+
+Nếu nghĩ rằng bạn sẽ không bao giờ bị ăn trộm vô nhà, bạn sẽ để ngỏ cửa sổ và tiền nằm trên bàn gương. Nếu bạn nghĩ bạn không bao giờ bị vấp ngã về đạo đức bạn sẽ sống luông tuồng cẩu thả quên không đề phòng.
+
+**"Sự kiêu ngạo đi trước sự bại hoại theo sau, và tánh tự cao đi trước sự sa ngã" (Châm ngôn 16:18)**. Đức Chúa Trời cho chúng ta chọn lựa – chúng ta hạ mình xuống hoặc Chúa sẽ hạ chúng ta xuống. (**I Phi-e-rơ 5:5-6**).
+
+Đừng đùa với mình rằng điều đó không bao giờ có thể xảy ra với bạn: nó có thể xảy ra. Nếu bạn nghĩ nó không thể xảy ra thì gần như chắc chắn nó sẽ xảy ra.
+
+Là mục sư, tôi có lần tư vấn cho một phụ nữ rồi thình lình nhận ra bà ta đang để ý tôi. Đó là điều làm tôi sợ hãi. Tôi đã có linh tính ngay từ đầu... nhưng sự để ý của bà ta làm tôi thích thú.
+
+Bởi vì tôi chưa hoàn toàn có cảm tình với bà ta, tôi bị cám dỗ đưa ra lý lẽ biện hộ. Mặc dù vậy, trong thâm tâm, tôi nghe tiếng còi báo động. Tôi biết tôi đang đi trong cánh đồng gài mìn. Đức Chúa Trời nhắc nhở tôi là bất cứ tội ngoại tình nào mà tôi từng biết đều bắt đầu với một điều gì đó "vô hại". Vì thế tôi đã bỏ chạy.
+
+Tôi thu xếp cách khác. Bà ta tiếp tục được tư vấn... với một người khác. Quyết định của tôi có thể làm bà bị tổn thương. Nhưng cái giá phải trả chỉ nhỏ thôi. Chỉ có Đức Chúa Trời mới biết là điều gì có thể đã xảy ra nếu tôi làm ngược lại – và tôi không muốn điều đó xảy ra.
+
+Chúng ta có khuynh hướng dễ bị ngã gục nhất khi chúng ta mệt mỏi, đơn độc, cô đơn, nản lòng, buồn rầu, tức giận, hoặc mối quan hệ đang gặp trục trặc, đặc biệt là với người phối ngẫu. Đừng nghĩ rằng ngay lúc đó ma quỉ không biết chuyện gì đang xảy ra hoặc chần chừ trong việc tấn công chúng ta những dịp như vậy. **"Ma quỉ dùng hết cách cám dỗ Ngài rồi, bèn tạm lìa Ngài chờ dịp khác" (Luca 4:13)**.
+
+Lời cảnh cáo của Phao-lô đáng dán trước mắt tôi trên xe hơi, trên bàn làm việc, sổ tay công tác, và sổ nhật ký kỹ thuật số: **"Vậy thì, ai tưởng mình đứng, hãy giữ kẻo ngã" (I Cô-rinh-tô 10:12)**.
+
+Câu trên có thể diễn giải như sau: *"Nếu bạn nghĩ rằng bạn không cần đề phòng... bạn có thể đánh vần tên của bạn là... N-g-u-d-ố-t"*.
+
+### Sự thật là như vậy
+
+Vi phạm các tiêu chuẩn đạo đức của Đức Chúa Trời giống như vi phạm luật về trọng lực – bạn không thể là ngoại lệ:
+
+**"Chớ hề dối mình; Đức Chúa Trời không chịu khinh dể đâu; vì ai gieo giống chi, lại gặt giống ấy. Kẻ gieo cho xác thịt, sẽ bởi xác thịt mà gặt sự hư nát; song kẻ gieo cho Thánh Linh, sẽ bởi Thánh Linh mà gặt sự sống đời đời. Chớ mệt nhọc về sự làm lành, vì nếu chúng ta không trễ nải, thì đến kỳ, chúng ta sẽ gặt." (Ga-la-ti 6:7-9)**.
+
+Sớm muộn gì tội tà dâm sẽ bị phơi bày. **"Phải biết rằng tội lỗi sẽ đổ lại trên các ngươi." (Dân-số-ký 32:23)**.
+
+Vua Sa-lô-môn nói rằng, **"Người nào theo sự ngay thẳng đi vững chắc; còn kẻ làm cong vạy đường lối mình bị chúng biết" (Châm ngôn 10:9)**.
+
+Đây là một ý tưởng mà mọi người phải dừng lại để suy nghĩ. Không có cái gì được gọi là những phút giây riêng kín.
+
+Chúa Giê-xu đã từng khuyến cáo các môn đồ của Ngài: **"Chẳng có sự gì giấu mà không phải lộ ra, chẳng có sự gì kín mà không được biết. Vậy nên mọi điều mà các ngươi đã nói nơi tối, sẽ nghe ra nơi sáng: mọi điều mà các ngươi đã nói vào lỗ tai trong buồng kín sẽ giảng ra trên mái nhà." (Luca 12:2-3)**.
+
+Một trong những chiến thuật cũ kỹ nhất của Sa-tan là dệt một lưới riêng tư giả tạo, khiến chúng ta có ảo tưởng về sự riêng tư khi đưa ra những lựa chọn tội lỗi. Nó bảo chúng ta rằng, *"Không ai theo dõi bạn đâu. Không ai biết đâu"*.
+
+Nhưng hắn nói dối. Có người luôn chú ý chúng ta – là khán giả duy nhất. Một người lúc nào cũng biết hết. Và chẳng bao lâu nữa, nhiều người cũng sẽ biết. Chúng ta không bao giờ trốn tránh được.
+
+### Hậu quả của tội tà dâm
+
+Thuốc kháng sinh ngăn ngừa hoặc chữa trị một số bệnh lây nhiễm đường tình dục. Thuốc ngừa thai giảm khả năng thụ thai. Nhưng không có thuốc ngừa thai nào cho lương tâm.
+
+Y khoa có thể tiêu diệt vài hậu quả của tội lỗi do tội gây nên. Nhưng y khoa không làm tôi tránh được trách nhiệm trước mặt Thượng Đế.
+
+Thượng Đế phán, **"Người nào xây tai không khứng nghe luật pháp, lời cầu nguyện người ấy cũng là một sự gớm ghiếc." (Châm ngôn 28:9)**. Nếu chúng ta không thực hành sống thánh khiết, nó sẽ vô hiệu hoá sự cầu nguyện và sự phục vụ Chúa của chúng ta.
+
+Tội tà dâm làm ngăn trở mối thông công với Ngài. Nếu chúng ta đang bị tội tà dâm trói buộc, chỉ có một lời cầu nguyện mà Ngài muốn nghe – đó là lời cầu nguyện xưng tội và ăn năn.
+
+Tội lỗi của A-can dẫn đến cái chết của ba mươi sáu người Y-sơ-ra-ên và gia đình ông ta (**Giô-suê 7:1-26**). Ngài tể trị mỗi đời sống chúng ta, nhưng rõ ràng là những tội lỗi riêng tư của một cá nhân có thể đem lại hậu quả kinh khủng cho những người khác.
+
+Khi Cindy mười hai tuổi, cha của cô ta, một vị lãnh đạo của hội thánh, đã phạm tội ngoại tình với một người đàn bà trong hội thánh và rời bỏ gia đình. Bị tổn thương sâu nặng, người mẹ yêu mến Chúa của Cindy đã vội vã thiếu khôn ngoan lập gia đình với người ngoại.
+
+Tin đồn lan sâu vào cộng đồng, Cindy phải sống với những cái nhìn thương hại và khinh bỉ mỗi khi cô ta đi ra ngoài phố. Nhưng việc ngày càng tồi tệ. Cindy quan hệ bất chính với nhiều người đàn ông khác nhau, kể cả quan hệ tình dục nhiều lần. Mặc dù hoàn toàn chịu trách nhiệm về những hành động do mình gây nên, Cindy cũng đang gặt hậu quả những điều cha cô gieo ra (xem **Xuất Ê-díp-tô ký 20:5**).
+
+Bà vợ nào có chồng bị vướng vào phim ảnh khiêu dâm sẽ làm chứng được rằng điều này gây một ảnh hưởng sâu sắc đối với sự thân mật vợ chồng.
+
+Có một người đàn ông rất tích cực trong công tác phục vụ Chúa đã phải xin nghỉ vì sinh hoạt đồng tính luyến ái. Tôi hỏi: *"Điều gì đáng lẽ có thể giúp ngăn chặn sự việc đã xảy ra?"*
+
+Sau khi suy nghĩ một lát, anh trả lời, *"nếu ai đó trước đây mà giúp tôi thấy được thảm kịch nó sẽ mang lại cho sự hầu việc Chúa của tôi và thấy trước được nó làm ô danh Cơ Đốc Nhân, có lẽ tôi đã không bao giờ làm như vậy."*.
+
+### Nhận diện sự nói dối của Sa-tan
+
+Chúa Giê-xu đã nói về Sa-tan, **"khi nó nói dối, thì nói theo tánh riêng mình, vì nó vốn là kẻ nói dối, và là cha của sự nói dối." (Giăng 8:44)**.
+
+Sa-tan là kẻ nói dối trơn tru và đầy thuyết phục. Chúa Giê-xu nói ra lẽ thật giúp giải phóng chúng ta khỏi tội lỗi (**Giăng 8:32**).
+
+Phao-lô nói, **"chúng ta chẳng phải là không biết mưu chước của chúng" (II Cô-rinh-tô 2:11)**. Nhưng ngày nay chúng ta rất thường không nhận biết. Chúng ta cần nhận ra điều Sa-tan làm để tiêu diệt chúng ta – để chúng ta thấy khi chúng đến và chống trả chúng.
+
+**"Hãy tỉnh thức và tiết độ. Vì kẻ thù anh em là ma quỉ như sư tử rống đi rình mò xung quanh anh em, tìm kiếm người nào nó có thể nuốt được." (I Phi-e-rơ 5:8)**.
+
+Đôi khi, khi có một hình ảnh khiêu dâm nào đó chợt hiện đến, khi tôi nhắm mắt hoặc quay chỗ khác, tôi hình dung đến một mồi câu có ngạnh ở cuối đầu dây câu. Nếu tôi chần chừ chỉ một chút thôi – nếu tôi thậm chí nghĩ đến việc nhấm nháp miếng mồi đó – tôi tưởng tượng nó sẽ đâm xuyên lưỡi, và xé rách thịt tôi. Tôi sẽ bị tóm và bị cuốn câu. Nhưng sự cám dỗ rất đẹp. Còn cách nào khác đâu để kẻ thù câu bắt và tiêu diệt chúng ta? Sự cám dỗ luôn luôn có vẻ tốt đẹp – nếu không chúng không thể cám dỗ chúng ta được.
+
+Nhưng Đức Chúa Trời chúng ta mạnh mẽ hơn Sa-tan: **"Đấng ở trong các con là lớn hơn kẻ ở trong thế gian" (I Giăng 4:4)**.
+
+**"Quyền phép Đức Chúa Trời đã ban cho chúng ta mọi điều thuộc về sự sống và sự tin kính, khiến chúng ta biết Đấng lấy vinh hiển và nhơn đức mà gọi chúng ta, - và bởi vinh hiển nhơn đức ấy, Ngài lại ban lời hứa rất quí rất lớn chúng ta, hầu cho nhờ đó anh em được lánh khỏi sự hư nát của thế gian bởi tư dục đến, mà trở nên người dự phần bổn tánh Đức Chúa Trời" (I Phi-e-rơ 1:3-4)**.
+
+Đức Chúa Trời cảnh cáo những con người đầu tiên trên trái đất rằng nếu họ ăn trái cấm, **"con chắc chắn sẽ chết"**. Còn Sa-tan thì nói: **"Chắc chắn ngươi không chết đâu."**. Mỗi khi chúng ta bị cám dỗ phạm tội tà dâm, chúng ta phải chọn giữa hai tiếng nói – của Chúa hoặc Sa-tan.
+
+Thế thì bạn tin lời của ai?
+
+### Sự vui thỏa trội vượt
+
+Một hình ảnh gợi dục cám dỗ trí óc tôi đến với nhục dục. Thế gian, xác thịt, và ma quỉ pháo kích quanh tôi với thông điệp: tôi sẽ cảm thấy là một người đàn ông, nó sẽ giúp tôi hết đau, hết thất vọng, hết căng thẳng; tôi sẽ hạnh phúc hơn. *"Đức Chúa Trời chỉ đang ngăn tôi không được hưởng điều tốt đẹp,"* ma quỉ thì thầm vào tai tôi.
+
+Lời của Đức Chúa Trời chỉ rõ lời nói dối trong thông điệp đó. Nó cho tôi biết hạnh phúc thật sự chỉ có thể tìm thấy trong Chúa.
+
+Tôi chỉ còn một sự lựa chọn – hoặc Sa-tan hoặc Chúa.
+
+Tôi phải lựa chọn giữa sự mơ tưởng tình dục hoặc sự gần gũi với Chúa. Tôi không thể có cả hai. Khi tôi thấy rằng Chúa cho tôi những niềm vui và lạc thú mà thú vui nhục dục không có được thì đây mới là sự đột phá. Nhưng sự đột phá đó chỉ đến khi tôi đeo đuổi Chúa, có Chúa là mục đích của sự tìm kiếm của tôi – và khi tôi ý thức được rằng những thú vui nhục dục chỉ là một thứ rẻ tiền thay thế cho Chúa. Chạy đến với chúng là chạy xa rời Chúa.
+
+Khi Đấng Christ thỏa mãn sự khát khao niềm vui của tôi, tội lỗi trở nên không còn hấp dẫn nữa. Tôi cự tuyệt những thú vui tội lỗi thoáng qua, không phải bởi vì tôi không muốn lạc thú, nhưng bởi vì tôi muốn lạc thú thật sự, một lạc thú có ý nghĩa hơn và lâu bền mà chỉ có thể tìm thấy trong Đấng Christ.
+
+John Piper đã viết rằng: *"Ngọn lửa của thú vui xác thịt phải bị chiến đấu với ngọn lửa của thú vui do Đức Chúa Trời ban. Nếu chúng ta cố gắng chiến đấu chống lại ngọn lửa của xác thịt chỉ bằng sự cấm đoán hoặc đe doạ – thậm chí với những lời cáo trách khủng khiếp của Chúa Giê-xu – chúng ta sẽ thất bại. Chúng ta phải chiến đấu chống lại nó với lời hứa to lớn có được niềm vui trội vượt hơn. Chúng ta phải nuốt chửng tia lửa nhỏ bé của niềm vui xác thịt trong ngọn lửa bừng bừng của sự thỏa mãn thuộc linh."*.
+
+Những kẻ nào uống sự tà dâm sẽ không bao giờ thỏa mãn (Giăng 4:13**).
+
+Kẻ nào uống Chúa Giê-xu được hoàn toàn thỏa mãn (**Giăng 6:35**).
+
+Tôi có thể hoặc là thoả mãn cơn khát trong Chúa Giê-xu hoặc lao sâu vào tội lỗi để tìm kiếm điều mà không hề có ở đó. Phần đời còn lại của bạn phần lớn được quyết định bởi cách bạn trả lời câu hỏi này.
+
+Bạn tin ai?
