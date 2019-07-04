@@ -164,6 +164,8 @@ $color_grey_dark = #a2a2a2
   @media (max-width: 799px)
     flex-direction: column
     max-width: 450px
+    .post-image
+      width: 100%
     .post-content
       width auto
       &:before
