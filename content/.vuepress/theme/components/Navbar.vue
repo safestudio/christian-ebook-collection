@@ -30,17 +30,17 @@
         v-if="isAlgoliaSearch"
         :options="algolia"
       />
-      <EnhancedSearchBox v-else-if="$site.themeConfig.search !== false"/>
+      <EnhancedSearchBox v-else-if="$site.themeConfig.search !== false && $page.frontmatter.search !== false"/>
       <NavLinks class="can-hide"/>
     </div>
   </header>
 </template>
 
 <script>
-import SidebarButton from './SidebarButton.vue'
 import AlgoliaSearchBox from '@AlgoliaSearchBox'
 import EnhancedSearchBox from '@EnhancedSearchBox'
-import NavLinks from './NavLinks.vue'
+import SidebarButton from '@theme/components/SidebarButton.vue'
+import NavLinks from '@theme/components/NavLinks.vue'
 
 export default {
   components: { SidebarButton, NavLinks, EnhancedSearchBox, AlgoliaSearchBox },
@@ -124,5 +124,5 @@ $navbar-horizontal-padding = 1.5rem
     .can-hide
       display none
     .links
-      padding-left 0
+      padding-left 1.5rem
 </style>

@@ -54,6 +54,12 @@ export function isActive (route, path) {
 }
 
 export function resolvePage (pages, rawPath, base) {
+  if (isExternal(rawPath)) {
+    return {
+      type: 'external',
+      path: rawPath
+    }
+  }
   if (base) {
     rawPath = resolvePath(rawPath, base)
   }
@@ -143,7 +149,6 @@ export function resolveSidebarItems (page, regularPath, site, localePath) {
  * @returns { SidebarGroup }
  */
 function resolveHeaders (page) {
-  alert(page);
   const headers = groupHeaders(page.headers || [])
   return [{
     type: 'group',
@@ -193,7 +198,7 @@ export function resolveMatchingConfig (regularPath, config) {
     }
   }
   for (const base in config) {
-    if (ensureEndingSlash(regularPath).indexOf(base) === 0) {
+    if (ensureEndingSlash(regularPath).indexOf(encodeURI(base)) === 0) {
       return {
         base,
         config: config[base]
@@ -222,13 +227,12 @@ function resolveItem (item, pages, base, groupDepth = 1) {
         '[vuepress] detected a too deep nested sidebar group.'
       )
     }
-    const type = item.type || ''
-    if ('book_collection' === type) {
-      item.children = item.books.map(book => item.basePath + book)
-      delete item.books
-      delete item.type
-    }
     const children = item.children || []
+    if (children.length === 0 && item.path) {
+      return Object.assign(resolvePage(pages, item.path, base), {
+        title: item.title
+      })
+    }
     return {
       type: 'group',
       path: item.path,

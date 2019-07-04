@@ -18,8 +18,8 @@ module.exports = (options, ctx) => ({
   },
 
   plugins: [
-    '@vuepress/active-header-links',
-    '@vuepress/plugin-nprogress',
+    ['@vuepress/active-header-links', options.activeHeaderLinks],
     '@safestudio/vuepress-plugin-enhanced-search',
+    '@vuepress/plugin-nprogress',
   ]
 })
