@@ -1,3 +1,4 @@
+const siteURL = 'https://cec.safestudio.tech'
 module.exports = {
   title: 'Christian Ebook Collection',
   description: '🎉 A collection of Christian e-book',
@@ -42,7 +43,6 @@ module.exports = {
   ],
   serviceWorker: true,
   base: '/',
-  ga: 'UA-108003633-2',
   themeConfig: {
     repo: 'SafeStudio/christian-ebook-collection',
     repoLabel: 'Contribute!',
@@ -52,14 +52,22 @@ module.exports = {
     nav: [
       { text: "Books", link: "/books/" }
     ],
-    serviceWorker: {
-      updatePopup: true,
-    },
     sidebar: 'auto',
   },
   plugins: [
+    'vuepress-plugin-nprogress',
+    ['sitemap', { hostname: siteURL }],
+    ['@vuepress/google-analytics', {
+      ga: 'UA-108003633-2'
+    }],
+    ['@vuepress/pwa', {
+      serviceWorker: true,
+      updatePopup: {
+        message: "New content is available.",
+        buttonText: "Refresh"
+      }
+    }],
     '@vuepress/back-to-top',
-    '@vuepress/pwa',
     'vuepress-plugin-reading-time',
   ]
 };
