@@ -1,4 +1,6 @@
 ---
 title: Book List
-view: card
+permalink: /books.html
+sidebar: false
 ---
+<Posts post-type="book" />

@@ -55,15 +55,7 @@ module.exports = {
     serviceWorker: {
       updatePopup: true,
     },
-    sidebar: [{
-      title: 'Dưỡng linh',
-      collapsable: false,
-      type: 'book_collection',
-      basePath: '/books/duong-linh/',
-      books: [
-        'binh-an-voi-chua',
-      ],
-    }, ],
+    sidebar: 'auto',
   },
   plugins: [
     '@vuepress/back-to-top',

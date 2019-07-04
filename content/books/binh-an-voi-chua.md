@@ -1,11 +1,16 @@
 ---
 title: Bình an với Chúa
-description: Bình an với Chúa
+description: Đây là quyển sách đã được tác giả là Mục sư Tiến sĩ BILLY GRAHAM viết và xuất bản từ năm 1953 vào thời điểm thế giới vừa trải qua trận đại chiến kinh hoàng kéo dài từ 1939 đến năm 1945. Thời điểm mà cả một thế hệ phải sống trong nơm nớp lo âu, sợ hãi. Nhiều thanh niên đang ở đỉnh cao của tuổi xuân đầy hứa hẹn lại tìm nhiều cách khác nhau để tìm đến cái chết chỉ vì mất phương hướng.
 lang: vi-VN
+type: book
 coverImage: /covers/duong-linh/binh-an-voi-chua.jpg
+permalink: /books/duong-linh/binh-an-voi-chua
 author: Billy Graham
-tags:
+categories:
   - Dưỡng linh
+tags:
+  - Bình an với Chúa
+  - Peace with God
   - Billy Graham
 ---
 
