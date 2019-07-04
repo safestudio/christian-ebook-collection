@@ -11,7 +11,13 @@
  * See https://goo.gl/2aRDsh
  */
 
-importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
+importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
+
+self.addEventListener('message', (event) => {
+  if (event.data && event.data.type === 'SKIP_WAITING') {
+    self.skipWaiting();
+  }
+});
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
@@ -21,55 +27,67 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "5da73e2a3380a8495bdf6c12a1102b57"
+    "revision": "afd73291bd12c000e49c5263d28bb1dd"
   },
   {
-    "url": "assets/css/0.styles.badf1985.css",
-    "revision": "309e85e49d67789912ec92523297a6f3"
+    "url": "assets/css/0.styles.c7e01926.css",
+    "revision": "7f845f65af8fb0e90ca8685bfcc34dc6"
   },
   {
     "url": "assets/img/search.83621669.svg",
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/2.4f7b2b53.js",
-    "revision": "430c98cdbd36e1691e2a93d8e9c4d845"
+    "url": "assets/js/10.5d6839f5.js",
+    "revision": "40d8c6b6584558b3dc8ca30755a1bfb6"
   },
   {
-    "url": "assets/js/3.2ac315c5.js",
-    "revision": "969ba75c119ce60e542f54c76b9c6f59"
+    "url": "assets/js/11.9a3e5890.js",
+    "revision": "bf887419a90bebcd84b33f547796ab9e"
   },
   {
-    "url": "assets/js/4.10e90eda.js",
-    "revision": "90a40140564bd93cafb8bb26b1e01941"
+    "url": "assets/js/2.384ae566.js",
+    "revision": "be33195d3342ba361b74e2b1e6310b7f"
   },
   {
-    "url": "assets/js/5.286113af.js",
-    "revision": "9d0edb9f367d9855f5d1d7e699da2591"
+    "url": "assets/js/3.fe61e286.js",
+    "revision": "b668c98fd45967e0797f882708d7797e"
   },
   {
-    "url": "assets/js/6.7eb40a24.js",
-    "revision": "24c91712db027a1e0c366e632652d3c3"
+    "url": "assets/js/4.71652e18.js",
+    "revision": "bc37f53e1acb4b5eebd78252f509d680"
   },
   {
-    "url": "assets/js/7.01d28b02.js",
-    "revision": "02793857364e6556403c481621884a87"
+    "url": "assets/js/5.a0738ed2.js",
+    "revision": "416350a5cdacf183e5eff3b1683d2076"
   },
   {
-    "url": "assets/js/8.9d686589.js",
-    "revision": "1d082a9222ca02644f26a6a304058b00"
+    "url": "assets/js/6.b641e348.js",
+    "revision": "8831740bbb696c3813cc9b000460e9f2"
   },
   {
-    "url": "assets/js/app.5f9baecc.js",
-    "revision": "dada7cea92894d5c4283056c741a22e8"
+    "url": "assets/js/7.35ff8529.js",
+    "revision": "fa8e3f41669851c9f082c43ada24a8bc"
   },
   {
-    "url": "books/duong-linh/binh-an-voi-chua.html",
-    "revision": "15b890835d647fdeb795f713d27d30c3"
+    "url": "assets/js/8.55195e20.js",
+    "revision": "e443550a5061a830213813b13c198c02"
   },
   {
-    "url": "books/index.html",
-    "revision": "364ad2f4736c909331284afcb09bb7ad"
+    "url": "assets/js/9.69cde510.js",
+    "revision": "c44839a919cb4229822b3fa01e69cfeb"
+  },
+  {
+    "url": "assets/js/app.e136366f.js",
+    "revision": "1efb8157b389e44eeffb54af6b673df4"
+  },
+  {
+    "url": "books.html",
+    "revision": "68544fcbb7f856036af922a657606570"
+  },
+  {
+    "url": "books/duong-linh/binh-an-voi-chua/index.html",
+    "revision": "111f8fa502527f6330ece0deae020389"
   },
   {
     "url": "covers/duong-linh/binh-an-voi-chua.jpg",
@@ -493,14 +511,13 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "ba3eefeb26495b1568cc2a29c4fbb5db"
+    "revision": "ef05ead6c7464fd99d414a23320a6477"
   },
   {
     "url": "logo.png",
     "revision": "c4c630599f5c5157b53281e7f8b7e697"
   }
 ].concat(self.__precacheManifest || []);
-workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 addEventListener('message', event => {
   const replyPort = event.ports[0]
