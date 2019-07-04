@@ -48,7 +48,6 @@ export default {
     posts() {
       return this.$site.pages
         .filter(item => {
-          console.log(item)
           return item.frontmatter.type === this.postType && item.path != "/";
         })
         .sort((a, b) => {
