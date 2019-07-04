@@ -31,13 +31,16 @@
   },
   "devDependencies": {
     "@safestudio/vuepress-plugin-enhanced-search": "^0.0.1",
-    "@vuepress/plugin-back-to-top": "^1.0.0-alpha.0",
-    "@vuepress/plugin-blog": "^1.0.0-alpha.0",
-    "@vuepress/plugin-pwa": "^1.0.0-alpha.0",
-    "markdownlint-cli": "^0.13.0",
-    "node-sass": "^4.11.0",
+    "@vuepress/plugin-back-to-top": "^1.0.2",
+    "@vuepress/plugin-blog": "^1.2.4",
+    "@vuepress/plugin-pwa": "^1.0.2",
+    "markdownlint-cli": "^0.17.0",
+    "node-sass": "^4.12.0",
     "sass-loader": "^7.1.0",
-    "vuepress": "^1.0.0-alpha.36",
+    "vuepress": "^1.0.2",
     "vuepress-plugin-reading-time": "^0.1.1"
+  },
+  "dependencies": {
+    "date-fns": "^1.30.1"
   }
 }
