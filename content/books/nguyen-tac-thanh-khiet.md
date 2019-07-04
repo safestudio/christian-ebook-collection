@@ -27,7 +27,7 @@ Cuốn sách "NGUYÊN TẮC THÁNH KHIẾT" của tác giả Randy Alcorn viết
 2. <a href="#chuong-2-loi-ich-ca-nhan-sang-suot">Chương 2: Lợi ích cá nhân sáng suốt</a>
 3. <a href="#chuong-3-co-gi-quan-trong-the-ve-tinh-duc">Chương 3: Có gì quan trọng về tình dục thế</a>
 4. <a href="#chuong-4-bi-nam-trong-tam-ngam-va-de-bi-ha-guc">Chương 4: Bị nằm trong tầm ngắm và dễ bị hạ gục</a>
-5. Chương 5: Cuộc chiến đấu nằm trong tâm trí của bạn
+5. <a href="#chuong-5-cuoc-chien-dau-nam-trong-tam-tri-cua-ban">Chương 5: Cuộc chiến đấu nằm trong tâm trí của bạn</a>
 6. Chương 6: Sách lược khôn ngoan
 7. Chương 7: Hành động triệt để
 8. Chương 8: Hướng dẫn cho người độc thân
@@ -485,10 +485,168 @@ Khi Đấng Christ thỏa mãn sự khát khao niềm vui của tôi, tội lỗ
 
 John Piper đã viết rằng: *"Ngọn lửa của thú vui xác thịt phải bị chiến đấu với ngọn lửa của thú vui do Đức Chúa Trời ban. Nếu chúng ta cố gắng chiến đấu chống lại ngọn lửa của xác thịt chỉ bằng sự cấm đoán hoặc đe doạ – thậm chí với những lời cáo trách khủng khiếp của Chúa Giê-xu – chúng ta sẽ thất bại. Chúng ta phải chiến đấu chống lại nó với lời hứa to lớn có được niềm vui trội vượt hơn. Chúng ta phải nuốt chửng tia lửa nhỏ bé của niềm vui xác thịt trong ngọn lửa bừng bừng của sự thỏa mãn thuộc linh."*.
 
-Những kẻ nào uống sự tà dâm sẽ không bao giờ thỏa mãn (Giăng 4:13**).
+Những kẻ nào uống sự tà dâm sẽ không bao giờ thỏa mãn (**Giăng 4:13**).
 
 Kẻ nào uống Chúa Giê-xu được hoàn toàn thỏa mãn (**Giăng 6:35**).
 
 Tôi có thể hoặc là thoả mãn cơn khát trong Chúa Giê-xu hoặc lao sâu vào tội lỗi để tìm kiếm điều mà không hề có ở đó. Phần đời còn lại của bạn phần lớn được quyết định bởi cách bạn trả lời câu hỏi này.
 
 Bạn tin ai?
+
+## Chương 5: Cuộc chiến đấu nằm trong tâm trí của bạn
+
+Brad là một sinh viên thần học đang chuẩn bị cho chức vụ. Một đêm kia anh ta cãi vã với vợ. Bực tức anh ta lái xe đến Starbucks để cho đầu óc tỉnh táo. Chẳng bao lâu, Brad say sưa trong cuộc nói chuyện với một thiếu nữ trẻ. Một vài giờ sau đó anh ta ngủ với cô ta.
+
+Brad đến gặp tôi, xấu hổ. "Tôi nói sao với vợ tôi bây giờ; cô ấy có tha thứ cho tôi không? Mọi việc thật bất ngờ – không hề có sự báo trước. Như là giữa trời xanh rơi xuống."
+
+Có thật là bất ngờ không?
+
+Brad đã học tập không ngơi nghỉ để hoàn tất chương trình thần học. Dần dà anh ta đã nhen nhúm sự bực bội với vợ, xem vợ con là chướng ngại vật. Anh ta không còn ngọt ngào hoặc nói chuyện một cách sâu sắc với vợ nữa.
+
+Thời gian gần đây anh ta đã xem tạp chí khiêu dâm. Anh ta đã xem phim đồi trụy. Tất cả những điều này dẫn đến sự việc kinh khủng "mà từ trên trời rơi xuống".
+
+Sự thực là tội tà dâm không bao giờ từ trên trời rơi xuống. Đó là kết quả có thể tiên đoán được của một quá trình tự nhiên. Quan hệ vợ chồng bị bỏ bê và tâm trí bị tiếp xúc với đồi truỵ.
+
+Tính cách của ngày mai là kết quả của những ý tưởng của ngày hôm nay. Sự cám dỗ có thể đến bất ngờ nhưng tội lỗi thì không. Sức mạnh đạo đức và tinh thần cũng không đến bất ngờ.
+
+Cả hai đều là kết quả của một quá trình mà ta kiểm soát được.
+
+Chúng ta trở thành những gì mà chúng ta suy nghĩ. Chúng ta hình thành nền tảng đạo đức tình dục thông qua một chuỗi những hành động và lựa chọn diễn ra liên tục, gồm cả những sự buông thả và những nhượng bộ nhỏ nhặt. Thường là dừng mắt chỗ này, tâm trí thơ thẩn chỗ kia. Giống như một bản kẽm tạo nên một hình ảnh, tâm trí chúng ta tích lũy những gì chúng ta tiếp cận - cả những điều thiêng liêng lẫn trần tục.
+
+Cuộc chiến đấu diễn ra trong tâm trí chúng ta.
+
+### Nơi xuất phát sự thèm khát nhục dục
+
+Thông thường người nào sa ngã thì thường hay bị cảm thấy bất ngờ. Họ hỏi: *"Điều này đến từ đâu vậy?"*. Kinh Thánh cho câu trả lời rất rõ ràng: **"vì từ nơi lòng mà ra những ác tưởng, những tội giết người, tà dâm, dâm dục." (Ma-thi-ơ 15:19-20)**.
+
+Chúa Giê-xu nói một cách súc tích rằng:
+
+**"Các ngươi có nghe lời phán rằng: Ngươi chớ phạm tội tà dâm. Song ta phán cho các ngươi biết; Hễ ai ngó đàn bà mà động tình tham muốn, thì trong lòng đã phạm tội tà dâm cùng người rồi." (Ma-thi-ơ 5:27-28)**.
+
+Người Pha-ra-si nhấn mạnh những điều bên ngoài. Chúa Giê-xu nâng chuẩn mực đạo đức lên nói rằng, sự thèm muốn nhục dục không những là nguồn gốc của sự gian dâm, mà bản thân nó chính là tội lỗi. Ngài bác bỏ lập luận của người Pha-ra-si rằng một người có thể được phép cởi bỏ quần áo của người phụ nữ trong đầu óc mà vẫn được kể là thánh khiết.
+
+Nhục dục được nuôi dưỡng bằng bất cứ điều gì chúng ta nạp vào đầu mà nó có thể dùng móng vuốt để chụp lấy. Những gì trong đầu chúng ta là cái mà chúng ta cho phép đi qua giác quan của mình. Hình ảnh và từ ngữ trong đầu chúng ta. Hình ảnh và từ ngữ trong đầu chúng ta phải đến từ những vật cụ thể mà mắt chúng ta đã nhìn thấy, tai từng nghe hoặc là tổng hợp của tất cả những yếu tố đầu vào đó.
+
+Những gì chúng ta nạp vào trí não sẽ quyết định chúng ta trờ thành loại người nào. Khi chúng ta đọc Kinh Thánh và sách lành mạnh, tham gia vào các buổi thảo luận về đề tài Chúa Giê-xu hoặc chăm sóc người khó khăn, chúng ta có khuynh hướng hướng về sự công bình.
+
+Câu châm ngôn xưa vẫn đúng: *"Gieo một ý nghĩ, gặt một hành động; gieo một hành động, gặt một thói quen; gieo một thói quen, gặt một tính cách; gieo một tính cách, gặt một số phận."*
+
+Hành động, thói quen, tính cách và số phận đều bắt đầu từ một ý nghĩ, và tư tưởng được nuôi dưỡng bằng những gì chúng ta chọn đưa vào đầu. Đó là lý do tại sao trí óc lại là cơ quan tình dục quan trọng nhất.
+
+Bạn đang nuôi sự nhục dục... hay đang bỏ đói nó?
+
+Bạn đang nuôi dưỡng lòng khao khát Chúa... hay đang bỏ đói nó?
+
+Sự ham muốn nào tỏ ra mạnh hơn? Cái nào mà bạn nuôi dưỡng nhiều hơn?
+
+### Đặt ra giới hạn
+
+Để giữ gìn sự thánh khiết, bạn cần đặt ra các giới hạn cho tâm trí.
+
+Trên thước đo từ một đến mười nấc, ngoại tình và ghiền phim ảnh khiêu dâm có thể là mức số 10 - nấc trên cùng. Nhưng vấn đề là những bậc dưới cùng là mức số mấy – mức một, hai, hay là ba? Khi chúng ta nhận diện được những bậc thang dưới cùng này, chúng ta có thể ngăn ngừa được tai hoạ.
+
+Thông thường chúng ta hay nói là mình muốn thánh khiết, nhưng lại đi chọn những thứ phá hoại sự thánh khiết. Sự lựa chọn luôn có hậu quả đi kèm với nó. Nếu chúng ta muốn hệ quả khác đi thì chúng ta phải lựa chọn khác đi. Một người đàn ông đã viết cho tôi như sau:
+
+Là một người đã tự hại mình, tôi đã nhanh chóng cảnh báo cho người khác về những hành vi "cửa ngõ" dẫn đến tội lỗi với hậu quả nặng nề hơn. Việc thỉnh thoảng thủ dâm có vẻ không phải là sự lựa chọn căn bản, nhưng tội lỗi đó sẽ đưa bạn đến đâu? Bạn sẽ đến lúc ăn nằm với vợ của một người bạn? Với một gái làng chơi? Có thể lắm, nếu không ngăn chặn lại, 10 năm tới bạn sẽ phạm tội lạm dụng tình dục trẻ em, với xe tải chở báo nằm che trên bãi cỏ trước nhà. Tội lỗi luôn leo thang. Đã bao nhiêu lần tôi nghe đàn ông nói, *"Tôi không tệ như vậy đâu"* Tôi luôn luôn nói thêm là, "... chưa đến lúc bị te chứ không phải là không tệ."
+
+Suốt nhiều năm tôi đã không dùng một lối đi vào siêu thị gần nhà chỉ vì ở lối vào đó có giá trưng bày tạp chí. Sau này, kỷ luật tâm trí của tôi mạnh mẽ đến mức tôi không thèm nhìn những tạp chí ấy nữa. Nhưng chỉ đến lúc ấy tôi mới giữ được giới hạn tôi đặt ra cho riêng mình. Làm như vậy là bất tiện, nhưng sự bất tiện là một giá phải trả không đáng kể để giữ gìn sự thánh khiết của tôi.
+
+Trong nhà chúng tôi có TV nhưng không xem truyền hình cáp. Không phải vì xem truyền hình cáp là sai nhưng vì chúng tôi không muốn có thêm sự cám dỗ trong nhà.
+
+Tôi không đang khuyên bạn phải làm như thế nào. Giới hạn đối với mỗi người mỗi khác. Giới hạn có thể là chọn không đứng xếp hàng chỗ quầy trả tiền nơi có trưng bày tạp chí khêu gợi. Hoặc chọn không đến một khu ăn chơi nào đó trong vùng. Hoặc không bao giờ đi công tác một mình.
+
+Giới hạn giúp ngăn không cho sự cám dỗ lấn một bước vào bạn. Nó dựa trên cơ sở là sự thánh khiết không thể củng cố nếu chúng ta cứ tiếp tục làm những gì chúng ta vẫn làm! Chúng ta phải thay đổi thói quen. Chúng ta là những lính gác được giao cho bảo vệ một thứ mang tính chiến lược hết sức quan trọng. Tổng Tư lệnh của chúng ta đã nói:
+
+**"Khá cẩn thận giữ tấm lòng của con hơn hết, Vì các nguồn sự sống do nơi nó mà ra." (Châm Ngôn 4:23)**
+
+**"Trên hết mọi sự"** có nghĩa là đây là công tác ưu tiên hàng đầu trên lịch công tác hàng ngày. Quan trọng nhất là chúng ta phải tránh cho lòng mình khỏi những nguồn cám dỗ. Chúng ta không được cung cấp đạn dược cho kẻ thù để chống lại chúng ta.
+
+Dĩ nhiên xác thịt của bạn sẽ đòi hỏi bạn phải cho nó nhiên liệu mới. "Cho tôi ăn," nó sẽ kêu gào. Nhưng bạn phải từ chối và cầu nguyện như vầy, **"Xin xây mắt tôi khỏi xem những vật hư không. Làm tôi được sống trong các đường lối của Chúa" (Thi Thiên 119:37)**. Quay mắt đi không nhìn đã là một phần của lời đáp lại cho lời cầu nguyện của bạn. (Hãy viết câu Kinh Thánh này và dán lên TV.)
+
+Chúng ta không làm theo thế giới này, nhưng phải được biến đổi bằng cách làm tươi mới tâm trí của chúng ta (Rô-ma 12:2) Chúng ta phải từ bỏ nhục dục, giết chết nó khi nó muốn vồ nắm chúng ta (Cô-lô-se 3:5). Chúng ta phải khẳng định chúng ta là tạo vật mới trong Đấng Christ, được bao phủ bởi sự công bình của Ngài (**I Cô-rinh-tô 5:17,21**).
+
+Tâm trí thanh sạch của bạn được nuôi dưỡng bởi Lời của Đức Chúa Trời, canh chừng đời sống tư tưởng của bạn. Nó chấp thuận những gì đẹp lòng Chúa và không đồng ý với những gì ngược lại.
+
+### Lấp đầy tâm trí bằng những ý tưởng thánh khiết
+
+Đợi một chút. Tôi muốn bạn làm theo sự chỉ dẫn của tôi. Sẵn sàng chưa? OK... Đừng nghĩ đến rắn. Đừng – tôi lặp lại, Đừng nghĩ đến những con rắn to trơn ướt chui lên khỏi ống thoát nước trong bồn tắm vào buồi tối và trườn vào giường bạn.
+
+Bạn nghe tôi nói rồi đó. Đừng nghĩ đến rắn.
+
+Có phải tôi đã ngăn không cho bạn nghĩ đến rắn không? Không đúng. Thực sự tôi đã khuyến khích bạn nghĩ đến chúng.
+
+Còn bây giờ tôi muốn bạn tưởng tượng đến món tráng miệng mình ưa thích. Có thể đó là món bánh táo Đan Mạch mẹ bạn hay làm hoặc món bánh quy sô-cô-la, hoặc kem xốp hạnh nhân Jamoca, hay món Blizzard Butterfinger. Hãy nghĩ đến món khoái khẩu đó làm bạn chảy nước miếng.
+
+Điều gì đã xảy ra trong mấy phút vừa qua? Bạn đã quên mất mấy con rắn trườn vào giường... cho đến khi tôi lại nhắc đến chúng.
+
+Tâm trí chúng ta không phải là khoang chân không. Nó luôn phải chứa đầy một cái gì đó. Những ý tưởng bậy bạ bị những ý tưởng thanh khiết đẩy ra ngoài.
+
+"Rốt lại, hỡi anh em, phàm điều chi chân-thật, điều chi đáng tôn, điều chi công-bình, điều chi thanh-sạch, điều chi đáng yêu-chuộng, điều chi có tiếng tốt, điều chi có nhân-đức đáng khen, thì anh em phải nghĩ đến." (Phi-líp 4:8)
+
+Thật khó mà xoá những tập tin có nội dung xấu ra khỏi ổ cứng trong đầu bạn, nhưng chúng ta có thể hạn chế số lượng tập tin xấu mới đi vào. Rồi chúng ta có thể mở ra nhiều tập tin tốt. Đây là hiệu ứng nhân quả. Chúng ta càng lấp đầy tâm trí với sự thánh khiết và càng ít cho vào những điều bất khiết bao nhiêu, thì sự thánh khiết và khả năng chống lại cám dỗ của chúng ta càng tăng lên.
+
+**"Chúng ta bắt mọi ý tưởng phải vâng phục Đấng Christ" (II Cô-rinh-tô 10:5)**. Khi ý tưởng xấu đến, chúng ta sửa trị nó, thay nó bằng lẽ thật của Đức Chúa Trời.
+
+Martin Luther đã nói, *"Bạn không thể ngăn chim chóc bay lượn trên đầu bạn, nhưng bạn có thể ngăn chúng không làm tổ trên tóc của bạn."*. Đúng vậy, chúng ta không thể ngăn thế gian ném những hình ảnh xấu vào chúng ta. Nhưng chúng ta có thể ngăn không cho chúng làm tổ trong tâm trí của chúng ta. Chúng ta có thể nhanh chóng tống khứ chúng ra ngoài.
+
+Thủ dâm thường được khơi dậy bởi mắt hay liếc dọc liếc ngang và một tâm trí vô kỷ luật. Khi chúng ta thủ dâm, chúng ta đang chữa một vết đau – có thể là sự cô đơn, nản lòng, bị bỏ rơi hoặc sợ hãi. Có điều gì đó sâu xa hơn lòng ham muốn hiển nhiên. Chúng phải giải quyết cái gốc của vấn đề, xin Chúa giúp đáp ứng được nhu cầu khiến cho chúng bị cám dỗ làm như vậy. Tự nói với mình như vầy sẽ giúp bạn, *"Xem cuốn tạp chí khiêu dâm này chẳng giải quyết được vấn đề gì; nó chỉ tạo thêm vấn đề, làm thương tổn và sự cô đơn."*.
+
+Chỉ nói *"Tôi sẽ không thủ dâm nữa"* là chưa đủ. Ý định tốt không tiêu diệt được nhục dục. Trừ khi chúng ta canh giữ mắt và tâm trí, chúng ta sẽ bị rơi lại vào thói quen cũ.
+
+Chiến thắng chắc chắn sẽ giành được – hôm nay tôi vừa nói chuyện với một người trước đây ghiền sex đã bỏ được tật thủ dâm hai năm nay. Nhưng chiến thắng sẽ không đến nếu chúng ta cho phép tâm trí tiêu thụ những thứ làm thổi bùng sự thèm khát dẫn đến hành động thủ dâm. Chìa khoá thắng lợi của người anh em này là anh ta đã canh giữ tâm trí của mình.
+
+Trong lúc những thôi thúc khác tồn tại để duy trì đời sống thuộc thể của chúng ta, nhu cầu tình dục không có tác dụng này (**I Cô-rinh-tô 6:12-13**). Chúng ta sẽ chết nếu không ăn uống. Chúng ta sẽ không chết nếu không có hành vi tình dục.
+
+Cho dù sự khao khát có mạnh mẽ đến đâu, tình dục không bao giờ là một nhu cầu khẩn cấp, hay nhu cầu thiết yếu. Một người bạn nói với tôi, *"Chưa có ai bị nổ tung vì tinh trùng độc hại tích tụ."*
+
+Khi chúng ta học được cách ngăn chặn lòng ham muốn xác thịt, chúng ta bắt đầu làm chủ được nó. Dần dần sự đòi hỏi của nó bớt gay gắt, dễ điều khiển hơn.
+
+### Tác hại của sự thèm muốn xác thịt
+
+Sự thèm muốn xác thịt là một sự khao khát trong tâm trí. Đó là lý do tại sao lập gia đình không giải quyết được lòng thèm khát này. Một người đàn ông hay nhìn những phụ nữ khác sẽ cứ làm như vậy hoài. Một người đàn ông thủ dâm sẽ cứ mãi thủ dâm.
+
+Một người ưa xác thịt sẽ xem hết hình này qua hình khác, ngủ với hết người này đến người khác.
+
+Những đàn ông có vợ đẹp có nguy cơ bị ghiền phim ảnh khiêu dâm cũng nhiều như những đàn ông khác. Đó là một chứng bệnh của tâm hồn. Nó chỉ càng lúc càng tệ hơn trừ khi biết ăn năn và thay đổi. (Tôi thêm chữ thay đổi vì nhiều người "ăn năn" tới lui hoài, rồi lại trở lại sự ràng buộc của tật cũ.)
+
+Kẻ ham muốn xác thịt bước đi với nút thòng lọng xiết quanh cổ. Hắn ta là kẻ ngoại tình chỉ chờ một người đàn bà ngoại tình khác đến tay. Cô ta có thể là trong trí tưởng tượng hoặc có thật, nhưng cô ta chắc chắn sẽ đến.
+
+Có người biện luận cho sự ham muốn xác thịt vì người phối ngẫu không thoả mãn nhu cầu tình dục của họ. Vậy thử hỏi ở đâu họ có được ý tưởng về nhu cầu của họ? Đó là từ các phương tiện truyền thông, từ những nam siêu sao và phụ nữ với những số đo được làm tăng lên nhờ giải phẫu và ăn kiêng kham khổ, lao vào nhau. Đức Chúa Trời đưa ra những đặc điểm khác để lựa chọn bạn đời (**I Phi-e-rơ 3:3-4**).
+
+### Điều giao ước với mắt của bạn
+
+Gióp nói rằng: **"Tôi hứa với mắt của tôi không nhìn phụ nữ một cách thèm thuồng" (Gióp 31:1)**.
+
+Gióp đã lập một giao ước giữa ông và Đức Chúa Trời gìn giữ lòng mình bằng cách gìn giữ mắt mình. Những câu Kinh Thánh sau đó nói rõ hậu quả kinh khủng nếu ông không sống đúng với lời hứa này (**Gióp 31:2-12**).
+
+Bạn đã lập giao ước với mắt của bạn không được nhìn khi không nên nhìn chưa?
+
+Phải lập tức tránh mắt khỏi bất kỳ điều gì lôi cuốn đến sự thèm muốn xác thịt?
+
+Bạn có đang thực hiện giao ước thánh khiết này khi bạn đi trong sân trường? Khi bạn tập thể dục? Khi bạn lái xe? Khi bạn chọn kênh TV? Khi bạn ở nhà thờ?
+
+Bạn đã tuyên bố giao ước này với mọi người? Bạn đã nhờ những người khác cầu thay và bắt bạn chịu trách nhiệm?
+
+### Tẩy sạch chất độc của sự thèm khát xác thịt
+
+Chất độc arsenic có một tác dụng tích lũy dần. Nó giết chết bạn, nhưng không phải ngay lập tức.
+
+Không cần liều lớn. Chỗ này một chút, chỗ kia một chút, và cuối cùng thì... bạn chết.
+
+Tà dâm là một thứ giết người đối với đời sống và hôn nhân của Cơ Đốc nhân. Chúng ta tự đầu độc mình mỗi ngày, mỗi ngày một chút. Cuốn tiểu thuyết này, cuốn phim đó, tạp chí kia, cuốn lịch nọ, cái liếc mắt kia, lời tán tỉnh này, phút đồng tình yên lặng với một câu chuyện bậy bạ.
+
+Chất độc arsenic này đối với tâm hồn đầu độc chúng ta dần dần, khiến chúng ta không cảm thấy gì khác biệt lắm với ngày hôm qua, nhưng chúng ta dần trở nên khác với chúng ta cách đây 5 năm.
+
+Bạn có tin điều này không?
+
+Nếu tin, bạn hãy thưa với Chúa, "Con biết những hình ảnh khiêu dâm này đang đầu độc con. Xin cho con sự khôn ngoan và nghị lực để quay khỏi chúng. Xin hãy cho con quay đến những gì làm đẹp lòng Ngài."
+
+Dần dà, do ăn uống đúng những gì mình cần, bạn xả trôi đi thứ arsenic này khỏi cơ thể bạn. Nhưng bạn không thể hồi phục nếu không tẩy thứ chất độc này ra khỏi bạn!
+
+Nếu bạn thật sự tin rằng một loại gì đó là thuốc độc, và tránh không đụng đến nó một thời gian, điều kỳ diệu sẽ đến. Sự thèm khát của bạn đối với chất độc giảm đi. Bạn mạnh khoẻ trở lại. Sách Rô-ma đoạn 7 nói rất rõ một cách đau lòng về sự kiềm kẹp mà dục vọng siết chặt chúng ta. Nhưng nhiều người đã tìm thấy chiến thắng sau nhiều năm dài mệt mỏi với xác thịt và sách khiêu dâm.
+
+Trong nhiều thập niên tôi đã tin rằng hình ảnh khiêu dâm trên TV và điện ảnh là thuốc độc. Vâng, tôi vẫn có một thôi thúc muốn nhìn chúng, nhưng sự thèm muốn đó bị chế ngự bởi một bản năng quay mắt đi không nhìn. Bạn gọi tên nó là cái gì cũng được, nhưng quay mắt đi không nhìn đã trở thành một thói quen khắc sâu. Đôi khi tôi vẫn vấp ngã, nhưng không giống như tôi bị trước đây nhiều năm. Chúng ta là sản phẩm của thói quen – Đức Thánh Linh có thể ban sức cho chúng ta hình thành những thói quen mới.
+
+Bằng cách chọn tránh xa khỏi sự cám dỗ tình dục, bằng cách lập giao ước với mắt của mình – và bởi ân điển năng quyền của Đức Chúa Trời – tôi chọn con đường đời và những phước hạnh đi kèm với nó. Khi tôi nói không với sự cám dỗ, tôi nói vâng với Chúa. Ngài đẹp lòng và được vinh hiển.
+
+Và không ai được hưởng phước nhiều hơn tôi.
