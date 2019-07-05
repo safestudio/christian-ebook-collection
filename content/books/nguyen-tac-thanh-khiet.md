@@ -3,7 +3,7 @@ title: Nguyên tắc thánh khiết
 description: Cuốn sách "NGUYÊN TẮC THÁNH KHIẾT" của tác giả Randy Alcorn viết về các biện pháp bảo vệ của Đức Chúa Trời trước những con đường nguy hiểm trong cuộc sống. Đây là một quyển sách nhỏ với một tác động thật to lớn! Randy Alcorn dập tắt mọi ánh mắt sáng le lói của sự bất khiết về mặt tính dục và cho thấy vì sao sự thánh khiết lại triệu lần tốt đẹp hơn.
 lang: vi-VN
 type: book
-coverImage: /covers/duong-linh/nguyen-tac-thanh-khiet.jpg
+cover: /covers/duong-linh/nguyen-tac-thanh-khiet.jpg
 permalink: /books/duong-linh/nguyen-tac-thanh-khiet
 author: Randy Alcorn
 categories:

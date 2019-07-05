@@ -2,9 +2,9 @@
   <div class="container">
     <div class="posts" v-if="filteredPosts.length">
       <article class="post-card" v-for="post in filteredPosts" :key="post.key">
-        <img class="post-image" :src="post.frontmatter.coverImage" />
+        <img class="post-image" :src="post.frontmatter.cover" />
         <div class="post-content">
-          <h1 class="post-title">{{ post.frontmatter.title }}</h1>
+          <h1 class="post-title"><a :href="post.frontmatter.permalink">{{ post.frontmatter.title }}</a></h1>
           <div class="post-author">By {{ post.frontmatter.author }}</div>
           <div class="post-tags">
             <span class="post-tag" v-for="tag in post.frontmatter.tags"><a href="#">{{ tag }}</a></span>
@@ -121,7 +121,7 @@ $color_grey_dark = #a2a2a2
     z-index: 1
     h1,
     h2
-      font-family: Poppins, sans-serif
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
     h1
       line-height: 1
       margin: 0
