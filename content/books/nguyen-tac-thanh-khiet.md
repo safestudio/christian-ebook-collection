@@ -1,6 +1,6 @@
 ---
 title: Nguyên tắc thánh khiết
-description: Cuốn sách "NGUYÊN TẮC THÁNH KHIẾT" của tác giả Randy Alcorn viết về các biện pháp bảo vệ của Đức Chúa Trời trước những con đường nguy hiểm trong cuộc sống. Đây là một quyển sách nhỏ với một tác động thật to lớn! Randy Alcorn dập tắt mọi ánh mắt sáng le lói của sự bất khiết về mặt tính dục và cho thấy vì sao sự thánh khiết lại triệu lần tốt đẹp hơn.
+description: Cuốn sách "NGUYÊN TẮC THÁNH KHIẾT"của tác giả Randy Alcorn viết về các biện pháp bảo vệ của Đức Chúa Trời trước những con đường nguy hiểm trong cuộc sống. Đây là một quyển sách nhỏ với một tác động thật to lớn! Randy Alcorn dập tắt mọi ánh mắt sáng le lói của sự bất khiết về mặt tính dục và cho thấy vì sao sự thánh khiết lại triệu lần tốt đẹp hơn.
 lang: vi-VN
 type: book
 cover: /covers/duong-linh/nguyen-tac-thanh-khiet.jpg
@@ -15,11 +15,11 @@ tags:
 
 # Nguyên tắc thánh khiết
 
-<Badge :text="$page.readingTime.text" type="tip"/>
+<Badge :text="$page.readingTime.text"type="tip"/>
 
 ## Giới thiệu
 
-Cuốn sách "NGUYÊN TẮC THÁNH KHIẾT" của tác giả Randy Alcorn viết về các biện pháp bảo vệ của Đức Chúa Trời trước những con đường nguy hiểm trong cuộc sống. Đây là một quyển sách nhỏ với một tác động thật to lớn! Randy Alcorn dập tắt mọi ánh mắt sáng le lói của sự bất khiết về mặt tính dục và cho thấy vì sao sự thánh khiết lại triệu lần tốt đẹp hơn.
+Cuốn sách "NGUYÊN TẮC THÁNH KHIẾT"của tác giả Randy Alcorn viết về các biện pháp bảo vệ của Đức Chúa Trời trước những con đường nguy hiểm trong cuộc sống. Đây là một quyển sách nhỏ với một tác động thật to lớn! Randy Alcorn dập tắt mọi ánh mắt sáng le lói của sự bất khiết về mặt tính dục và cho thấy vì sao sự thánh khiết lại triệu lần tốt đẹp hơn.
 
 **Mục lục:**
 
@@ -28,7 +28,7 @@ Cuốn sách "NGUYÊN TẮC THÁNH KHIẾT" của tác giả Randy Alcorn viết
 3. <a href="#chuong-3-co-gi-quan-trong-the-ve-tinh-duc">Chương 3: Có gì quan trọng về tình dục thế</a>
 4. <a href="#chuong-4-bi-nam-trong-tam-ngam-va-de-bi-ha-guc">Chương 4: Bị nằm trong tầm ngắm và dễ bị hạ gục</a>
 5. <a href="#chuong-5-cuoc-chien-dau-nam-trong-tam-tri-cua-ban">Chương 5: Cuộc chiến đấu nằm trong tâm trí của bạn</a>
-6. Chương 6: Sách lược khôn ngoan
+6. <a href="#chuong-6-sach-luoc-khon-ngoan">Chương 6: Sách lược khôn ngoan</a>
 7. Chương 7: Hành động triệt để
 8. Chương 8: Hướng dẫn cho người độc thân
 9. Chương 9: Hướng dẫn cho vợ chồng và phụ huynh
@@ -114,7 +114,7 @@ Vâng, Đức Chúa Trời đã tha thứ cho cô ta một cách hoàn toàn nh�
 
 Một vài độc giả cảm thấy bị nghẹn vì hậu quả tội lỗi, cảm thấy tuyệt vọng và thua cuộc. Nhiều người đã bỏ cuộc không cố giữ sự thánh khiết nữa. Những người khác thì chưa bao giờ biết cố gắng giữ gìn. Tất cả chúng ta đều cần thấy trước được những gì chúng ta chọn lựa ngày hôm nay sẽ đưa chúng ta đến đâu trong tương lai.
 
-Một khi bị mất đi, có những cơ hội không bao giờ lấy lại được. Chúng ta không thể sống mà cứ "đáng lẽ, phải chi" – trừ khi chúng ta chấp nhận thực tế và bởi ân điển của Chúa, sẽ tiếp tục bước tới.
+Một khi bị mất đi, có những cơ hội không bao giờ lấy lại được. Chúng ta không thể sống mà cứ "đáng lẽ, phải chi"– trừ khi chúng ta chấp nhận thực tế và bởi ân điển của Chúa, sẽ tiếp tục bước tới.
 
 Trong cuốn sách Hoàng tử Caspian của C.S. Louis, sau khi bỏ ngoài tai những lời chỉ dẫn phải đi theo ông ta, Lucy đã hỏi Aslan điều gì sẽ xảy ra nếu cô ta đã biết vâng lời ông ta sớm hơn, đi theo ông ta thay vì biện hộ. Vua Sư Tử trả lời, *"con muốn biết điều gì sẽ xảy ra chăng? Không, chưa có ai được nói cho biết đâu."*
 
@@ -148,7 +148,7 @@ Những hành động nào vi phạm đức tính của Ngài thì luôn luôn b
 
 Điều này không có nghĩa là Đức Chúa Trời luôn can thiệp vào một cách trực tiếp. Định luật đạo đức này giống như định luật về trọng lực. Đức Chúa Trời đã lập ra luật như vậy. Khi một người lái xe ẩu tả phóng nhanh trên đường đèo trơn trượt, lạc tay lái, và lao xe khỏi bờ vực, Đức Chúa Trời không đột nhiên tạo nên lực hút để trừng phạt sự cẩu thả của người lái xe. Lực hút đã được lập sẵn.
 
-Tương tự như vậy, Đức Chúa Trời không cần trừng phạt kẻ ghiền phim ảnh khiêu dâm về mỗi chọn lựa sai lầm của hắn. Sự trừng phạt đã được lập sẵn trong tội lỗi. Sự xấu hổ, sa sút đạo đức, sự biến dạng về nhân cách là hậu quả xảy đến đương nhiên. Kinh Thánh mô tả những kẻ chiều theo dục vọng để sống trong vô luân là **"chính mình họ phải chịu báo ứng xứng với đều lầm lỗi của mình." (Rô-ma 1:27)**.
+Tương tự như vậy, Đức Chúa Trời không cần trừng phạt kẻ nghiện phim ảnh khiêu dâm về mỗi chọn lựa sai lầm của hắn. Sự trừng phạt đã được lập sẵn trong tội lỗi. Sự xấu hổ, sa sút đạo đức, sự biến dạng về nhân cách là hậu quả xảy đến đương nhiên. Kinh Thánh mô tả những kẻ chiều theo dục vọng để sống trong vô luân là **"chính mình họ phải chịu báo ứng xứng với đều lầm lỗi của mình." (Rô-ma 1:27)**.
 
 Đó là cách mà thế giới đạo đức của Đức Chúa Trời vận hành. Chúng ta cần chọn con đường đi riêng cho chúng ta. Nhưng với mỗi con đường sẽ có những hậu quả tất yếu.
 
@@ -220,9 +220,9 @@ Tại sao phải tránh tội ngoại tình?
 
 Bởi vì Đức Chúa Trời sẽ nhìn thấy và Ngài sẽ phán xét.
 
-Nhưng thậm chí trước ngày phán xét **"dây của tội lỗi đã xiết chặt kẻ phạm tội."**
+Nhưng thậm chí trước ngày phán xét **"dây của tội lỗi đã siết chặt kẻ phạm tội."**
 
-Kẻ ngoại tình sẽ bị mắc bẫy bởi chính sự gian ác của mình; hắn sẽ chết. Hắn là nạn nhân chính của sự ngu dại của chính mình. Ngược lại người nào giữ được sự thánh khiết có thể "vui mừng" và "được giam giữ" trong tình yêu thương của vợ anh ta, vui hưởng cuộc sống chăn gối (**Châm ngôn 5:18-19**).
+Kẻ ngoại tình sẽ bị mắc bẫy bởi chính sự gian ác của mình; hắn sẽ chết. Hắn là nạn nhân chính của sự ngu dại của chính mình. Ngược lại người nào giữ được sự thánh khiết có thể "vui mừng"và "được giam giữ"trong tình yêu thương của vợ anh ta, vui hưởng cuộc sống chăn gối (**Châm ngôn 5:18-19**).
 
 Trong chương kế Đức Chúa Trời đã dạy:
 
@@ -309,7 +309,7 @@ Sự thánh khiết và bất khiết không đơn thuần chỉ là những v�
 
 Tình dục không phải được sáng tạo bởi Hollywood, Madonna, hay một kẻ có lối sống tình dục bệnh hoạn trong phòng chatroom internet. Tình dục là do Đấng Thiêng Liêng vô hạn sáng tạo ra, được kết dệt trong ánh sáng chói loà và vinh hiển, được vây quanh bởi thiên thần thánh khiết và đầy hào quang. Sự tốt lành của tình dục đứng vững hoặc sụp đổ với sự tốt lành của Đấng Tạo Hoá.
 
-**"Đức Chúa Trời thấy các việc Ngài đã làm thật rất tốt lành." (Sáng Thế Ký 1:31)**. Tình dục là một phần của "mọi điều" tốt lành đó. Thậm chí sau khi loài người phạm tội, Lời của Đức Chúa Trời nói công khai về sự khoái lạc của tình dục trong hôn nhân. (**Châm ngôn 5:18-19**); (**Nhã ca 4:5, 7:1, 6-9**).
+**"Đức Chúa Trời thấy các việc Ngài đã làm thật rất tốt lành." (Sáng Thế Ký 1:31)**. Tình dục là một phần của "mọi điều"tốt lành đó. Thậm chí sau khi loài người phạm tội, Lời của Đức Chúa Trời nói công khai về sự khoái lạc của tình dục trong hôn nhân. (**Châm ngôn 5:18-19**); (**Nhã ca 4:5, 7:1, 6-9**).
 
 Tình dục là phương cách cho sự thụ thai và sự thân mật vợ chồng được biểu lộ. Cả hai điều này đều quan trọng đối với Đức Chúa Trời. Khi sự giao hợp diễn ra trong bối cảnh đúng của nó, trong tinh thần của sự dâng hiến, Đấng Tạo Hoá mỉm cười.
 
@@ -337,7 +337,7 @@ Tình dục là một đặc quyền không tách rời khỏi trách nhiệm c�
 
 Tình dục được thiết kế là sự kết nối giữa hai người, hai linh hồn chứ không phải là hai thân thể. Tình dục phải được dâng hiến cho người mà bạn 100% cam kết sẽ sống đời với (đo bằng hôn nhân hợp pháp), chứ không phải lấy từ người mà bạn không muốn chung sống suốt đời.
 
-Lý lẽ kiểu "nhưng chúng tôi thật sự yêu nhau" không liên hệ gì đến đạo đức của sự ân ái. Tình dục không được phép diễn ra vì những cảm xúc chủ quan mà phải do cam kết hôn nhân cam kết sống đời khách quan. Đây là những luật lệ của Đức Chúa Trời. Chúng ta không thể làm gì để thay đổi những luật lệ này. Những luật lệ này luôn luôn có hiệu lực. Khi chúng ta phá vỡ nó thì nó luôn luôn phá nát chúng ta.
+Lý lẽ kiểu "nhưng chúng tôi thật sự yêu nhau"không liên hệ gì đến đạo đức của sự ân ái. Tình dục không được phép diễn ra vì những cảm xúc chủ quan mà phải do cam kết hôn nhân cam kết sống đời khách quan. Đây là những luật lệ của Đức Chúa Trời. Chúng ta không thể làm gì để thay đổi những luật lệ này. Những luật lệ này luôn luôn có hiệu lực. Khi chúng ta phá vỡ nó thì nó luôn luôn phá nát chúng ta.
 
 Một du khách khôn ngoan sẽ không rủa sả hàng rào chắn bờ vực. Anh ta không rỉ, "hàng rào này đã làm móp thanh chắn xe của tôi". Anh ta nhìn xuống vực, thấy những chiếc xe tan nát và cám ơn Đức Chúa Trời vì đã đặt những hàng rào chắn đó.
 
@@ -355,13 +355,13 @@ Nhưng bạn không cần phải thắc mắc muốn biết quan điểm của �
 
 Điều này rõ ràng như thế nào?
 
-Nhiều người đang "tìm kiếm ý muốn của Đức Chúa Trời" – nhưng cũng nhiều người trong số đó không màng sống theo điều mà Kinh Thánh chỉ ra ý muốn của Đức Chúa Trời. Liệu có ích gì khi tìm kiếm ý muốn của Đức Chúa Trời trong những chuyện kém quan trọng hơn nếu bạn bỏ qua điều mà Ngài đã phán dạy cho bạn: phải thánh khiết?
+Nhiều người đang "tìm kiếm ý muốn của Đức Chúa Trời"– nhưng cũng nhiều người trong số đó không màng sống theo điều mà Kinh Thánh chỉ ra ý muốn của Đức Chúa Trời. Liệu có ích gì khi tìm kiếm ý muốn của Đức Chúa Trời trong những chuyện kém quan trọng hơn nếu bạn bỏ qua điều mà Ngài đã phán dạy cho bạn: phải thánh khiết?
 
 Các môn đồ của Chúa không sống bằng nhục dục và điều này thực sự biệt riêng họ ra khỏi văn hoá tà thần chung quanh họ. Hội thánh ngày nay cần tái khám phá khía cạnh quan trọng của bản chất chúng ta - là cô dâu không tì vết của Ngài.
 
 Vấn đề không phải là sự đam mê mà là nhục dục. Chúng ta hầu việc một Đức Chúa Trời đầy lòng yêu thương. Chúng ta phải yêu và hầu việc Ngài một cách đam mê. Nhưng chúng ta cần phải nuôi dưỡng sự đam mê đúng đối tượng, chứ không được sai đối tượng.
 
-"Hãy học cách kiểm soát thân thể của chính mình" có nghĩa là điều này không đến một cách tự nhiên – nếu không bạn đã không cần phải học nó. Điều này đòi hỏi sự tập luyện và kỷ luật.
+"Hãy học cách kiểm soát thân thể của chính mình"có nghĩa là điều này không đến một cách tự nhiên – nếu không bạn đã không cần phải học nó. Điều này đòi hỏi sự tập luyện và kỷ luật.
 
 Cưỡng lại sự cám dỗ là từ chối vi phạm luật của Đức Chúa Trời một cách kiên quyết can đảm mạnh mẽ. Điều này liên tục đòi hỏi phải biết nhờ cậy Đấng Christ để có sức mạnh từ chối thế gian, xác thịt, và ma quỉ – và thay vào đó là vâng lời Đức Chúa Trời. Chúng ta làm điều này để tìm kiếm niềm vui đích thực mà chỉ có thể tìm thấy trong việc nhận biết Đức Chúa Trời.
 
@@ -543,11 +543,11 @@ Sự ham muốn nào tỏ ra mạnh hơn? Cái nào mà bạn nuôi dưỡng nhi
 
 Để giữ gìn sự thánh khiết, bạn cần đặt ra các giới hạn cho tâm trí.
 
-Trên thước đo từ một đến mười nấc, ngoại tình và ghiền phim ảnh khiêu dâm có thể là mức số 10 - nấc trên cùng. Nhưng vấn đề là những bậc dưới cùng là mức số mấy – mức một, hai, hay là ba? Khi chúng ta nhận diện được những bậc thang dưới cùng này, chúng ta có thể ngăn ngừa được tai hoạ.
+Trên thước đo từ một đến mười nấc, ngoại tình và nghiện phim ảnh khiêu dâm có thể là mức số 10 - nấc trên cùng. Nhưng vấn đề là những bậc dưới cùng là mức số mấy – mức một, hai, hay là ba? Khi chúng ta nhận diện được những bậc thang dưới cùng này, chúng ta có thể ngăn ngừa được tai hoạ.
 
 Thông thường chúng ta hay nói là mình muốn thánh khiết, nhưng lại đi chọn những thứ phá hoại sự thánh khiết. Sự lựa chọn luôn có hậu quả đi kèm với nó. Nếu chúng ta muốn hệ quả khác đi thì chúng ta phải lựa chọn khác đi. Một người đàn ông đã viết cho tôi như sau:
 
-Là một người đã tự hại mình, tôi đã nhanh chóng cảnh báo cho người khác về những hành vi "cửa ngõ" dẫn đến tội lỗi với hậu quả nặng nề hơn. Việc thỉnh thoảng thủ dâm có vẻ không phải là sự lựa chọn căn bản, nhưng tội lỗi đó sẽ đưa bạn đến đâu? Bạn sẽ đến lúc ăn nằm với vợ của một người bạn? Với một gái làng chơi? Có thể lắm, nếu không ngăn chặn lại, 10 năm tới bạn sẽ phạm tội lạm dụng tình dục trẻ em, với xe tải chở báo nằm che trên bãi cỏ trước nhà. Tội lỗi luôn leo thang. Đã bao nhiêu lần tôi nghe đàn ông nói, *"Tôi không tệ như vậy đâu"* Tôi luôn luôn nói thêm là, "... chưa đến lúc bị te chứ không phải là không tệ."
+Là một người đã tự hại mình, tôi đã nhanh chóng cảnh báo cho người khác về những hành vi "cửa ngõ"dẫn đến tội lỗi với hậu quả nặng nề hơn. Việc thỉnh thoảng thủ dâm có vẻ không phải là sự lựa chọn căn bản, nhưng tội lỗi đó sẽ đưa bạn đến đâu? Bạn sẽ đến lúc ăn nằm với vợ của một người bạn? Với một gái làng chơi? Có thể lắm, nếu không ngăn chặn lại, 10 năm tới bạn sẽ phạm tội lạm dụng tình dục trẻ em, với xe tải chở báo nằm che trên bãi cỏ trước nhà. Tội lỗi luôn leo thang. Đã bao nhiêu lần tôi nghe đàn ông nói, *"Tôi không tệ như vậy đâu"* Tôi luôn luôn nói thêm là, "... chưa đến lúc bị te chứ không phải là không tệ."
 
 Suốt nhiều năm tôi đã không dùng một lối đi vào siêu thị gần nhà chỉ vì ở lối vào đó có giá trưng bày tạp chí. Sau này, kỷ luật tâm trí của tôi mạnh mẽ đến mức tôi không thèm nhìn những tạp chí ấy nữa. Nhưng chỉ đến lúc ấy tôi mới giữ được giới hạn tôi đặt ra cho riêng mình. Làm như vậy là bất tiện, nhưng sự bất tiện là một giá phải trả không đáng kể để giữ gìn sự thánh khiết của tôi.
 
@@ -557,11 +557,11 @@ Tôi không đang khuyên bạn phải làm như thế nào. Giới hạn đối
 
 Giới hạn giúp ngăn không cho sự cám dỗ lấn một bước vào bạn. Nó dựa trên cơ sở là sự thánh khiết không thể củng cố nếu chúng ta cứ tiếp tục làm những gì chúng ta vẫn làm! Chúng ta phải thay đổi thói quen. Chúng ta là những lính gác được giao cho bảo vệ một thứ mang tính chiến lược hết sức quan trọng. Tổng Tư lệnh của chúng ta đã nói:
 
-**"Khá cẩn thận giữ tấm lòng của con hơn hết, Vì các nguồn sự sống do nơi nó mà ra." (Châm Ngôn 4:23)**
+**"Khá cẩn thận giữ tấm lòng của con hơn hết, Vì các nguồn sự sống do nơi nó mà ra." (Châm ngôn 4:23)**
 
 **"Trên hết mọi sự"** có nghĩa là đây là công tác ưu tiên hàng đầu trên lịch công tác hàng ngày. Quan trọng nhất là chúng ta phải tránh cho lòng mình khỏi những nguồn cám dỗ. Chúng ta không được cung cấp đạn dược cho kẻ thù để chống lại chúng ta.
 
-Dĩ nhiên xác thịt của bạn sẽ đòi hỏi bạn phải cho nó nhiên liệu mới. "Cho tôi ăn," nó sẽ kêu gào. Nhưng bạn phải từ chối và cầu nguyện như vầy, **"Xin xây mắt tôi khỏi xem những vật hư không. Làm tôi được sống trong các đường lối của Chúa" (Thi Thiên 119:37)**. Quay mắt đi không nhìn đã là một phần của lời đáp lại cho lời cầu nguyện của bạn. (Hãy viết câu Kinh Thánh này và dán lên TV.)
+Dĩ nhiên xác thịt của bạn sẽ đòi hỏi bạn phải cho nó nhiên liệu mới. "Cho tôi ăn,"nó sẽ kêu gào. Nhưng bạn phải từ chối và cầu nguyện như vầy, **"Xin xây mắt tôi khỏi xem những vật hư không. Làm tôi được sống trong các đường lối của Chúa" (Thi Thiên 119:37)**. Quay mắt đi không nhìn đã là một phần của lời đáp lại cho lời cầu nguyện của bạn. (Hãy viết câu Kinh Thánh này và dán lên TV.)
 
 Chúng ta không làm theo thế giới này, nhưng phải được biến đổi bằng cách làm tươi mới tâm trí của chúng ta (Rô-ma 12:2) Chúng ta phải từ bỏ nhục dục, giết chết nó khi nó muốn vồ nắm chúng ta (Cô-lô-se 3:5). Chúng ta phải khẳng định chúng ta là tạo vật mới trong Đấng Christ, được bao phủ bởi sự công bình của Ngài (**I Cô-rinh-tô 5:17,21**).
 
@@ -593,7 +593,7 @@ Thủ dâm thường được khơi dậy bởi mắt hay liếc dọc liếc ng
 
 Chỉ nói *"Tôi sẽ không thủ dâm nữa"* là chưa đủ. Ý định tốt không tiêu diệt được nhục dục. Trừ khi chúng ta canh giữ mắt và tâm trí, chúng ta sẽ bị rơi lại vào thói quen cũ.
 
-Chiến thắng chắc chắn sẽ giành được – hôm nay tôi vừa nói chuyện với một người trước đây ghiền sex đã bỏ được tật thủ dâm hai năm nay. Nhưng chiến thắng sẽ không đến nếu chúng ta cho phép tâm trí tiêu thụ những thứ làm thổi bùng sự thèm khát dẫn đến hành động thủ dâm. Chìa khoá thắng lợi của người anh em này là anh ta đã canh giữ tâm trí của mình.
+Chiến thắng chắc chắn sẽ giành được – hôm nay tôi vừa nói chuyện với một người trước đây nghiện sex đã bỏ được tật thủ dâm hai năm nay. Nhưng chiến thắng sẽ không đến nếu chúng ta cho phép tâm trí tiêu thụ những thứ làm thổi bùng sự thèm khát dẫn đến hành động thủ dâm. Chìa khoá thắng lợi của người anh em này là anh ta đã canh giữ tâm trí của mình.
 
 Trong lúc những thôi thúc khác tồn tại để duy trì đời sống thuộc thể của chúng ta, nhu cầu tình dục không có tác dụng này (**I Cô-rinh-tô 6:12-13**). Chúng ta sẽ chết nếu không ăn uống. Chúng ta sẽ không chết nếu không có hành vi tình dục.
 
@@ -607,9 +607,9 @@ Sự thèm muốn xác thịt là một sự khao khát trong tâm trí. Đó l�
 
 Một người ưa xác thịt sẽ xem hết hình này qua hình khác, ngủ với hết người này đến người khác.
 
-Những đàn ông có vợ đẹp có nguy cơ bị ghiền phim ảnh khiêu dâm cũng nhiều như những đàn ông khác. Đó là một chứng bệnh của tâm hồn. Nó chỉ càng lúc càng tệ hơn trừ khi biết ăn năn và thay đổi. (Tôi thêm chữ thay đổi vì nhiều người "ăn năn" tới lui hoài, rồi lại trở lại sự ràng buộc của tật cũ.)
+Những đàn ông có vợ đẹp có nguy cơ bị nghiện phim ảnh khiêu dâm cũng nhiều như những đàn ông khác. Đó là một chứng bệnh của tâm hồn. Nó chỉ càng lúc càng tệ hơn trừ khi biết ăn năn và thay đổi. (Tôi thêm chữ thay đổi vì nhiều người "ăn năn"tới lui hoài, rồi lại trở lại sự ràng buộc của tật cũ.)
 
-Kẻ ham muốn xác thịt bước đi với nút thòng lọng xiết quanh cổ. Hắn ta là kẻ ngoại tình chỉ chờ một người đàn bà ngoại tình khác đến tay. Cô ta có thể là trong trí tưởng tượng hoặc có thật, nhưng cô ta chắc chắn sẽ đến.
+Kẻ ham muốn xác thịt bước đi với nút thòng lọng siết quanh cổ. Hắn ta là kẻ ngoại tình chỉ chờ một người đàn bà ngoại tình khác đến tay. Cô ta có thể là trong trí tưởng tượng hoặc có thật, nhưng cô ta chắc chắn sẽ đến.
 
 Có người biện luận cho sự ham muốn xác thịt vì người phối ngẫu không thoả mãn nhu cầu tình dục của họ. Vậy thử hỏi ở đâu họ có được ý tưởng về nhu cầu của họ? Đó là từ các phương tiện truyền thông, từ những nam siêu sao và phụ nữ với những số đo được làm tăng lên nhờ giải phẫu và ăn kiêng kham khổ, lao vào nhau. Đức Chúa Trời đưa ra những đặc điểm khác để lựa chọn bạn đời (**I Phi-e-rơ 3:3-4**).
 
@@ -650,3 +650,133 @@ Trong nhiều thập niên tôi đã tin rằng hình ảnh khiêu dâm trên TV
 Bằng cách chọn tránh xa khỏi sự cám dỗ tình dục, bằng cách lập giao ước với mắt của mình – và bởi ân điển năng quyền của Đức Chúa Trời – tôi chọn con đường đời và những phước hạnh đi kèm với nó. Khi tôi nói không với sự cám dỗ, tôi nói vâng với Chúa. Ngài đẹp lòng và được vinh hiển.
 
 Và không ai được hưởng phước nhiều hơn tôi.
+
+## Chương 6: Sách lược khôn ngoan
+
+Hãy tưởng tượng có người yếu sức khoẻ đang ăn bánh doughnut. Bác sĩ dặn, *"Không được ăn doughnut nữa"*. Anh ta thề với Chúa, *"Không ăn doughnut nữa"*. Anh ta hứa với gia đình, *"Không ăn doughnut nữa"*. Anh ta gọi hội thánh và cùng tham gia cầu nguyện tuần hoàn. Thậm chí anh ta tìm đến một hội thánh chuyên trị doughnuts để tống khứ quỷ thèm khát doughnuts ra khỏi mình.
+
+Đây đúng là một người nghiêm túc đó chứ?
+
+Nhưng rồi anh ta làm gì nữa? Nếu anh ta giống như phần lớn chúng ta, anh sẽ tiếp tục đọc về bánh doughnuts, nghe nhạc doughnuts, xem TV về cách làm doughnuts. Anh ta đàn đúm với những người thích doughnuts và anh ta kể chuyện tiếu lâm về doughnuts trong văn phòng, nơi anh ta liếc mắt nhìn những cuốn lịch doughnuts trên tường. Anh ta đọc báo tìm những phiếu giảm giá doughnuts và đăng ký mua tạp chí Thèm Muốn Doughnuts với hình ảnh màu sặc sỡ.
+
+Thế là chẳng bao lâu anh ta bắt đầu chọn lộ trình xa hơn để xe đi làm và "thật tình cờ" đi ngang qua một cửa hàng doughnut. Anh ta quay cửa xe xuống và hít một hơi. Phút chốc sau anh ta mua một tờ báo buổi sáng ở một kệ báo ngay bên ngoài cửa hàng. Anh ta nấn ná đủ lâu để xem giá doughnuts từ cửa sổ xe.
+
+Rồi anh ta nhớ ra rằng phải đi gọi điện thoại và thế là, bạn biết không, cửa hàng doughnuts có một quầy điện thoại công cộng. Và vì anh ta đang ở trong cửa hàng, tại sao không làm một tách cà phê?
+
+Bây giờ xin nhớ rằng người đàn ông này không hề có ý định nuốt lời thề và ăn doughnuts. Nhưng kết quả hoàn toàn tiên đoán được và không thể tránh khỏi là gì? Là anh ta sẽ bỏ cuộc và ăn doughnuts!
+
+Và bạn không nghe thấy lời than van của anh ta sao? *"Chuyện gì trục trặc đã xảy ra vậy? Tôi đã cầu nguyện rồi mà! Tôi đã nhờ người khác cầu thay rồi mà. Tôi đã xin Chúa cứu tôi khỏi rồi mà."* Tại sao lại phải cố gắng làm hết những điều đó? Tôi xin thua. Bạn làm hết sức mình để tránh nhưng hãy nhìn điều gì đã xảy ra!
+
+### Chiến lược đầu tiên và căn bản nhất
+
+Nếu chúng ta không học được điều gì từ câu chuyện ngụ ngôn bánh doughnuts kể trên, chúng ta cũng học được rằng những ý định thực lòng, thậm chí lời cầu nguyện cũng không đủ. Để chiến thắng sự cám dỗ, chúng ta phải có những mục tiêu rõ ràng và sách lược khôn ngoan, và chúng ta phải thực hiện một cách nghiêm túc.
+
+Hàng phòng ngự đầu tiên của chúng ta chống lại sự tà dâm là gì?
+
+Chạy trốn khỏi sự tà dâm **(I Cô-rinh-tô 6:18)**
+
+Khi gặp phải cám dỗ tình dục, chọn làm kẻ hèn nhát là thượng sách. Kẻ nào chần chừ và biện hộ sẽ thua cuộc. Kẻ nào bỏ chạy sẽ thắng.
+
+Kinh Thánh nhấn mạnh điều này như sau:
+
+"Chớ vào trong lối kẻ hung dữ, và đừng đi đường kẻ gian ác, hãy tránh đường ấy, chớ đi ngang qua nó; Hãy xây khỏi nó và cứ đi thẳng." (Châm ngôn 4:14-15)
+
+Giô-sép đã chứng tỏ điều này với vợ của Phô-ti-pha:
+
+**"Thường ngày người dỗ-dành mặc dầu, thì Giô-sép chẳng khứng nghe lời dụ-dỗ nằm cùng hay là ở cùng người chút nào... thì người bèn nắm áo chàng mà rằng: Hãy nằm cùng ta! Nhưng chàng liền tuột áo để lại trong tay người mà chạy trốn ra ngoài." (Sáng-Thế-Ký 39:10,12)**
+
+Giô-sép không chỉ từ chối không ngủ cùng bà ta mà còn từ chối không gặp bà ta. Khi cuối cùng bà ta áp mình vào ông, ông không ở lại mà bỏ chạy.
+
+Đừng ở lại và cố gắng *"chống trả"* cám dỗ khi bạn có thể chạy xa khỏi nó. Nếu bạn đang ăn kiêng, tránh xa khỏi bánh doughnuts!
+
+### Giữ khoảng cách
+
+Nếu bạn dạy con, *"Đừng chạy chơi trên xa lộ cao tốc"*, bạn mong đợi con làm điều gì? Nó sẽ đi xuống xa lộ, trượt bên lề đường, leo lên hàng rào an toàn, giơ chân ra lơ lửng hay khiêu vũ dọc theo lằn trắng của phần lề đuờng dành cho trường hợp khẩn cấp?
+
+Hiển nhiên là không. Làm như vậy là đùa cợt với tai hoạ.
+
+*"Nhưng chúng con không đi trên xa lộ cao tốc"*, con bạn có thể nói. Có thể không phải như vậy. Nhưng nếu bạn theo dõi xem bạn có thể đến gần xa lộ đến mức nào thì khả năng bạn bị xe cán chỉ còn là vấn đề thời gian.
+
+Đó là lý do tại sao tôi không thích câu hỏi cổ điển, *"Tôi có thể tiến đến mức nào?"* Thực sự chúng ta đang hỏi điều gì vậy? Chúng ta có thể đến gần đến mức nào mà không thực sự phạm tội? Hãy nói cho tôi biết giới hạn nằm ở chỗ nào để tôi có thể nhích ngón chân tôi sát mí tội lỗi.
+
+Kinh Thánh nhìn theo cách khác, **"Cũng hãy tránh khỏi tình dục trai trẻ, mà tìm những điều công bình, đức tin, yêu thương, hoà thuận với kẻ lấy lòng tinh sạch kêu cầu Chúa." (II Ti-mô-thê 2:22)**
+
+Khi bạn chạy trốn, bạn không vừa chạy vừa quay đầu lại hỏi, *"Vầy đủ xa chưa?"* Tinh thần vâng phục nói, *"Nếu Cha tôi bảo tôi điều này sai, tôi sẽ tránh xa khỏi nó. Và nếu đó là ranh giới, tôi sẽ tránh xa nó 6 mét chứ không phải 6 cm."*
+
+### Đoán trước và ngăn ngừa cám dỗ
+
+Những ai công việc đòi hỏi hay đi công tác xa gặp rất nhiều cám dỗ tình dục. Nhà cửa, gia đình và người quen trong cộng đồng là những hạn chế tự nhiên nay bị bỏ lại phía sau. Không ai biết mình là ai, sự cô đơn, và thời gian rảnh rỗi thường là điềm báo trước tai hoạ sẽ đến.
+
+Tôi có quen những phụ nữ và nam giới yêu mến Chúa thường hay đi công tác xa mà vẫn chiến thắng được về mặt đạo đức. Nhưng nhiều người khác lại có thành tích thất bại. Những người này cần ngưng đi công tác xa dù cho điều này có nghĩa là phải kiếm một công việc khác ít lương hơn.
+
+Có lần ở một hội nghị chỉ toàn nam giới, tôi mời những ai hay đi công tác xa đứng dậy chia sẻ kinh nghiệm họ thấy là hữu ích trong việc chống lại sự cám dỗ tình dục. Một người kể rằng trong nhiều năm ông ta đã xem phim bậy bạ trong khách sạn. Sau nhiều lần thất bại ông ta cuối cùng đã quyết định làm một điều gì đó.
+
+*"Mỗi khi tôi vào khách sạn, tôi yêu cầu họ dời TV ra khỏi phòng tôi. Lúc nào cũng vậy họ nhìn tôi như tên khùng."*
+
+*"Nhưng thưa ông, ông không cần phải bật TV."*
+
+Nhưng vì tôi là khách hàng trả tiền, tôi lịch sự yêu cầu làm theo ý tôi và tôi chưa bao giờ bị từ chối. Nhờ vậy, không còn chỉ cần nhấn nút một cái là xem được phim khiêu dâm.
+
+Đây là cách tôi đã nói, *"Con rất nghiêm túc về điều này, thưa Chúa"*. Tôi đã làm như vậy một năm nay rồi, và đó là bí quyết thành công của tôi. Mọi chuyện đã thay đổi.
+
+Người đàn ông này đã khám phá ra một nguyên tắc quan trọng: tránh sự cám dỗ dễ dàng hơn chống lại nó.
+
+Trong những lúc mạnh mẽ, hãy đưa ra những quyết định giúp ngăn ngừa sự cám dỗ đến trong những lúc yếu đuối.
+
+## Vun đắp cuộc sống bên trong của bạn
+
+Một cuốn sách như cuốn sách này có vẻ có nguy cơ là một cuốn sách học làm người. Tôi ý thức rất rõ rằng những chỉ dẫn đơn giản và lời hô hào *"hãy cố hơn chút nữa"* không đủ để phá tan sự kiềm toả của nhục dục và sức mạnh của những thói quen ăn sâu. Không có *"công thức nhỏ dễ dàng"* nào cả.
+
+Tôi không biết phải nói thế nào để nhấn mạnh hết được tầm quan trọng của việc phải dựa vào sức mạnh bên trong chúng ta do Chúa tái sinh mang lại. Sự tự biến đổi chưa đủ. Nó có thể mang lại một vài lợi ích hạn chế nhưng lại dẫn đến sự tự xưng mình là công bình. Cuộc sống của Cơ Đốc nhân không chỉ là sự kiềm chế mình khỏi tội lỗi, mà là sự biến đổi nên thánh và được ban năng quyền để sống một cách công bình.
+
+Tuy vậy Kinh Thánh răn dạy chúng ta làm và không nên làm một số điều nằm trong năng lực của chúng ta. Và thường thì khi làm điều này, lòng chúng ta thay đổi. Do vậy chúng ta nên theo những bước khôn ngoan, biết rằng làm như vậy chưa đủ, nhưng là những bước cần thiết. Cuối cùng trận chiến đấu để có sự thánh khiết có thắng hay thua cũng diễn ra một cách thầm lặng, trên chân quỳ dưới Chúa và trong sự cộng tác với những chiến hữu của chúng ta.
+
+Sự bận rộn làm hao mòn khả năng của chúng ta nghe được sự nhắc nhở của Đức Thánh Linh, Lời dạy của Ngài, và dân sự của Ngài. Sự mệt mỏi thể xác làm chúng ta quên đi những gì đang thực sự xảy ra. Việc tự kiểm tra lại mình một cách lành mạnh giúp chúng ta nhìn ra những tình huống mang lại sự cám dỗ. Khi đó chúng ta mang những điều này đến cho Chúa.
+
+Thời gian với Chúa là nguồn thánh thiện tuôn chảy... và niềm vui, sự sung sướng. Nó nhắc nhở chúng ta mình là ai... và chúng ta thuộc về ai. Chúng ta là công dân thuộc thiên đàng (**Phi-líp 3:20**). Chúng ta là **"khách lạ trên đất"**, **"mong tìm một đất nước tốt lành hơn – một nước trên thiên đàng"** (**Hê-bơ-rơ 11:13-16**). Chúng ta chỉ ở trên đất với visa ngắn hạn. Khi mỗi ngày chúng ta tập trung nghĩ về thiên đàng, nơi Chúa ngự, Ngài sẽ ban năng quyền cho chúng ta để tiêu diệt công việc của bản ngã cũ – kể cả sự tà dâm, sự bất khiết và nhục dục (**Cô-lô-se 3:1-5**).
+
+### Học thuộc lòng và trích dẫn lời Kinh Thánh
+
+Chúa Giê-xu trích dẫn Kinh Thánh để đối lại sự cám dỗ của Sa-tan (**Ma-thi-ơ 4:2-11**).
+
+Khi cơn tấn công vào sự thánh khiết đến, bạn hãy sẵn sàng cầm gươm của Đức Thánh Linh, tức là Lời Chúa (**Ê-phê-sô 6:17**). Điều này đòi hỏi bạn phải thuộc lòng Kinh Thánh:
+
+**"Tôi đã giấu lời Chúa trong lòng tôi, để tôi không phạm tội cùng Chúa" (Thi Thiên 119:11)**
+
+Nguyên tắc thánh khiết chứa đựng nhiều đoạn Kinh Thánh. Hãy chọn vài đoạn thực sự có ý nghĩa đối với bạn. Viết ra, mang theo mình, dán lên chỗ nào dễ thấy. Khi bạn bị cám dỗ, đối đáp trả lại với quỷ dữ. Kinh Thánh cung cấp cho bạn lời để nói ra. Hãy chuẩn bị sẵn những lời đáp trả.
+
+### Hãy cầu nguyện và đừng bỏ cuộc
+
+Chúa Giê-xu dạy môn đồ của Ngài luôn cầu nguyện và đừng bỏ cuộc (**Luca 18:1**).
+
+Chúng ta thường quỳ xuống cầu nguyện sau khi thua một trận đấu. Nhưng chúng ta cần quỳ xuống trước khi trận chiến bắt đầu.
+
+Thông thường chúng ta tuyên bố tạm ngưng bắn với tội lỗi. Chúng ta dung túng điều không công bình và để nó lấn chân vào đời sống và gia đình của chúng ta.
+
+Giê-xu nói, *"Đừng bỏ cuộc! Hãy cầu nguyện để Chúa cứu."* Có độc giả sẽ nghi ngờ điều này vì họ từng nghe, *"Chỉ cần đọc Kinh Thánh và cầu nguyện, và điều đó sẽ giải quyết mọi chuyện."* Không, nó chẳng giải quyết được chuyện gì, nhưng sẽ không có chuyện gì được giải quyết nếu không có sự cầu nguyện. Chúa Giê-xu biết Ngài đang dạy chúng ta điều gì. Gia-cơ cũng vậy. **"Hãy chống lại quỷ dữ; nó sẽ chạy trốn khỏi ngươi" (Gia-cơ 4:7)**.
+
+Liệu Chúa có bảo bạn kiềm chế khỏi sự bất khiết nếu điều đó là điều bất khả thi không?
+
+Nhiều người đã bị đánh bại trong thời gian dài đến nỗi họ nghĩ rằng chiến thắng là điều không thể xảy ra. Họ đã bỏ cuộc. Điều này bảo đảm rằng chắc chắn họ sẽ mãi mãi thất bại. Nhưng Đức Chúa trời kêu gọi chúng ta và ban sức cho chúng ta để trở thành người chiến thắng (**Khải huyền 3:5**) – những người trải nghiệm được chiến thắng đối với tội lỗi.
+
+Một người bạn đã từng chiến thắng kể cho tôi, *"Người ta không bao giờ chịu thay đổi nếu sự thay đổi làm người ta ít đau đớn hơn là không thay đổi."* Nhiều nam Cơ Đốc nhân – trong đó đa số lúc đầu đã phải tuyệt vọng – nằm trong những nhóm thoát khỏi bệnh nghiện tình dục – những nhóm này đã là công cụ đắc lực để thay đổi cuộc sống của họ. Hàng chục ngàn người là bằng chứng sống rằng chiến thắng cám dỗ tình dục là điều có thể làm được. Và thành thực mà nói, chúng ta cần phải tận tai nghe thấy họ tự thuật lại chuyện của mình trong nhà thờ, để làm vinh danh Chúa và mang lại những thông điệp hy vọng.
+
+Tương tự như vậy, nhiều nam giới ngoại đạo đã đạt được tự do đáng kể thông qua chương trình nhập tục *"Những người bị nghiện tình dục Vô danh" (Sexaholics Anonymous Program)*, áp dụng 12 bước của chương trình *"Những người nghiện rượu Vô danh" (Alcoholics Anonymous)*. Nếu những người đàn ông ngoại đạo còn đạt được những thay đổi tận gốc như vậy (dĩ nhiên bằng cách xác tín nhiều nguyên tắc Kinh Thánh), làm sao chúng ta dám tưởng tượng rằng Đức Thánh Linh không thể hành động nhiều hơn trong những tín đồ mà Ngài ngự trong họ và ban sức?
+
+Nếu có người dí súng vào đầu bạn và nói hắn sẽ bóp cò nếu bạn nhìn vào ảnh đồi truỵ, liệu bạn còn muốn nhìn nữa không? Dĩ nhiên là không? Thực ra cũng không cần phải nhìn vào phim ảnh khiêu dâm đâu. Bạn cứ việc tiếp tục đặt mình và mắt vào không đúng chỗ.
+
+Đây là lúc bạn phải học được cách chấn chỉnh suy nghĩ sai trật của bạn về lẽ thật của Chúa, từ khước sự thôi thúc điên rồ nhất thời và nuôi dưỡng những động lực mới.
+
+Bạn có thể tắt TV, bước ra ngoài, nhắm mắt lại. Bạn không cần phải nhấn chuột vào chỗ đường dẫn vào phim khiêu dâm. Bạn không cần phải mơn trớn người đó hoặc để người đó mơn trớn bạn. Có một lựa chọn khác. Hãy dựa vào những nguồn lực siêu nhiên (**II Phi-e-rơ 1:3-4**).
+
+**"Vả, ân điển, Đức Chúa Trời hay cứu mọi người... dạy chúng ta chừa bỏ sự không tin kính và tình dục thế gian, phải sống ở đời này theo tiết độ, công bình, nhơn đức." (Tít 2:11-12)**
+
+Đây là tất cả nội dung của những đề tài quan trọng trong Kinh Thánh: sự cứu chuộc và ân điển. Sự tranh chiến với nhu cầu tình dục sẽ nhắc chúng ta về nhu cầu được nhận ân điển và ban sức – khiến cho chúng ta mong mỏi đến ngày cuối cùng được cứu chuộc (**Rô-ma 7:7-25**).
+
+Nếu bạn thấy không thể tưởng tượng nổi mình có thể sống cả cuộc đời thánh khiết, hãy bắt đầu bằng việc cố giữ mình thánh khiết từng 24 giờ một. Bạn có muốn thoát khỏi hành động và sự ám ảnh của xác thịt? Hãy cầu cứu. Hãy khôn ngoan. Tránh sự cám dỗ. Đi gặp Chúa. Kinh nghiệm sự đầy đủ Ngài mang lại. Hãy dựa vào quyền năng của Ngài.
+
+Và khi 24 giờ đầu tiên trôi qua, và bạn đã nếm trải được Chúa và đã thấy Ngài là tốt lành (**Thi Thiên 34:8**), hãy tiếp tục cam kết giữ mình thánh khiết trong 24 giờ kế. Hãy dựa vào Ngài từng ngày một.
+
+Đừng bao giờ xem nhẹ tầm quan trọng của Chúa. Tội lỗi không thể mạnh hơn Đức Chúa Trời. Đừng tưởng tượng rằng chỉ có thể chiến thắng được cám dỗ khi chúng ta lên đến thiên đàng.
+
+Đức Chúa Trời tuyên bố ngược lại. Chúng ta không cần phải chờ chiến thắng đến. Chúng ta phải sống trong chiến thắng (**I Giăng 5:4**).
