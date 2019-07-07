@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "03183de8c4659362f08741b2fededf05"
+    "revision": "46701cee11ebda224d0c1cda06d48ac8"
   },
   {
     "url": "assets/css/0.styles.8fd81323.css",
@@ -38,8 +38,8 @@ self.__precacheManifest = [
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/10.b812bc25.js",
-    "revision": "21ac795714c099e1a19b2f9ed56e6282"
+    "url": "assets/js/10.62ef5b7c.js",
+    "revision": "26b223d856289a0cc98389dae42a64e6"
   },
   {
     "url": "assets/js/11.6d030626.js",
@@ -82,20 +82,20 @@ self.__precacheManifest = [
     "revision": "40d910cb36195d820d0835baf8a90f0f"
   },
   {
-    "url": "assets/js/app.ec6bce28.js",
-    "revision": "37e87fd79ea0dd4f6625bd992c7e133b"
+    "url": "assets/js/app.786aa136.js",
+    "revision": "490ea10d051485164b04d0f00e0742df"
   },
   {
     "url": "books.html",
-    "revision": "428552a1a154cd41a3f1c42b2e02434a"
+    "revision": "5d7786febba02fccbc49fffcbfe3870d"
   },
   {
     "url": "books/duong-linh/binh-an-voi-chua/index.html",
-    "revision": "7bfc0da49a23b132b64fc3acc22c4f3a"
+    "revision": "ebb90ca3931d7131bcffbb003d86db3b"
   },
   {
     "url": "books/duong-linh/nguyen-tac-thanh-khiet/index.html",
-    "revision": "2dee9f1672c0b20f90b3f0fe83544a3f"
+    "revision": "32edc16627b18cf4755490b579dafa54"
   },
   {
     "url": "covers/duong-linh/binh-an-voi-chua.jpg",
@@ -523,7 +523,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "2cb7a7b4c75df02604925e08f828db3d"
+    "revision": "78ad4efcc44df25215f3a1bd9f057319"
   },
   {
     "url": "logo.png",
