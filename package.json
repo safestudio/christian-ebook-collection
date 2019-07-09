@@ -30,10 +30,10 @@
     "test": "yarn lint"
   },
   "devDependencies": {
-    "@vuepress/plugin-google-analytics": "^1.0.2",
     "@safestudio/vuepress-plugin-enhanced-search": "^0.0.1",
     "@vuepress/plugin-back-to-top": "^1.0.2",
     "@vuepress/plugin-blog": "^1.2.4",
+    "@vuepress/plugin-google-analytics": "^1.0.2",
     "@vuepress/plugin-pwa": "^1.0.2",
     "markdownlint-cli": "^0.17.0",
     "node-sass": "^4.12.0",
@@ -42,6 +42,7 @@
     "vuepress-plugin-reading-time": "^0.1.1"
   },
   "dependencies": {
+    "vuepress-plugin-container": "^2.0.2",
     "vuepress-plugin-nprogress": "^1.1.1",
     "vuepress-plugin-sitemap": "^2.1.2"
   }
