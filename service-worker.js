@@ -27,19 +27,19 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "46701cee11ebda224d0c1cda06d48ac8"
+    "revision": "11a2c0c220f0e8efb10c2ec4fd99f4ca"
   },
   {
-    "url": "assets/css/0.styles.8fd81323.css",
-    "revision": "d02769d88146fa83be3522d1b44382a7"
+    "url": "assets/css/0.styles.eaa32888.css",
+    "revision": "2b4138c2a0318b51800147f786ccae32"
   },
   {
     "url": "assets/img/search.83621669.svg",
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/10.62ef5b7c.js",
-    "revision": "26b223d856289a0cc98389dae42a64e6"
+    "url": "assets/js/10.c735c398.js",
+    "revision": "27b555af3d8c456e8abfad6663df8af9"
   },
   {
     "url": "assets/js/11.6d030626.js",
@@ -74,28 +74,28 @@ self.__precacheManifest = [
     "revision": "3c4a43d921fdbe5d668f3f0b93d13593"
   },
   {
-    "url": "assets/js/8.01dee6af.js",
-    "revision": "b7873d2828f6fa070e4756ef828181e5"
+    "url": "assets/js/8.acf17602.js",
+    "revision": "1a09e2fd99d42a4a1e860d08bd09128b"
   },
   {
     "url": "assets/js/9.d4ecc4ce.js",
     "revision": "40d910cb36195d820d0835baf8a90f0f"
   },
   {
-    "url": "assets/js/app.786aa136.js",
-    "revision": "490ea10d051485164b04d0f00e0742df"
+    "url": "assets/js/app.e9e1015d.js",
+    "revision": "d3fd4ed21a2dc921ac248cabf22c124f"
   },
   {
     "url": "books.html",
-    "revision": "5d7786febba02fccbc49fffcbfe3870d"
+    "revision": "d50d9d7e43c3bd18fa468c6b2c22d78b"
   },
   {
     "url": "books/duong-linh/binh-an-voi-chua/index.html",
-    "revision": "ebb90ca3931d7131bcffbb003d86db3b"
+    "revision": "94919af27daeb50f56edb2a879da44fc"
   },
   {
     "url": "books/duong-linh/nguyen-tac-thanh-khiet/index.html",
-    "revision": "32edc16627b18cf4755490b579dafa54"
+    "revision": "b5e3870e914e230d3969e4ef80acf4e1"
   },
   {
     "url": "covers/duong-linh/binh-an-voi-chua.jpg",
@@ -523,7 +523,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "78ad4efcc44df25215f3a1bd9f057319"
+    "revision": "835bb8345b9b62df23343e66668f757b"
   },
   {
     "url": "logo.png",
