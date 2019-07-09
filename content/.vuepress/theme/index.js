@@ -21,5 +21,14 @@ module.exports = (options, ctx) => ({
     ['@vuepress/active-header-links', options.activeHeaderLinks],
     '@safestudio/vuepress-plugin-enhanced-search',
     '@vuepress/plugin-nprogress',
+    ['container', {
+      type: 'bible_address',
+      defaultTitle: '',
+    }],
+    ['container', {
+      type: 'bible',
+      before: info => `<div class="bible"><p class="title">${info}</p>`,
+      after: '</div>',
+    }]
   ]
 })
