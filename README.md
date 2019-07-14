@@ -1,5 +1,7 @@
 # Christian ebook collection [![Build Status][badge]][ci]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/SafeStudio/christian-ebook-collection.svg)](https://greenkeeper.io/)
+
 [badge]: https://travis-ci.org/SafeStudio/christian-ebook-collection.svg?branch=master
 [ci]: https://travis-ci.org/SafeStudio/christian-ebook-collection
 
