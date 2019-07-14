@@ -6,6 +6,7 @@ type: book
 cover: /covers/duong-linh/binh-an-voi-chua.jpg
 permalink: /books/duong-linh/binh-an-voi-chua
 author: Billy Graham
+status: WIP
 categories:
   - Dưỡng linh
 tags:

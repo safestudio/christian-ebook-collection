@@ -6,6 +6,7 @@ type: book
 cover: /covers/duong-linh/nguyen-tac-thanh-khiet.jpg
 permalink: /books/duong-linh/nguyen-tac-thanh-khiet
 author: Randy Alcorn
+status: WIP
 categories:
   - Dưỡng linh
 tags:
