@@ -15,9 +15,14 @@
             <span class="post-tag" v-for="tag in post.frontmatter.tags"><a href="#">{{ tag }}</a></span>
           </div>
           <p class="post-description">{{ post.frontmatter.description }}</p>
-          <p class="read-more">
-            <a :href="post.frontmatter.permalink">Read More</a>
-          </p>
+          <div class="post-footer">
+            <p class="reading-time">
+              {{ post.readingTime.text }}
+            </p>
+            <p class="read-more">
+              <a :href="post.frontmatter.permalink">Read More</a>
+            </p>
+          </div>
         </div>
       </article>
     </div>
@@ -161,19 +166,25 @@ export default {
     .post-status
       @extend .tag
       margin-right 3px
-    .read-more
-      text-align right
-      a
-        color var(--element-color)
-        display inline-block
-        position relative
-        padding 5px 10px
-        border 2px solid var(--element-color)
-        &:hover
-          background-color var(--element-hover-color)
-          border-color var(--element-hover-color)
-          color var(--element-hover-text-color)
-          text-decoration none
+    .post-footer
+      display flex
+      justify-content space-between
+      .reading-time
+        @extend .tag
+        height 25px
+      .read-more
+        text-align right
+        a
+          color var(--element-color)
+          display inline-block
+          position relative
+          padding 5px 10px
+          border 2px solid var(--element-color)
+          &:hover
+            background-color var(--element-hover-color)
+            border-color var(--element-hover-color)
+            color var(--element-hover-text-color)
+            text-decoration none
   p
     position relative
     margin 1rem 0 0
