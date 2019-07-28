@@ -1521,9 +1521,9 @@ Rõ ràng là nếu họ muốn sống một cách công bình, những Cơ Đ�
 Kinh Thánh cảnh cáo về những quy tắc do con người đặt ra bao gồm việc *"hành xác"*, nhưng thiếu *"giá trị trong việc kiềm chế sự thoả mãn xác thịt"*.
 
 ::: bible
-Ví bằng anh em chết với Đấng Christ về sự sơ-học của thế-gian, thì làm sao lại để cho những thể-lệ nầy ép-buộc mình, như anh em còn sống trong thế-gian: Chớ lấy, chớ nếm, chớ rờ? Cả sự đó hễ dùng đến thì hư-nát, theo qui-tắc và đạo-lý loài người, dầu bề ngoài có vẻ khôn-ngoan, là bởi thờ-lạy theo ý riêng, cách khiêm-nhượng và khắc-khổ thân-thể mình; nhưng không ích gì để chống-cự lòng dục của xác-thịt.
+<sup>20</sup> Ví bằng anh em chết với Đấng Christ về sự sơ-học của thế-gian, thì làm sao lại để cho những thể-lệ nầy ép-buộc mình, như anh em còn sống trong thế-gian: <sup>21</sup> Chớ lấy, chớ nếm, chớ rờ? <sup>22</sup> Cả sự đó hễ dùng đến thì hư-nát, theo qui-tắc và đạo-lý loài người, <sup>23</sup> dầu bề ngoài có vẻ khôn-ngoan, là bởi thờ-lạy theo ý riêng, cách khiêm-nhượng và khắc-khổ thân-thể mình; nhưng không ích gì để chống-cự lòng dục của xác-thịt.
 ::: bible_address
-(Cô-lô-se 2:20-23)
+[Cô-lô-se 2:20-23](https://bible.com/bible/193/COL.2.20-23)
 :::
 
 Những chỉ dẫn tôi đang đưa ra chỉ có giá trị khi và chỉ khi nó dựa trên lời Kinh Thánh và có sự khôn ngoan. Nhưng những lời chỉ dẫn này bản thân nó không phải là theo chủ nghĩa luật pháp. Sách Châm ngôn kêu gọi chúng ta sống một cách khôn ngoan, làm theo sự phải lẽ làm vinh hiển Chúa.
@@ -1531,17 +1531,17 @@ Những chỉ dẫn tôi đang đưa ra chỉ có giá trị khi và chỉ khi n
 Chúng ta được dạy phải giống như chiến sĩ, vận động viên, và nông gia:
 
 ::: bible
-Hãy cùng ta chịu khổ như một người lính giỏi của Đức Chúa Giê-xu Christ. Khi một người đi ra trận, thì chẳng còn lấy việc đời lụy mình, làm vậy đặng đẹp lòng kẻ chiêu-mộ mình. Cũng một lẽ đó, người đấu sức trong diễn-trường chỉ đấu nhau theo lệ-luật thì mới được mão triều-thiên. Người cày ruộng đã khó-nhọc thì phải trước nhứt được thâu hoa-lợi.
+<sup>3</sup> Hãy cùng ta chịu khổ như một người lính giỏi của Đức Chúa Giê-xu Christ. <sup>4</sup> Khi một người đi ra trận, thì chẳng còn lấy việc đời lụy mình, làm vậy đặng đẹp lòng kẻ chiêu-mộ mình. <sup>5</sup> Cũng một lẽ đó, người đấu sức trong diễn-trường chỉ đấu nhau theo lệ-luật thì mới được mão triều-thiên. <sup>6</sup> Người cày ruộng đã khó-nhọc thì phải trước nhứt được thâu hoa-lợi.
 ::: bible_address
-(II Ti-mô-thê 2:3-6)
+[II Ti-mô-thê 2:3-6](https://bible.com/bible/193/2TI.2.3-6)
 :::
 
 Mỗi vai trò là một người cổ động có kỷ luật cho những tiêu chuẩn đã được chứng minh là đúng. Chúa kêu gọi chúng ta phải biết tự kiềm chế, là bông trái của Thánh Linh
 
 ::: bible
-Nhưng trái của Thánh Linh, ấy là lòng yêu thương, sự vui mừng, bình an, nhịn nhục, nhân từ, hiền lành, trung tín, mềm mại, tiết độ: Không có luật-pháp nào cấm các sự đó.
+<sup>22</sup> Nhưng trái của Thánh Linh, ấy là lòng yêu thương, sự vui mừng, bình an, nhịn nhục, nhân từ, hiền lành, trung tín, mềm mại, tiết độ: <sup>23</sup> Không có luật-pháp nào cấm các sự đó.
 ::: bible_address
-(Ga-la-ti 5:22-23)
+[Ga-la-ti 5:22-23](https://bible.com/bible/193/GAL.5.22,23)
 :::
 
 ## Người độc thân được đi xa đến mức nào?
@@ -1565,7 +1565,7 @@ Nếu bạn muốn một kết cục khác thì hãy lựa chọn khác đi.
 ::: bible
 Anh em chớ mắc lừa; bạn bè xấu làm hư tính nết tốt.
 ::: bible_address
-(I Cô-rinh-tô 15:33)
+[I Cô-rinh-tô 15:33](https://bible.com/bible/193/1CO.15.33)
 :::
 
 Bản chất của chúng ta là bị ảnh hưởng bởi ngoại cảnh. Khi chúng ta đặt mình trong bầu không khí thánh thiện với những người thánh thiện xung quanh, chúng ta được ảnh hưởng hướng thiện. Khi chúng ta đặt mình trong bầu không khí trần tục với những con người bất khiết, chúng ta sẽ bị ảnh hưởng thành bất khiết.
@@ -1573,7 +1573,7 @@ Bản chất của chúng ta là bị ảnh hưởng bởi ngoại cảnh. Khi c
 ::: bible
 Ai giao tiếp với người khôn ngoan, trở nên khôn ngoan, những kẻ làm bạn với bọn điên dại sẽ bị tàn hại.
 ::: bible_address
-(Châm ngôn 13:20)
+[Châm ngôn 13:20](https://bible.com/bible/193/PRO.13.20)
 :::
 
 Chúng ta trở nên giống như những người mà chúng ta giao du với. Đức Chúa Trời nói về **"những kẻ yêu mến thú vui hơn là yêu Chúa"** và cảnh cáo chúng ta, **"Đừng quan hệ gì với chúng"**.
@@ -1581,7 +1581,7 @@ Chúng ta trở nên giống như những người mà chúng ta giao du với. 
 ::: bible
 Vì người ta đều... ưa-thích sự vui chơi hơn là yêu mến Đức Chúa Trời... Những kẻ thể ấy, con hãy lánh xa đi.
 ::: bible_address
-(II Ti-mô-thê 3:2-5)
+[II Ti-mô-thê 3:2-5](https://bible.com/bible/193/2TI.3.2-5)
 :::
 
 ### Hẹn bạn bè đi chơi là thứ tuỳ chọn chứ không phải là nhu cầu thiết yếu
@@ -1597,7 +1597,7 @@ Những chỉ dẫn dưới đây trích từ một tập tài liệu 16 trang h
 ::: bible
 Chớ mang ách chung với kẻ chẳng tin. Bởi vì công-bình với gian-ác có hội-hiệp nhau được chăng? Sự sáng với sự tối có thông-đồng nhau được chăng?
 ::: bible_address
-(II Cô-rinh-tô 6:14)
+[II Ti-mô-thê 6:14](https://bible.com/bible/193/2TI.6.14)
 :::
 
 - Nếu bạn là tín đồ trung tín, chỉ nên hẹn hò với tín đồ trung tín.
@@ -1609,7 +1609,7 @@ Chớ mang ách chung với kẻ chẳng tin. Bởi vì công-bình với gian-�
 ::: bible
 Chớ quở nặng người già-cả, nhưng hãy khuyên-dỗ họ như cha, còn kẻ trẻ thì như anh em, đàn-bà có tuổi cũng như mẹ, bọn thiếu-nữ như chị em, mà phải lấy cách thanh-sạch trọn-vẹn.
 ::: bible_address
-(I Ti-mô-thê 5:1-2)
+[I Ti-mô-thê 5:1-2](https://bible.com/bible/193/1TI.5.1,2)
 :::
 
 - Đi theo nhóm, đừng đi một mình.
@@ -1629,7 +1629,7 @@ Chớ quở nặng người già-cả, nhưng hãy khuyên-dỗ họ như cha, c
 ::: bible
 Vì mắt ta chăm chỉ mọi đường lối chúng nó, không giấu khỏi trước mặt ta được, tội lỗi chúng nó không khuất khỏi mắt ta đâu.
 ::: bible_address
-(Giê-rê-mi 16:17)
+[Giê-rê-mi 16:17](https://bible.com/bible/193/JER.16.17)
 :::
 
 - Viết ra những tiêu chuẩn của riêng bạn và tự mình áp dụng – đừng lệ thuộc vào người khác.
@@ -1639,9 +1639,9 @@ Vì mắt ta chăm chỉ mọi đường lối chúng nó, không giấu khỏi 
 - Cảnh giác với *"sự suy mòn đạo đức"* của quan hệ bồ bịch và hứa hôn kéo dài. Một khi những bạn trẻ và cha mẹ đồng ý chuyện hôn nhân, chờ đợi lâu hơn cần thiết là điều nguy hiểm.
 
 ::: bible
-Vậy, tôi nói với những kẻ chưa cưới gả, và kẻ góa-bụa rằng ở được như tôi thì hơn. Song nếu họ chẳng thìn mình được, thì hãy cưới gả; vì thà cưới gả còn hơn để cho lửa tình un đốt.
+<sup>8</sup> Vậy, tôi nói với những kẻ chưa cưới gả, và kẻ góa-bụa rằng ở được như tôi thì hơn. <sup>9</sup> Song nếu họ chẳng thìn mình được, thì hãy cưới gả; vì thà cưới gả còn hơn để cho lửa tình un đốt.
 ::: bible_address
-(I Cô-rinh-tô 7:8-9)
+[I Cô-rinh-tô 7:8-9](https://bible.com/bible/193/1CO.7.8,9)
 :::
 
 ## Chương 9. Hướng dẫn cho vợ chồng và phụ huynh
