@@ -874,9 +874,41 @@ Giới hạn giúp ngăn không cho sự cám dỗ lấn một bước vào bạ
 
 **"Trên hết mọi sự"** có nghĩa là đây là công tác ưu tiên hàng đầu trên lịch công tác hàng ngày. Quan trọng nhất là chúng ta phải tránh cho lòng mình khỏi những nguồn cám dỗ. Chúng ta không được cung cấp đạn dược cho kẻ thù để chống lại chúng ta.
 
-Dĩ nhiên xác thịt của bạn sẽ đòi hỏi bạn phải cho nó nhiên liệu mới. "Cho tôi ăn,"nó sẽ kêu gào. Nhưng bạn phải từ chối và cầu nguyện như vầy, **"Xin xây mắt tôi khỏi xem những vật hư không. Làm tôi được sống trong các đường lối của Chúa" (Thi Thiên 119:37)**. Quay mắt đi không nhìn đã là một phần của lời đáp lại cho lời cầu nguyện của bạn. (Hãy viết câu Kinh Thánh này và dán lên TV.)
+Dĩ nhiên xác thịt của bạn sẽ đòi hỏi bạn phải cho nó nhiên liệu mới. "Cho tôi ăn,"nó sẽ kêu gào. Nhưng bạn phải từ chối và cầu nguyện như vầy:
 
-Chúng ta không làm theo thế giới này, nhưng phải được biến đổi bằng cách làm tươi mới tâm trí của chúng ta (Rô-ma 12:2) Chúng ta phải từ bỏ nhục dục, giết chết nó khi nó muốn vồ nắm chúng ta (Cô-lô-se 3:5). Chúng ta phải khẳng định chúng ta là tạo vật mới trong Đấng Christ, được bao phủ bởi sự công bình của Ngài (**I Cô-rinh-tô 5:17,21**).
+:::bible
+Xin xây mắt tôi khỏi xem những vật hư không. Làm tôi được sống trong các đường lối của Chúa.
+:::bible_address
+[Thi Thiên 119:37](https://bible.com/bible/193/PSA.119.37)
+:::
+
+Quay mắt đi không nhìn đã là một phần của lời đáp lại cho lời cầu nguyện của bạn. (Hãy viết câu Kinh Thánh này và dán lên TV.)
+
+Chúng ta không làm theo thế giới này, nhưng phải được biến đổi bằng cách làm tươi mới tâm trí của chúng ta:
+
+:::bible
+Đừng làm theo đời nầy, nhưng hãy biến hóa bởi sự đổi mới của tâm thần mình, để thử cho biết ý muốn tốt lành, đẹp lòng và trọn vẹn của Đức Chúa Trời là thể nào.
+:::bible_address
+[Rô-ma 12:2](https://bible.com/bible/193/ROM.12.2)
+:::
+
+Chúng ta phải từ bỏ nhục dục, giết chết nó khi nó muốn vồ nắm chúng ta:
+
+:::bible
+Vậy hãy làm chết các chi thể của anh em ở nơi hạ giới, tức là tà dâm, ô uế, tình dục, ham muốn xấu xa, tham lam, tham lam chẳng khác gì thờ hình tượng...
+:::bible_address
+[Cô-lô-se 3:5](https://bible.com/bible/193/COL.3.5)
+:::
+
+Chúng ta phải khẳng định chúng ta là tạo vật mới trong Đấng Christ, được bao phủ bởi sự công bình của Ngài (****).
+
+:::bible
+<sup>17</sup> Vậy, nếu ai ở trong Đấng Christ, thì nấy là người dựng nên mới; những sự cũ đã qua đi, nầy mọi sự đều trở nên mới.
+
+<sup>21</sup> Đức Chúa Trời đã làm cho Đấng vốn chẳng biết tội lỗi trở nên tội lỗi vì chúng ta, hầu cho chúng ta nhờ Đấng đó mà được trở nên sự công bình của Đức Chúa Trời.
+:::bible_address
+[I Cô-rinh-tô 5:17,21](https://bible.com/bible/193/1CO.5.17,21)
+:::
 
 Tâm trí thanh sạch của bạn được nuôi dưỡng bởi Lời của Đức Chúa Trời, canh chừng đời sống tư tưởng của bạn. Nó chấp thuận những gì đẹp lòng Chúa và không đồng ý với những gì ngược lại.
 
@@ -894,11 +926,21 @@ Còn bây giờ tôi muốn bạn tưởng tượng đến món tráng miệng m
 
 Tâm trí chúng ta không phải là khoang chân không. Nó luôn phải chứa đầy một cái gì đó. Những ý tưởng bậy bạ bị những ý tưởng thanh khiết đẩy ra ngoài.
 
-"Rốt lại, hỡi anh em, phàm điều chi chân-thật, điều chi đáng tôn, điều chi công-bình, điều chi thanh-sạch, điều chi đáng yêu-chuộng, điều chi có tiếng tốt, điều chi có nhân-đức đáng khen, thì anh em phải nghĩ đến." (Phi-líp 4:8)
+:::bible
+Rốt lại, hỡi anh em, phàm điều chi chân thật, điều chi đáng tôn, điều chi công bình, điều chi thanh sạch, điều chi đáng yêu chuộng, điều chi có tiếng tốt, điều chi có nhân đức đáng khen, thì anh em phải nghĩ đến.
+:::bible_address
+[Phi-líp 4:8](https://bible.com/bible/193/PHP.4.8)
+:::
 
 Thật khó mà xoá những tập tin có nội dung xấu ra khỏi ổ cứng trong đầu bạn, nhưng chúng ta có thể hạn chế số lượng tập tin xấu mới đi vào. Rồi chúng ta có thể mở ra nhiều tập tin tốt. Đây là hiệu ứng nhân quả. Chúng ta càng lấp đầy tâm trí với sự thánh khiết và càng ít cho vào những điều bất khiết bao nhiêu, thì sự thánh khiết và khả năng chống lại cám dỗ của chúng ta càng tăng lên.
 
-**"Chúng ta bắt mọi ý tưởng phải vâng phục Đấng Christ" (II Cô-rinh-tô 10:5)**. Khi ý tưởng xấu đến, chúng ta sửa trị nó, thay nó bằng lẽ thật của Đức Chúa Trời.
+:::bible
+<sup>4</sup> Vả, những khí giới mà chúng tôi dùng để chiến tranh là không phải thuộc về xác thịt đâu, bèn là bởi quyền năng của Đức Chúa Trời, có sức mạnh để đạp đổ các đồn lũy: <sup>5</sup> Nhờ khí giới đó chúng tôi đánh đổ các lý luận, mọi sự tự cao nổi lên nghịch cùng sự hiểu biết Đức Chúa Trời, và bắt hết các ý tưởng làm tôi vâng phục Đấng Christ.
+:::bible_address
+[II Cô-rinh-tô 10:5](https://bible.com/bible/193/2CO.10.4,5)
+:::
+
+Khi ý tưởng xấu đến, chúng ta sửa trị nó, thay nó bằng lẽ thật của Đức Chúa Trời.
 
 Martin Luther đã nói, *"Bạn không thể ngăn chim chóc bay lượn trên đầu bạn, nhưng bạn có thể ngăn chúng không làm tổ trên tóc của bạn."*. Đúng vậy, chúng ta không thể ngăn thế gian ném những hình ảnh xấu vào chúng ta. Nhưng chúng ta có thể ngăn không cho chúng làm tổ trong tâm trí của chúng ta. Chúng ta có thể nhanh chóng tống khứ chúng ra ngoài.
 
@@ -908,7 +950,15 @@ Chỉ nói *"Tôi sẽ không thủ dâm nữa"* là chưa đủ. Ý định t�
 
 Chiến thắng chắc chắn sẽ giành được – hôm nay tôi vừa nói chuyện với một người trước đây nghiện sex đã bỏ được tật thủ dâm hai năm nay. Nhưng chiến thắng sẽ không đến nếu chúng ta cho phép tâm trí tiêu thụ những thứ làm thổi bùng sự thèm khát dẫn đến hành động thủ dâm. Chìa khoá thắng lợi của người anh em này là anh ta đã canh giữ tâm trí của mình.
 
-Trong lúc những thôi thúc khác tồn tại để duy trì đời sống thuộc thể của chúng ta, nhu cầu tình dục không có tác dụng này (**I Cô-rinh-tô 6:12-13**). Chúng ta sẽ chết nếu không ăn uống. Chúng ta sẽ không chết nếu không có hành vi tình dục.
+Trong lúc những thôi thúc khác tồn tại để duy trì đời sống thuộc thể của chúng ta, nhu cầu tình dục không có tác dụng này.
+
+:::bible
+<sup>12</sup> Mọi sự tôi có phép làm, nhưng chẳng phải mọi sự đều có ích; mọi sự tôi có phép làm, nhưng chẳng để sự gì bắt phục được tôi. <sup>13</sup> Đồ ăn vì bụng, bụng vì đồ ăn, Đức Chúa Trời sẽ hủy hoại cái nọ và cái kia. Nhưng thân thể chẳng phải vì sự dâm dục đâu, bèn là vì Chúa, và Chúa vì thân thể;
+:::bible_address
+[I Cô-rinh-tô 6:12-13](https://bible.com/bible/193/1CO.6.12,13)
+:::
+
+Chúng ta sẽ chết nếu không ăn uống. Chúng ta sẽ không chết nếu không có hành vi tình dục.
 
 Cho dù sự khao khát có mạnh mẽ đến đâu, tình dục không bao giờ là một nhu cầu khẩn cấp, hay nhu cầu thiết yếu. Một người bạn nói với tôi, *"Chưa có ai bị nổ tung vì tinh trùng độc hại tích tụ."*
 
@@ -920,17 +970,79 @@ Sự thèm muốn xác thịt là một sự khao khát trong tâm trí. Đó l�
 
 Một người ưa xác thịt sẽ xem hết hình này qua hình khác, ngủ với hết người này đến người khác.
 
-Những đàn ông có vợ đẹp có nguy cơ bị nghiện phim ảnh khiêu dâm cũng nhiều như những đàn ông khác. Đó là một chứng bệnh của tâm hồn. Nó chỉ càng lúc càng tệ hơn trừ khi biết ăn năn và thay đổi. (Tôi thêm chữ thay đổi vì nhiều người "ăn năn"tới lui hoài, rồi lại trở lại sự ràng buộc của tật cũ.)
+Những đàn ông có vợ đẹp có nguy cơ bị nghiện phim ảnh khiêu dâm cũng nhiều như những đàn ông khác. Đó là một chứng bệnh của tâm hồn. Nó chỉ càng lúc càng tệ hơn trừ khi biết ăn năn và thay đổi. (Tôi thêm chữ thay đổi vì nhiều người "ăn năn" tới lui hoài, rồi lại trở lại sự ràng buộc của tật cũ.)
 
 Kẻ ham muốn xác thịt bước đi với nút thòng lọng siết quanh cổ. Hắn ta là kẻ ngoại tình chỉ chờ một người đàn bà ngoại tình khác đến tay. Cô ta có thể là trong trí tưởng tượng hoặc có thật, nhưng cô ta chắc chắn sẽ đến.
 
-Có người biện luận cho sự ham muốn xác thịt vì người phối ngẫu không thoả mãn nhu cầu tình dục của họ. Vậy thử hỏi ở đâu họ có được ý tưởng về nhu cầu của họ? Đó là từ các phương tiện truyền thông, từ những nam siêu sao và phụ nữ với những số đo được làm tăng lên nhờ giải phẫu và ăn kiêng kham khổ, lao vào nhau. Đức Chúa Trời đưa ra những đặc điểm khác để lựa chọn bạn đời (**I Phi-e-rơ 3:3-4**).
+Có người biện luận cho sự ham muốn xác thịt vì người phối ngẫu không thoả mãn nhu cầu tình dục của họ. Vậy thử hỏi ở đâu họ có được ý tưởng về nhu cầu của họ? Đó là từ các phương tiện truyền thông, từ những nam siêu sao và phụ nữ với những số đo được làm tăng lên nhờ giải phẫu và ăn kiêng kham khổ, lao vào nhau. Đức Chúa Trời đưa ra những đặc điểm khác để lựa chọn bạn đời:
+
+:::bible
+<sup>3</sup> Chớ tìm kiếm sự trang sức bề ngoài, như gióc tóc, đeo đồ vàng, mặc áo quần lòe loẹt; <sup>4</sup> nhưng hãy tìm kiếm sự trang sức bề trong giấu ở trong lòng, tức là sự tinh sạch chẳng hư nát của tâm thần dịu dàng im lặng, ấy là giá quí trước mặt Đức Chúa Trời.
+:::bible_address
+[I Phi-e-rơ 3:3-4](https://bible.com/bible/193/1PE.3.3,4)
+:::
 
 ### Điều giao ước với mắt của bạn
 
-Gióp nói rằng: **"Tôi hứa với mắt của tôi không nhìn phụ nữ một cách thèm thuồng" (Gióp 31:1)**.
+Gióp nói rằng:
 
-Gióp đã lập một giao ước giữa ông và Đức Chúa Trời gìn giữ lòng mình bằng cách gìn giữ mắt mình. Những câu Kinh Thánh sau đó nói rõ hậu quả kinh khủng nếu ông không sống đúng với lời hứa này (**Gióp 31:2-12**).
+:::bible
+Tôi đã có lập ước với mắt tôi;
+Vậy, làm sao tôi còn dám nhìn người nữ đồng-trinh?
+:::bible_address
+[Gióp 31:1](https://bible.com/bible/193/JOB.31.1)
+:::
+
+Gióp đã lập một giao ước giữa ông và Đức Chúa Trời gìn giữ lòng mình bằng cách gìn giữ mắt mình. Những câu Kinh Thánh sau đó nói rõ hậu quả kinh khủng nếu ông không sống đúng với lời hứa này.
+
+:::bible
+<sup>2</sup> Vì phần do Đức Chúa Trời ở trên trời,
+
+Và cơ nghiệp do Đấng Toàn năng ở nơi cao, là gì?
+
+<sup>3</sup> Há chẳng phải sự tai họa cho kẻ gian ác,
+
+Và sự hư hại cho kẻ làm dữ sao?
+
+<sup>4</sup> Chớ thì Đức Chúa Trời chẳng thấy đường lối tôi,
+
+Và đếm các bước tôi sao?
+
+<sup>5</sup> Nếu tôi có ăn ở cách dối trá,
+
+Và chân tôi vội vàng theo chước gian giảo,
+
+<sup>6</sup> Nguyện Đức Chúa Trời cân tôi trên cân thăng bằng,
+
+Thì Ngài sẽ nhìn biết sự thanh liêm của tôi.
+
+<sup>7</sup> Nếu chân tôi trở bước bỏ đường chánh đáng,
+
+Và lòng tôi đi theo con mắt tôi,
+
+Nếu có sự ô uế chi dính vào tay tôi,
+<sup>8</sup> Nguyện tôi gieo, và có kẻ khác gặt hái,
+
+Nguyện thổ sản tôi bị nhổ đi!
+
+<sup>9</sup> Nếu lòng tôi bị người nữ quyến dụ,
+
+Nếu tôi rình rập ở nơi cửa của lân cận tôi,
+
+<sup>10</sup> Nguyện vợ tôi xây cối cho người khác,
+
+Và có kẻ khác nằm cùng nàng.
+
+<sup>11</sup> Vì điều ấy vốn tội trọng gớm ghê,
+
+Một tội ác đáng bị quan xét đoán phạt:
+
+<sup>12</sup> Tội ấy là một ngọn lửa thiêu hóa cho đến chốn trầm luân,
+
+Tàn hại các của cải tôi đến tận cùng...
+:::bible_address
+[Gióp 31:2-12](https://bible.com/bible/193/JOB.31.2-12)
+:::
 
 Bạn đã lập giao ước với mắt của bạn không được nhìn khi không nên nhìn chưa?
 
@@ -952,7 +1064,7 @@ Chất độc arsenic này đối với tâm hồn đầu độc chúng ta dần
 
 Bạn có tin điều này không?
 
-Nếu tin, bạn hãy thưa với Chúa, "Con biết những hình ảnh khiêu dâm này đang đầu độc con. Xin cho con sự khôn ngoan và nghị lực để quay khỏi chúng. Xin hãy cho con quay đến những gì làm đẹp lòng Ngài."
+Nếu tin, bạn hãy thưa với Chúa, *"Con biết những hình ảnh khiêu dâm này đang đầu độc con. Xin cho con sự khôn ngoan và nghị lực để quay khỏi chúng. Xin hãy cho con quay đến những gì làm đẹp lòng Ngài."*
 
 Dần dà, do ăn uống đúng những gì mình cần, bạn xả trôi đi thứ arsenic này khỏi cơ thể bạn. Nhưng bạn không thể hồi phục nếu không tẩy thứ chất độc này ra khỏi bạn!
 
