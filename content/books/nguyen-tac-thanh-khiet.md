@@ -33,7 +33,8 @@ Cuốn sách **NGUYÊN TẮC THÁNH KHIẾT** của tác giả Randy Alcorn vi�
 7. <a href="#chuong-7-hanh-dong-triet-de">Chương 7: Hành động triệt để</a>
 8. <a href="#chuong-8-huong-dan-cho-nguoi-doc-than">Chương 8: Hướng dẫn cho người độc thân</a>
 9. <a href="#chuong-9-huong-dan-cho-vo-chong-va-phu-huynh">Chương 9: Hướng dẫn cho vợ chồng và phụ huynh</a>
-10. Chương 10: Xưng tội, tinh thần trách nhiệm và cái giá phải trả
+10. <a href="#chuong-10-xung-toi-tinh-than-trach-nhiem-va-dem-gia-phai-tra">Chương 10: Xưng tội, tinh thần trách nhiệm và đếm giá phải trả</a>
+11. <a href="#chuong-11-mot-cuoc-chien-ma-ta-co-the-gianh-thang-loi">Chương 11: Một cuộc chiến mà ta có thể giành thắng lợi</a>
 
 ## Chương 1: Bỏ lỡ cơ hội
 
@@ -1436,7 +1437,7 @@ Như nai cái đáng thương, và hoàng dương có duyên tốt,
 Nguyện nương long nàng làm thỏa lòng con luôn luôn,
 Và ái tình nàng khiến cho con say mê mãi mãi.
 ::: bible_address
-(Châm ngôn 5:19)
+[Châm-ngôn 5:19](https://bible.com/bible/193/PRO.5.19)
 :::
 
 Hãy trân trọng người bạn đời của mình. Hãy công nhận rằng những phẩm chất của chồng/vợ không phải là kết quả của kỹ xảo tạo hình, của điện ảnh và giải phẫu thẩm mỹ. Những phẩm chất thực sẽ không phai nhạt mất như những thứ kể trên, mà lâu bền và ngày càng sâu sắc. Giới hạn mắt nhìn chỉ vào vợ/chồng mình, và người ấy sẽ trở thành sự khao khát thực sự của trái tim bạn.
@@ -1460,7 +1461,7 @@ Dục vọng nảy nở trên sự lén lút. Không có gì phá vỡ nó bằn
 :::bible
 Vậy hãy xưng tội cùng nhau và cầu-nguyện cho nhau, hầu cho anh em được lành bịnh: người công-bình lấy lòng sốt-sắng cầu-nguyện, thật có linh-nghiệm nhiều.
 :::bible_address
-Gia-cơ 5:16
+[Gia-cơ 5:16](https://bible.com/bible/193/JAS.5.16)
 :::
 
 Dù cho người vợ có thể không biết gì về tội lỗi của chồng, cô ta đã bị ảnh hưởng một cách sâu xa. Nếu bạn không thú tội, bạn đã lừa dối vợ mình hai lần: lần thứ nhất vì tội ngoại tình, lần thứ nhì vì không để vợ mình tha thứ cho bạn hoặc có phản ứng. (Tuy vậy, đừng cảm thấy bị bắt buộc phải nói ra mọi chi tiết bẩn thỉu. Nói ra sự thực một cách đơn giản là đủ rồi.)
@@ -1478,11 +1479,11 @@ Gia tài lớn nhất chúng ta có thể cho con cái là cho chúng thấy m�
 Hãy tập cho con trẻ ý thức được về chọn lựa một hành động sẽ dẫn đến một hậu quả, phân biệt giữa khôn ngoan và ngu dại, như đã ví dụ trong sách Châm ngôn.
 
 :::bible
-Hỡi những kẻ yêu-mến Đức Giê-hô-va, hãy ghét sự ác:
+Hỡi những kẻ yêu mến Đức Giê-hô-va, hãy ghét sự ác:
 Ngài bảo hộ linh hồn của các thánh Ngài,
 Và giải cứu họ khỏi tay kẻ dữ.
 :::bible_address
-Thi Thiên 97:10
+[Thi Thiên 97:10](https://bible.com/bible/193/PSA.97.10)
 :::
 
 Hãy dạy chúng biết kiềm chế – khả năng từ khước trong những lĩnh vực khác – những điều này dần dần sẽ đưa đến sự thánh khiết. Cha mẹ nên kiểm soát một cách khéo léo nhưng cương quyết về mối quan hệ bạn bè và thói quen xem phim ảnh sách báo của con. Chúng ta nên tránh đưa ra các tiêu chuẩn nước đôi - cấm con xem phim bậy bạ trên TV, nhưng người lớn lại được quyền xem.
@@ -1508,3 +1509,296 @@ Hãy giữ thái độ tích cực. Hãy nói tình dục sẽ tuyệt diệu bi
 Nếu có người nào khác đang dạy con bạn về tình dục, hãy tìm hiểu chính xác xem họ đang dạy cái gì.
 
 Hãy dạy và làm gương về cách ăn mặc kín đáo ở nhà. Con bạn còn có thể học ở chỗ nào khác được nữa?
+
+## Chương 10. Xưng tội, tinh thần trách nhiệm và đếm giá phải trả
+
+:::bible
+Còn nếu chúng ta xưng tội mình, thì Ngài là thành tín công bình để tha tội cho chúng ta, và làm cho chúng ta sạch mọi điều gian ác.
+:::bible_address
+[I Giăng 1:9](https://bible.com/bible/193/1JN.1.9)
+:::
+
+Giống như vua Đa-vít, kẻ đã phạm tội ngoại tình và giết người, chúng ta phải ăn năn hoàn toàn mà không biện minh (Thi Thiên 51).
+
+:::bible Người có lòng ăn-năn hối-cải, cầu-nguyện Chúa tha tội cho
+
+(Cho thầy nhạc-chánh. Thơ Đa-vít làm, lúc đấng tiên-tri Na-than đến cùng người, sau khi Đa-vít đã vào cùng Bát-Sê-ba)
+
+<sup>1</sup> Đức Chúa Trời ôi! xin hãy thương xót tôi tùy lòng nhân từ của Chúa;
+
+Xin hãy xóa các sự vi phạm tôi theo sự từ bi rất lớn của Chúa.
+
+<sup>2</sup> Xin hãy rửa tôi cho sạch hết trọi gian ác,
+
+Và làm tôi được thanh khiết về tội lỗi tôi.
+
+<sup>3</sup> Vì tôi nhận biết các sự vi phạm tôi,
+
+Tội lỗi tôi hằng ở trước mặt tôi.
+
+<sup>4</sup> Tôi đã phạm tội cùng Chúa, chỉ cùng một mình Chúa thôi,
+
+Và làm điều ác trước mặt Chúa;
+
+Hầu cho Chúa được xưng công bình khi Chúa phán,
+
+Và được thanh sạch khi Chúa xét đoán.
+
+<sup>5</sup> Kìa, tôi sanh ra trong sự gian ác,
+
+Mẹ tôi đã hoài thai tôi trong tội lỗi.
+
+<sup>6</sup> Nầy, Chúa muốn sự chân thật nơi bề trong;
+
+Chúa sẽ làm cho tôi được biết sự khôn ngoan trong nơi bí mật của lòng tôi.
+
+<sup>7</sup> Xin hãy lấy chùm kinh giới tẩy sạch tội lỗi tôi, thì tôi sẽ được tinh sạch;
+
+Cầu Chúa hãy rửa tôi, thì tôi sẽ nên trắng hơn tuyết.
+
+<sup>8</sup> Hãy cho tôi nghe sự vui vẻ mừng rỡ,
+
+Để các xương cốt mà Chúa đã bẻ gãy được khoái lạc.
+
+<sup>9</sup> Xin Chúa ngảnh mặt khỏi các tội lỗi tôi,
+
+Và xóa hết thảy sự gian ác tôi,
+
+<sup>10</sup> Đức Chúa Trời ôi! xin hãy dựng nên trong tôi một lòng trong sạch,
+
+Và làm cho mới lại trong tôi một thần linh ngay thẳng.
+
+<sup>11</sup> Xin chớ từ bỏ tôi khỏi trước mặt Chúa,
+
+Cũng đừng cất khỏi tôi Thánh Linh Chúa.
+
+<sup>12</sup> Xin hãy ban lại cho tôi sự vui vẻ về sự cứu rỗi của Chúa,
+
+Dùng thần linh sẵn lòng mà nâng đỡ tôi.
+
+<sup>13</sup> Bấy giờ tôi sẽ dạy đường lối Chúa cho kẻ vi phạm,
+
+Và kẻ có tội sẽ trở về cùng Chúa.
+
+<sup>14</sup> Hỡi Đức Chúa Trời, là Đức Chúa Trời về sự cứu rỗi tôi,
+
+Xin giải tôi khỏi tội làm đổ huyết,
+
+Thì lưỡi tôi sẽ hát ngợi khen sự công bình của Chúa.
+
+<sup>15</sup> Chúa ơi, xin mở môi tôi,
+
+Rồi miệng tôi sẽ truyền ra sự ngợi khen Chúa.
+
+<sup>16</sup> Vì Chúa không ưa thích của lễ, bằng vậy, tôi chắc đã dâng;
+
+Của lễ thiêu cũng không đẹp lòng Chúa:
+
+<sup>17</sup> Của lễ đẹp lòng Đức Chúa Trời, ấy là tâm thần đau thương:
+
+Đức Chúa Trời ôi! lòng đau thương thống hối Chúa không khinh dể đâu.
+
+<sup>18</sup> Cầu xin Chúa hãy làm lành cho Si ôn tùy ý tốt Ngài;
+
+Hãy xây cất các vách tường của Giê ru sa lem.
+
+<sup>19</sup> Bấy giờ Chúa sẽ ưa thích các của lễ công bình,
+
+Của lễ thiêu, và các con sinh dâng trọn;
+
+Bấy giờ người ta sẽ dâng bò đực trên bàn thờ của Chúa.
+:::bible_address
+[Thi thiên 51](https://bible.com/bible/193/PSA.51)
+:::
+
+Chúng ta không dám chần chừ xưng tội.
+
+:::bible
+"Người nào giấu tội lỗi mình, sẽ không được may mắn. Nhưng ai xưng nó ra và lìa bỏ nó sẽ được thương xót."
+:::bible_address
+[Châm Ngôn 28:13](https://bible.com/bible/193/PRO.28.13)
+:::
+
+Sự ăn năn thực sự có nghĩa là phải bỏ đi cám dỗ và thay đổi những lựa chọn làm bạn tiếp xúc với cám dỗ một cách không cần thiết.
+
+*"Nhưng tôi không cưỡng được cái nhìn đầu tiên"*.
+
+Điều đó đôi khi đúng. Nhưng chọn đi đến một bãi biển đầy phụ nữ mặc bikini, rồi nói "tôi không cưỡng được cái nhìn đầu tiên" là biện minh. Đi xem phim khêu gợi mà mắt phải nhìn xuống sàn thì tốt hơn là nhìn lên phim. Nhưng sẽ khôn ngoan hơn nếu bạn rời khỏi rạp hát... và còn khôn ngoan hơn nữa nếu ngay từ đầu bạn không đi đến rạp hát. Ăn năn không chỉ có nghĩa là quay đi khỏi sự bất khiết, nhưng giữ cho chúng ta tránh xa khỏi nơi mà chúng ta phải quay mặt đi.
+
+Nếu bạn còn độc thân và không còn trinh tiết, bạn vẫn có thể quyết giữ sự trinh tiết thứ phụ – bằng cách giữ thánh khiết từ giờ trở đi. Tha thứ không có nghĩa là không còn những hệ quả của tội lỗi quá khứ, mà có nghĩa là bạn có thể ngưng sự thiệt hại ngay hôm nay và hưởng sự phước hạnh của sự thánh khiết từ giờ trở đi.
+
+Đừng bị nản lòng bởi những điều tôi vừa nói về hậu quả của tội lỗi. Điều đó đúng, nhưng còn một chân lý nữa là Đức Chúa Trời tể trị và giàu ân điển. Ngài mang lại điều đẹp đẽ từ tro bụi. Cho dù chúng ta đã làm gì đi nữa, ngay giờ phút chúng ta ăn năn và nhận lấy sự tha thứ của Ngài, chúng ta có thể ở ngay giữa ý muốn của Ngài.
+
+Ngài là người Cha, khi thấy đứa con hoang đàng trở về nhà, **"động lòng thương xót, vội chạy ra ôm chầm lấy con mà hôn"** (Luca 15:20). Ngài chứng tỏ ân điển kỳ diệu cho chúng ta theo cách làm cho chúng ta vui thích. Ngài có thể rửa sạch tội lỗi và biến chúng ta nên bình thánh, **"hữu ích cho chủ"** (II Ti-mô-thê 2:21). Chúng ta bỏ lỡ nhiều thứ do tội lỗi, nhưng chúng ta không bỏ lỡ ân điển tha thứ của Đức Chúa Trời.
+
+:::bible
+Nó bèn đứng dậy mà về cùng cha mình. Khi còn ở đàng xa, cha nó thấy thì động lòng thương xót, chạy ra ôm lấy cổ mà hôn.
+:::bible_address
+[Luca 15:20](https://bible.com/bible/193/LUK.15.20)
+:::
+
+:::bible
+Vậy, ai giữ mình cho khỏi những điều ô-uế đó, thì sẽ như cái bình quí trọng, làm của thánh, có ích cho chủ mình và sẵn sàng cho mọi việc lành.
+:::bible_address
+[II Ti-mô-thê 2:21](https://bible.com/bible/193/2TI.2.21)
+:::
+
+### Nhận lấy trách nhiệm
+
+Hãy tham gia tích cực vào Hội Thánh địa phương nào lấy Đấng Christ làm trung tâm và tin vào Kinh Thánh.
+
+:::bible
+chớ bỏ sự nhóm lại như mấy kẻ quen làm, nhưng phải khuyên bảo nhau, và hễ anh em thấy ngày ấy hầu gần chừng nào, thì càng phải làm như vậy chừng nấy.
+:::bible_address
+[Hê-bơ-rơ 10:25](https://bible.com/bible/193/HEB.10.25)
+:::
+
+Hãy gần gũi những bạn bè nào luôn nâng cao tiêu chuẩn đạo đức chứ không hạ thấp nó.
+
+:::bible
+Anh em chớ mắc lừa: Bạn bè xấu làm hư thói nết tốt.
+:::bible_address
+[I Cô-rinh-tô 15:33](https://bible.com/bible/193/1CO.15.33)
+:::
+
+Hãy nhờ một tín đồ Cơ Đốc trưởng thành, lớn tuổi hơn kèm cặp khi bạn muốn bước đi trong sự thánh khiết.
+
+:::bible
+<sup>2</sup> Khuyên những người già cả phải tiết độ, nghiêm trang, khôn ngoan, có đức tin, lòng yêu thương và tánh nhịn nhục vẹn lành.
+
+<sup>6</sup> Cũng phải khuyên những người tuổi trẻ ở cho có tiết-độ. <sup>7</sup> Hãy lấy mình con làm gương về việc lành cho họ, trong sự dạy dỗ phải cho thanh sạch, nghiêm trang, <sup>8</sup> nói năng phải lời, không chỗ trách được, đặng kẻ nghịch hổ thẹn, không được nói xấu chúng ta điều chi.
+:::bible_address
+[Tít 2:2,6-8](https://bible.com/bible/193/TIT.2)
+:::
+
+Đơn độc một mình, bạn không thể chiến thắng trận đánh. Hãy cùng với bạn bè. Hãy tìm người nào bạn có thể nhờ giúp đỡ và cầu thay cho bạn đêm ngày. Tôi có một người quen điện thoại mỗi ngày cho một trong những người bạn trong nhóm trách nhiệm của anh ta (accountability group), cho dù anh ta có cảm thấy đang bị cám dỗ hay không.
+
+Gần 20 năm trước, những buổi họp của ban chấp sự đông người nên để sót một số người muốn tránh nhận trách nhiệm giúp đỡ nhau. Do vậy mỗi tuần tôi đã đi gặp 2 mục sư khác, rồi khởi xướng một nhóm trách nhiệm nữa (accountability group) với 4 người không chuyên nghiệp. Chúng tôi bắt đầu với những câu Kinh Thánh mà chúng tôi đã thuộc lòng. Rồi mỗi người trả lời các câu hỏi chính.
+
+Mối thông công của bạn với Đức Chúa Trời đang ra sao? Với người phối ngẫu? Với con cái? Bạn đang gặp những cám dỗ nào và bạn đang giải quyết nó ra sao? Cuộc sống tư tưởng của bạn tuần này ra sao? Bạn có bỏ thời gian thường xuyên suy gẫm Lời Chúa và cầu nguyện? Bạn đang chia sẻ Tin Lành với ai? Bạn có nói dối trong bất kỳ câu trả lời nào không? Chúng tôi có thể cầu thay cho bạn và giúp bạn cách nào?
+
+Những vị đàn ông trong cả hai nhóm nói rằng đây là 90 phút có ý nghĩa nhất trong tuần của họ. Đối với phần lớn trong số họ, đây là lần đầu tiên một anh em trong Chúa hỏi họ những câu hỏi như vậy.
+
+Thông thường những người bị sa ngã tình dục thiếu ý thức trách nhiệm thực tế. Những lãnh tụ Cơ Đốc càng được nhiều người biết đến càng cần ý thức trách nhiệm nhiều hơn nữa – nhưng thường thì họ ít có ý thức trách nhiệm hơn.
+
+Tôi cần ý thức trách nhiệm, bạn cũng cần, mục sư của bạn cần, người phối ngẫu của bạn cần, và con cái bạn cũng cần. Ai cũng cần có ý thức trách nhiệm. Khi tôi theo đuổi một tội lỗi dấu kín, điều đến cuối cùng tôi mới làm là gần gũi với những Cơ Đốc nhân nghiêm túc. Lúc mà tôi cần ý thức trách nhiệm nhất là lúc tôi dễ né tránh nó nhất.
+
+Một tối nọ tôi bị cám dỗ mạnh về tình dục. Sự thôi thúc không dứt. Cuối cùng tôi gọi cho một người anh em mà tôi đã hẹn ăn sáng ngày hôm sau. Tôi nói, "Nhờ anh cầu nguyện cho tôi và hãy hứa với tôi anh sẽ hỏi chuyện tối hôm nay tôi đã làm gì. Anh ta đồng ý.
+
+Giây phút tôi buông điện thoại xuống, sự cám dỗ đã qua đi. Tại sao lại như thế? Tôi muốn nói rằng vì tôi rất duy tâm. Sự thực là không có cách nào tôi gặp được người anh em trên và phải kể cho anh ta biết tôi đã phạm tội như thế nào.
+
+Người bạn tôi chính là số điện thoại cấp cứu khẩn cấp 911. Sẽ tốt hơn nhiều nếu chúng ta cầu cứu ngay lập tức để ngăn chặn tội lỗi, còn hơn là để phạm tội rồi phải khai báo lại với nhóm trách nhiệm của mình vào tuần sau đó, "tôi đã thổi cơn cám dỗ đi mất rồi." Biết trung thực về tội lỗi là điều tốt – nhưng biết trung thực về sự cám dỗ khi nó đến lại càng tốt hơn.
+
+Vậy số điện thoại cấp cứu khẩn cấp cho riêng bạn là gì?
+
+Những ai đã từng được giúp đỡ để chữa trị bệnh nghiện tình dục biết rằng họ phải dựa vào những người quyết giữ sự trinh khiết. Trận chiến đấu này không thể một mình đơn độc mà dành được chiến thắng. Khi một kẻ nghiện bị cột chặt vào tội lỗi, thú nhận rằng tôi bất lực không thay đổi được," thế thì anh ta phải biết dựa vào sức bên ngoài – chính là Đức Chúa thiên thượng, nhưng cũng còn phải dựa vào anh em đồng chí trong trận chiến đấu này. Đối với những người này, một buổi gặp gỡ hàng tuần không đủ. Có thể cần phải trò chuyện điện thoại mỗi ngày và gặp gỡ nhau thường xuyên hơn. Nhưng cần phải nhớ rằng trên đời luôn luôn có hy vọng và nguồn giúp đỡ – cho mọi ai sẵn lòng đón nhận nó. Có những nhóm công tác và Hội Thánh tận tâm giúp đỡ những ai muốn thoát khỏi sự ràng buộc của tội lỗi.
+
+### Hãy đếm giá phải trả
+
+Hậu quả của tình dục trước hôn nhân rất nghiêm trọng và kéo dài – nó làm Đức Chúa Trời thất vọng, đánh mất sự thánh khiết, những hình ảnh trong tâm trí có thể ám ảnh bạn, khả năng phạm tội ngoại tình lớn hơn, bị mang thai ngoài ý muốn, và bệnh tật.
+
+Tình dục trước hôn nhân là một tội lỗi, nhưng việc mang thai không phải là tội lỗi. Đừng để đứa con phải trả giá. Những người khác sẽ giúp bạn, bạn sẽ tránh được sự dày vò nếu bạn để cho đứa trẻ sống sót.
+
+Cách đây nhiều năm anh bạn Alan Hlavka cùng tôi viết ra một danh sách những hậu quả của đời sống đồi trụy Những hậu quả này thật tàn hại và tác dụng răn dạy của nó mạnh mẽ hơn bất kỳ bài giảng nào. Đều đặn, đặc biệt là mỗi khi đi xa đây đó, tôi đọc lại danh sách này cho đến khi tôi thuộc lòng nó. Nó sắc bén như dao cắt xuyên thủng mọi lý lẽ biện minh. Nó khiến tôi sợ hãi một cách lành mạnh.
+
+Dưới đây là bảng liệt kê mà chúng tôi đã cùng nhau kết hợp 2 bảng của chúng tôi lại. Bạn có thể hiệu chỉnh nó để làm thành một bảng riêng cho mình.
+
+**Nếu tôi ngoại tình, điều gì có thể xảy ra?**
+
+- Nó sẽ kéo xuống bùn nhơ danh cao của Đức Chuá Trời.
+
+- Nó sẽ khiến tôi một ngày nào đó phải đối mặt với Ngài và giải thích tại sao tôi đã làm như vậy.
+
+- Gây đau đớn khôn xiết cho Nanci, người vợ chung thủy và là người bạn thân thiết nhất của tôi.
+
+- Đánh mất sự tôn trọng và lòng tin của Nanci.
+
+- Vĩnh viễn làm thương tổn lòng tin cậy vào tôi của hai con gái thân yêu Karina và Angie.
+
+- Làm ô nhục to lớn đối với gia đình tôi.
+
+- Gây tổn thương cho hội thánh và bạn bè tôi, đặc biệt là những người tôi đã đưa dắt đến tin Chúa và trở thành tín đồ (Bạn có thể kể tên ra).
+
+- Đánh mất không cứu vãn được bao nhiêu năm làm chứng đạo cho bạn bè và người thân.
+
+- Làm cho Sa-tan, kẻ thù của Đức Chúa Trời vui thích.
+
+- Có thể làm tôi mang bệnh lây nhiễm đường tình dục, là một rủi ro cho Nanci.
+
+- Đánh mất lòng tự trọng, làm nhơ nhuốc tên tuổi và làm tôi xấu hổ suốt đời.
+
+Đây chỉ mới chưa đến phân nửa những hậu quả trên bảng liệt kê của tôi.
+
+Nếu chúng ta đọc đi đọc lại bảng liệt kê những hậu quả tàn khốc này do sự tà dâm, khả năng phạm tội của chúng ta sẽ giảm thiểu rất nhiều.
+
+## Chương 11: Một cuộc chiến mà ta có thể giành thắng lợi
+
+Trong cuốn "The Hobbit" của J.R.R. Tolkien, không một ai có vẻ địch lại con rồng Smaug mạnh mẽ vô song. Nhưng Smaug không hề biết đến một điểm sơ hở trong đai nịt bụng của hắn. Chỉ như thế là đủ để người thợ săn Bard, một cung thủ thiện nghệ, khai thác.
+
+Không biết được sơ hở của mình và xem thường đối phương, Smaug đã không phòng vệ được. Mũi tên của Bard xuyên thấu tim hắn và dân chúng vùng hồ được cứu.
+
+Một câu chuyện gay cấn với một kết cục có hậu. Thế nhưng khi một Cơ Đốc nhân bị ngã gục vì tội lỗi, kết cục thật bi thảm. Sa-tan biết những điểm sơ hở trong giáp trụ của chúng ta! Tên nhắm của hắn là chết người.
+
+Khi tôi nhìn lại mình và anh chị em trong Đấng Christ, tôi thật lo lắng vì thấy chúng ta mềm yếu và bất cẩn quá. Đôi khi chúng ta yếu đuối một cách đáng lo trong việc gìn giữ sự thánh khiết. Chúng ta xem phim và vui thích về những điều làm xúc phạm Đức Chúa Trời thánh khiết. Việc chúng ta chấp nhận sự bất khiết ngày càng lan rộng. Tội lỗi lén lút len vào dưới tầm kiểm soát ra-đa của chúng ta. Chúng ta tự làm cho mình mất khả năng tự vệ.
+
+Những nam nữ bị vô cảm với sự tà dâm, hoặc loạng choạng trên bờ vực quan hệ bất chính, ngồi trong nhà thờ với sự chai lì, hoặc quằn quại trong tội lỗi và đau đớn, cảm thấy mình giống như kẻ giả hình và căm ghét bản thân mình vì điều này. Họ vẫn đi nhà thờ, nhưng đã tự xa rời Chúa và anh em.
+
+Đức Chúa Trời của chúng ta mong muốn tha thứ và cứu chúng ta khỏi con đường chết và đặt chúng ta trên con đường sống.
+
+Đã đến lúc xem xét kỹ lại tâm trí, lời nói và hành động của chúng ta. Giống như dũng sĩ Hy lạp Achilles, kẻ mạnh mẽ nhất trong vòng chúng ta có vẻ bất khả xâm phạm dười mắt bản thân mình hoặc đối với những người kính trọng chúng ta. Nhưng mọi chuyện sẽ khác đi nếu có một mũi tên trúng vào gót chân – điểm yếu huyệt.
+
+Hãy suy nghĩ một cách trung thực và cẩn thận – có phải sự yếu đuối dễ bị bất khiết là yếu huyệt Achilles của bạn không? Là yếu điểm trong khiên giáp của bạn không? Nếu đúng như vậy, làm theo sự hướng dẫn của cuốn sách này không chỉ là sự cẩn trọng cần có – nó thực sự sẽ giúp bạn cứu được cuộc đời và gia đình bạn khỏi sự đổ vỡ. Nó sẽ gìn giữ bạn không đánh mất những phước hạnh của Thượng Đế trong tương lai.
+
+Những ai mà cuộc đời và gia đình đã bị tan nát nên vui mừng trong ân điển tha thứ của Ngài. Đừng mất hy vọng. Đức Chúa Trời không bỏ bạn đâu. Hãy kiên nhẫn cho dù bạn đang gánh chịu hậu quả của những hành động trong quá khứ, có những hành động không phải là của bạn. Hãy tin tưởng Đức Chúa Trời rằng sẽ đến lúc bạn gặt hái đuợc những phần thưởng to lớn về sự thánh khiết và những đức tin mà bạn thể hiện ngày hôm nay – bạn biết rằng:
+
+:::bible
+vì biết rằng bất luận tôi mọi hay tự chủ, mỗi người đều sẽ nhận lãnh của Chúa tùy việc lành mình đã làm.
+:::bible_address
+[Ê-phê-sô 6:8](https://bible.com/bible/193/EPH.6.8)
+:::
+
+### "Trên con đường an toàn của bạn"
+
+Đức Chúa Trời không muốn chúng ta sống mỗi ngày bị tê liệt vì nỗi sợ sẽ bị sa ngã bất ngờ. Khi nói về việc cưỡng lại sự cám dỗ xác thịt, người khôn ngoan nói:
+
+:::bible
+<sup>21</sup> Hỡi con, khá gìn giữ sự khôn ngoan thật và sự dẽ dặt, Chớ để nó lìa xa mắt con;
+
+<sup>22</sup> Thì nó sẽ là sự sống của linh hồn con, Và như đồ trang sức cho cổ con.
+
+<sup>23</sup> Con sẽ bước đi vững vàng trong đường con, Và chân con không vấp ngã.
+
+<sup>24</sup> Khi con nằm, chẳng có điều sợ hãi; Phải, con sẽ nằm được ngủ ngon giấc.
+
+<sup>25</sup> Chớ sợ sự kinh khiếp xảy đến thình lình, Cũng đừng kinh hãi lúc sự tàn hại giáng trên kẻ ác;
+
+<sup>26</sup> Vì Đức Giê-hô-va là nơi nương cậy của con, Ngài sẽ gìn giữ chân con khỏi mắc bẫy.
+:::bible_address
+[Châm ngôn 3:21-26](https://bible.com/bible/193/PRO.3.21-26)
+:::
+
+Nếu chúng ta bước đi hằng ngày với Đấng Christ, gìn giữ lòng mình và giữ giao ước bằng mắt, thì – và chỉ khi đó chúng ta mới có thể "đi trong an toàn" và "không sợ hãi".
+
+### Câu hỏi cuối cùng
+
+Bạn đã sẵn sàng cam kết – hoặc là tái cam kết – sống một cuộc đời thánh khiết về tình dục không? Đây là lúc phải cam kết. Không có gì đến nhanh hơn giây phút phạm tội.
+
+Đức Chúa Trời đã tạo nên một vũ trụ ở đó sự công bình luôn luôn được tưởng thưởng, sự bất chính luôn luôn bị xử phạt.
+
+Sự thánh khiết luôn luôn khôn ngoan; sự bất khiết luôn luôn ngu dại.
+
+:::bible
+Ta, Đức Giê-hô-va, dò xét trong trí, thử nghiệm trong lòng, báo cho mỗi người tùy đường họ đi, tùy kết quả của việc họ làm.
+:::bible_address
+[Giê-rê-mi 17:10](https://bible.com/bible/193/JER.17.10)
+:::
+
+Hãy sống sao cho có ngày bạn nghe được tiếng Chúa phán với bạn: "giỏi lắm, đầy tớ trung tín và ngay lành của ta."
+
+Khi chúng ta nghe Ngài nói những lời tuyệt vời đó, chúng ta sẽ biết bất kỳ sự hy sinh nào của chúng ta đều không đáng kể.
+
+Hãy tôn kính Đức Chúa Trời bằng cuộc sống tình dục thánh khiết. Nếu bạn làm được như vậy, bạn sẽ kinh nghiệm được ơn phước và phần thưởng của Ngài không chỉ ngày hôm nay, ngày mai, trong mười năm nữa, mà còn mãi mãi đời đời.
+
+Nếu chúng ta gieo trồng sự thánh khiết ngày hôm nay, chúng ta sẽ gặt một vụ mùa bội thu.
+
+Và bằng ân điển của Đức Chúa Trời chúng ta sẽ nhìn lại cuộc đời mình không phải với sự ân hận mà với sự biết ơn vui mừng.
