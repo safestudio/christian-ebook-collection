@@ -1098,17 +1098,39 @@ Nếu chúng ta không học được điều gì từ câu chuyện ngụ ngôn
 
 Hàng phòng ngự đầu tiên của chúng ta chống lại sự tà dâm là gì?
 
-Chạy trốn khỏi sự tà dâm **(I Cô-rinh-tô 6:18)**
+Chạy trốn khỏi sự tà dâm.
+
+:::bible
+Hãy tránh sự dâm dục. Mặc dầu người ta phạm tội gì, tội ấy còn là ngoài thân thể; nhưng kẻ buông mình vào sự dâm dục, thì phạm đến chính thân thể mình.
+:::bible_address
+[II Cô-rinh-tô 6:18](https://bible.com/bible/193/2CO.6.18)
+:::
 
 Khi gặp phải cám dỗ tình dục, chọn làm kẻ hèn nhát là thượng sách. Kẻ nào chần chừ và biện hộ sẽ thua cuộc. Kẻ nào bỏ chạy sẽ thắng.
 
 Kinh Thánh nhấn mạnh điều này như sau:
 
-"Chớ vào trong lối kẻ hung dữ, và đừng đi đường kẻ gian ác, hãy tránh đường ấy, chớ đi ngang qua nó; Hãy xây khỏi nó và cứ đi thẳng." (Châm ngôn 4:14-15)
+:::bible
+<sup>14</sup> Chớ vào trong lối kẻ hung-dữ,
+
+Và đừng đi đường kẻ gian-ác.
+
+<sup>15</sup> Hãy tránh đường ấy, chớ đi ngang qua nó;
+
+Hãy xây-khỏi nó và cứ đi thẳng.
+:::bible_address
+[Châm ngôn 4:14-15](https://bible.com/bible/193/PRO.4.14,15)
+:::
 
 Giô-sép đã chứng tỏ điều này với vợ của Phô-ti-pha:
 
-**"Thường ngày người dỗ-dành mặc dầu, thì Giô-sép chẳng khứng nghe lời dụ-dỗ nằm cùng hay là ở cùng người chút nào... thì người bèn nắm áo chàng mà rằng: Hãy nằm cùng ta! Nhưng chàng liền tuột áo để lại trong tay người mà chạy trốn ra ngoài." (Sáng-Thế-Ký 39:10,12)**
+:::bible
+<sup>10</sup> Thường ngày người dỗ-dành mặc dầu, thì Giô-sép chẳng khứng nghe lời dụ-dỗ nằm cùng hay là ở cùng người chút nào.
+
+<sup>12</sup> thì người bèn nắm áo chàng mà rằng: Hãy nằm cùng ta! Nhưng chàng liền tuột áo để lại trong tay người mà chạy trốn ra ngoài.
+:::bible_address
+[Sáng thế ký 39:10,12](https://bible.com/bible/193/GEN.39.10,12)
+:::
 
 Giô-sép không chỉ từ chối không ngủ cùng bà ta mà còn từ chối không gặp bà ta. Khi cuối cùng bà ta áp mình vào ông, ông không ở lại mà bỏ chạy.
 
@@ -1116,7 +1138,7 @@ Giô-sép không chỉ từ chối không ngủ cùng bà ta mà còn từ chố
 
 ### Giữ khoảng cách
 
-Nếu bạn dạy con, *"Đừng chạy chơi trên xa lộ cao tốc"*, bạn mong đợi con làm điều gì? Nó sẽ đi xuống xa lộ, trượt bên lề đường, leo lên hàng rào an toàn, giơ chân ra lơ lửng hay khiêu vũ dọc theo lằn trắng của phần lề đuờng dành cho trường hợp khẩn cấp?
+Nếu bạn dạy con, *"Đừng chạy chơi trên xa lộ cao tốc"*, bạn mong đợi con làm điều gì? Nó sẽ đi xuống xa lộ, trượt bên lề đường, leo lên hàng rào an toàn, giơ chân ra lơ lửng hay khiêu vũ dọc theo lằn trắng của phần lề đường dành cho trường hợp khẩn cấp?
 
 Hiển nhiên là không. Làm như vậy là đùa cợt với tai hoạ.
 
@@ -1124,7 +1146,13 @@ Hiển nhiên là không. Làm như vậy là đùa cợt với tai hoạ.
 
 Đó là lý do tại sao tôi không thích câu hỏi cổ điển, *"Tôi có thể tiến đến mức nào?"* Thực sự chúng ta đang hỏi điều gì vậy? Chúng ta có thể đến gần đến mức nào mà không thực sự phạm tội? Hãy nói cho tôi biết giới hạn nằm ở chỗ nào để tôi có thể nhích ngón chân tôi sát mí tội lỗi.
 
-Kinh Thánh nhìn theo cách khác, **"Cũng hãy tránh khỏi tình dục trai trẻ, mà tìm những điều công bình, đức tin, yêu thương, hoà thuận với kẻ lấy lòng tinh sạch kêu cầu Chúa." (II Ti-mô-thê 2:22)**
+Kinh Thánh nhìn theo cách khác:
+
+:::bible
+Cũng hãy tránh khỏi tình dục trai trẻ, mà tìm những điều công bình, đức tin, yêu thương, hoà thuận với kẻ lấy lòng tinh sạch kêu cầu Chúa.
+:::bible_address
+[II Ti-mô-thê 2:22](https://bible.com/bible/193/2TI.2.22)
+:::
 
 Khi bạn chạy trốn, bạn không vừa chạy vừa quay đầu lại hỏi, *"Vầy đủ xa chưa?"* Tinh thần vâng phục nói, *"Nếu Cha tôi bảo tôi điều này sai, tôi sẽ tránh xa khỏi nó. Và nếu đó là ranh giới, tôi sẽ tránh xa nó 6 mét chứ không phải 6 cm."*
 
@@ -1158,31 +1186,89 @@ Tuy vậy Kinh Thánh răn dạy chúng ta làm và không nên làm một số 
 
 Sự bận rộn làm hao mòn khả năng của chúng ta nghe được sự nhắc nhở của Đức Thánh Linh, Lời dạy của Ngài, và dân sự của Ngài. Sự mệt mỏi thể xác làm chúng ta quên đi những gì đang thực sự xảy ra. Việc tự kiểm tra lại mình một cách lành mạnh giúp chúng ta nhìn ra những tình huống mang lại sự cám dỗ. Khi đó chúng ta mang những điều này đến cho Chúa.
 
-Thời gian với Chúa là nguồn thánh thiện tuôn chảy... và niềm vui, sự sung sướng. Nó nhắc nhở chúng ta mình là ai... và chúng ta thuộc về ai. Chúng ta là công dân thuộc thiên đàng (**Phi-líp 3:20**). Chúng ta là **"khách lạ trên đất"**, **"mong tìm một đất nước tốt lành hơn – một nước trên thiên đàng"** (**Hê-bơ-rơ 11:13-16**). Chúng ta chỉ ở trên đất với visa ngắn hạn. Khi mỗi ngày chúng ta tập trung nghĩ về thiên đàng, nơi Chúa ngự, Ngài sẽ ban năng quyền cho chúng ta để tiêu diệt công việc của bản ngã cũ – kể cả sự tà dâm, sự bất khiết và nhục dục (**Cô-lô-se 3:1-5**).
+Thời gian với Chúa là nguồn thánh thiện tuôn chảy... và niềm vui, sự sung sướng. Nó nhắc nhở chúng ta mình là ai... và chúng ta thuộc về ai. Chúng ta là công dân thuộc thiên đàng.
+
+::: bible
+Nhưng chúng ta là công dân trên trời; ấy là từ nơi đó mà chúng ta trông đợi Cứu Chúa mình là Đức Chúa Giê-xu Christ,
+:::bible_address
+[Phi-líp 3:20](https://bible.com/bible/193/PHP.3.20)
+:::
+
+Chúng ta là **"khách lạ trên đất"**, **"mong tìm một đất nước tốt lành hơn – một nước trên thiên đàng"**.
+
+::: bible
+<sup>13</sup> Hết thảy những người đó đều chết trong đức tin, chưa nhận lãnh những điều hứa cho mình; chỉn trông thấy và chào mừng những điều đó từ đằng xa, xưng mình là kẻ khách và bộ hành trên đất. <sup>14</sup> Những kẻ nói như thế, tỏ rõ rằng mình đương đi tìm nơi quê hương. <sup>15</sup> Ví thử họ đã tưởng đến nơi quê hương mà mình từ đó đi ra, thì cũng có ngày trở lại, <sup>16</sup> nhưng họ ham mến một quê hương tốt hơn, tức là quê hương ở trên trời; nên Đức Chúa Trời không hổ thẹn mà xưng mình là Đức Chúa Trời của họ, vì Ngài đã sắm sẵn cho họ một thành.
+:::bible_address
+[Hê-bơ-rơ 11:13-16](https://bible.com/bible/193/HEB.11.13-16)
+:::
+
+Chúng ta chỉ ở trên đất với visa ngắn hạn. Khi mỗi ngày chúng ta tập trung nghĩ về thiên đàng, nơi Chúa ngự, Ngài sẽ ban năng quyền cho chúng ta để tiêu diệt công việc của bản ngã cũ – kể cả sự tà dâm, sự bất khiết và nhục dục (**Cô-lô-se 3:1-5**).
+
+::: bible
+<sup>1</sup> Vậy nếu anh em được sống lại với Đấng Christ, hãy tìm các sự ở trên trời, là nơi Đấng Christ ngồi bên hữu Đức Chúa Trời. 2Hãy ham mến các sự ở trên trời, đừng ham mến các sự ở dưới đất; <sup>3</sup> vì anh em đã chết, sự sống mình đã giấu với Đấng Christ trong Đức Chúa Trời. <sup>4</sup> Khi nào Đấng Christ, là sự sống của anh em, sẽ hiện ra, bấy giờ anh em cũng sẽ hiện ra với Ngài trong sự vinh hiển. <sup>5</sup> Vậy hãy làm chết các chi thể của anh em ở nơi hạ giới, tức là tà dâm, ô uế, tình dục, ham muốn xấu xa, tham lam, tham lam chẳng khác gì thờ hình tượng:
+:::bible_address
+[Cô-lô-se 3:1-5](https://bible.com/bible/193/COL.3.1-5)
+:::
 
 ### Học thuộc lòng và trích dẫn lời Kinh Thánh
 
 Chúa Giê-xu trích dẫn Kinh Thánh để đối lại sự cám dỗ của Sa-tan (**Ma-thi-ơ 4:2-11**).
 
-Khi cơn tấn công vào sự thánh khiết đến, bạn hãy sẵn sàng cầm gươm của Đức Thánh Linh, tức là Lời Chúa (**Ê-phê-sô 6:17**). Điều này đòi hỏi bạn phải thuộc lòng Kinh Thánh:
+::: bible
+<sup>2</sup> Ngài đã kiêng ăn bốn mươi ngày bốn mươi đêm rồi, sau thì đói. <sup>3</sup> Quỉ cám dỗ đến gần Ngài, mà nói rằng: Nếu ngươi phải là Con Đức Chúa Trời, thì hãy khiến đá nầy trở nên bánh đi. <sup>4</sup> Đức Chúa Jêsus đáp: Có lời chép rằng: Người ta sống chẳng phải chỉ nhờ bánh mà thôi, song nhờ mọi lời nói ra từ miệng Đức Chúa Trời. <sup>5</sup> Ma quỉ bèn đem Ngài vào nơi thành thánh, đặt Ngài trên nóc đền thờ, <sup>6</sup> và nói rằng: Nếu ngươi phải là Con Đức Chúa Trời, thì hãy gieo mình xuống đi; vì có lời chép rằng: Chúa sẽ truyền các thiên sứ gìn giữ ngươi, thì: Các đấng ấy sẽ nâng ngươi trong tay, Kẻo chân ngươi vấp nhằm đá chăng. <sup>7</sup> Đức Chúa Jêsus phán: Cũng có lời chép rằng: Ngươi đừng thử Chúa là Đức Chúa Trời ngươi. <sup>8</sup> Ma quỉ lại đem Ngài lên trên núi rất cao, chỉ cho Ngài các nước thế gian, cùng sự vinh hiển các nước ấy; <sup>9</sup> mà nói rằng: Ví bằng ngươi sấp mình trước mặt ta mà thờ lạy, thì ta sẽ cho ngươi hết thảy mọi sự nầy. <sup>10</sup> Đức Chúa Jêsus bèn phán cùng nó rằng: Hỡi quỉ Sa tan, ngươi hãy lui ra! Vì có lời chép rằng: Ngươi phải thờ phượng Chúa là Đức Chúa Trời ngươi, và chỉ hầu việc một mình Ngài mà thôi. <sup>11</sup> Ma quỉ bèn bỏ đi; liền có thiên sứ đến gần mà hầu việc Ngài.
+:::bible_address
+[Ma-thi-ơ 4:2-11](https://bible.com/bible/193/MAT.4.2-11)
+:::
 
-**"Tôi đã giấu lời Chúa trong lòng tôi, để tôi không phạm tội cùng Chúa" (Thi Thiên 119:11)**
+Khi cơn tấn công vào sự thánh khiết đến, bạn hãy sẵn sàng cầm gươm của Đức Thánh Linh, tức là Lời Chúa.
+
+::: bible
+Cũng hãy lấy sự cứu chuộc làm mão trụ, và cầm gươm của Đức Thánh Linh, là lời Đức Chúa Trời.
+:::bible_address
+[Ê-phê-sô 6:17](https://bible.com/bible/193/EPH.6.17)
+:::
+
+Điều này đòi hỏi bạn phải thuộc lòng Kinh Thánh:
+
+::: bible
+Tôi đã giấu lời Chúa trong lòng tôi, để tôi không phạm tội cùng Chúa.
+:::bible_address
+[Thi thiên 119:11](https://bible.com/bible/193/PSA.119.11)
+:::
 
 Nguyên tắc thánh khiết chứa đựng nhiều đoạn Kinh Thánh. Hãy chọn vài đoạn thực sự có ý nghĩa đối với bạn. Viết ra, mang theo mình, dán lên chỗ nào dễ thấy. Khi bạn bị cám dỗ, đối đáp trả lại với quỷ dữ. Kinh Thánh cung cấp cho bạn lời để nói ra. Hãy chuẩn bị sẵn những lời đáp trả.
 
 ### Hãy cầu nguyện và đừng bỏ cuộc
 
-Chúa Giê-xu dạy môn đồ của Ngài luôn cầu nguyện và đừng bỏ cuộc (**Luca 18:1**).
+Chúa Giê-xu dạy môn đồ của Ngài luôn cầu nguyện và đừng bỏ cuộc.
+
+::: bible
+Đức Chúa Jêsus phán cùng môn đồ một thí-dụ, để tỏ ra rằng phải cầu nguyện luôn, chớ hề mỏi mệt:
+:::bible_address
+[Luca 18:1](https://bible.com/bible/193/LUK.18.1)
+:::
 
 Chúng ta thường quỳ xuống cầu nguyện sau khi thua một trận đấu. Nhưng chúng ta cần quỳ xuống trước khi trận chiến bắt đầu.
 
 Thông thường chúng ta tuyên bố tạm ngưng bắn với tội lỗi. Chúng ta dung túng điều không công bình và để nó lấn chân vào đời sống và gia đình của chúng ta.
 
-Giê-xu nói, *"Đừng bỏ cuộc! Hãy cầu nguyện để Chúa cứu."* Có độc giả sẽ nghi ngờ điều này vì họ từng nghe, *"Chỉ cần đọc Kinh Thánh và cầu nguyện, và điều đó sẽ giải quyết mọi chuyện."* Không, nó chẳng giải quyết được chuyện gì, nhưng sẽ không có chuyện gì được giải quyết nếu không có sự cầu nguyện. Chúa Giê-xu biết Ngài đang dạy chúng ta điều gì. Gia-cơ cũng vậy. **"Hãy chống lại quỷ dữ; nó sẽ chạy trốn khỏi ngươi" (Gia-cơ 4:7)**.
+Chúa Giê-xu nói, *"Đừng bỏ cuộc! Hãy cầu nguyện để Chúa cứu."* Có độc giả sẽ nghi ngờ điều này vì họ từng nghe, *"Chỉ cần đọc Kinh Thánh và cầu nguyện, và điều đó sẽ giải quyết mọi chuyện."* Không, nó chẳng giải quyết được chuyện gì, nhưng sẽ không có chuyện gì được giải quyết nếu không có sự cầu nguyện. Chúa Giê-xu biết Ngài đang dạy chúng ta điều gì. Gia-cơ cũng vậy.
+
+::: bible
+hãy chống trả ma quỉ, thì nó sẽ lánh xa anh em.
+:::bible_address
+[Gia-cơ 4:7](https://bible.com/bible/193/JAS.4.7)
+:::
 
 Liệu Chúa có bảo bạn kiềm chế khỏi sự bất khiết nếu điều đó là điều bất khả thi không?
 
 Nhiều người đã bị đánh bại trong thời gian dài đến nỗi họ nghĩ rằng chiến thắng là điều không thể xảy ra. Họ đã bỏ cuộc. Điều này bảo đảm rằng chắc chắn họ sẽ mãi mãi thất bại. Nhưng Đức Chúa trời kêu gọi chúng ta và ban sức cho chúng ta để trở thành người chiến thắng (**Khải huyền 3:5**) – những người trải nghiệm được chiến thắng đối với tội lỗi.
+
+::: bible
+Kẻ nào thắng, sẽ được mặc áo trắng như vậy. Ta sẽ không xóa tên người khỏi sách sự sống và sẽ nhận danh người trước mặt Cha ta, cùng trước mặt các thiên sứ Ngài.
+:::bible_address
+[Khải huyền 3:5](https://bible.com/bible/193/REV.3.5)
+:::
 
 Một người bạn đã từng chiến thắng kể cho tôi, *"Người ta không bao giờ chịu thay đổi nếu sự thay đổi làm người ta ít đau đớn hơn là không thay đổi."* Nhiều nam Cơ Đốc nhân – trong đó đa số lúc đầu đã phải tuyệt vọng – nằm trong những nhóm thoát khỏi bệnh nghiện tình dục – những nhóm này đã là công cụ đắc lực để thay đổi cuộc sống của họ. Hàng chục ngàn người là bằng chứng sống rằng chiến thắng cám dỗ tình dục là điều có thể làm được. Và thành thực mà nói, chúng ta cần phải tận tai nghe thấy họ tự thuật lại chuyện của mình trong nhà thờ, để làm vinh danh Chúa và mang lại những thông điệp hy vọng.
 
@@ -1194,17 +1280,45 @@ Nếu có người dí súng vào đầu bạn và nói hắn sẽ bóp cò nế
 
 Bạn có thể tắt TV, bước ra ngoài, nhắm mắt lại. Bạn không cần phải nhấn chuột vào chỗ đường dẫn vào phim khiêu dâm. Bạn không cần phải mơn trớn người đó hoặc để người đó mơn trớn bạn. Có một lựa chọn khác. Hãy dựa vào những nguồn lực siêu nhiên (**II Phi-e-rơ 1:3-4**).
 
-**"Vả, ân điển, Đức Chúa Trời hay cứu mọi người... dạy chúng ta chừa bỏ sự không tin kính và tình dục thế gian, phải sống ở đời này theo tiết độ, công bình, nhơn đức." (Tít 2:11-12)**
+::: bible
+<sup>3</sup> Quyền phép Đức Chúa Trời đã ban cho chúng ta mọi điều thuộc về sự sống và sự tin kính, khiến chúng ta biết Đấng lấy vinh hiển và nhân đức mà gọi chúng ta, <sup>4</sup> và bởi vinh hiển nhân đức ấy, Ngài lại ban lời hứa rất quí rất lớn cho chúng ta, hầu cho nhờ đó anh em được lánh khỏi sự hư nát của thế gian bởi tư dục đến, mà trở nên người dự phần bổn tánh Đức Chúa Trời.
+:::bible_address
+[II Phi-e-rơ 1:3-4](https://bible.com/bible/193/1PE.1.3,4)
+:::
+
+::: bible
+<sup>11</sup> Vả, ân điển Đức Chúa Trời hay cứu mọi người, đã được bày tỏ ra rồi. <sup>12</sup> Ân ấy dạy chúng ta chừa bỏ sự không tin kính và tình dục thế gian, phải sống ở đời nầy theo tiết độ, công bình, nhân đức,
+:::bible_address
+[Tít 2:11-12](https://bible.com/bible/193/TIT.2.11,12)
+:::
 
 Đây là tất cả nội dung của những đề tài quan trọng trong Kinh Thánh: sự cứu chuộc và ân điển. Sự tranh chiến với nhu cầu tình dục sẽ nhắc chúng ta về nhu cầu được nhận ân điển và ban sức – khiến cho chúng ta mong mỏi đến ngày cuối cùng được cứu chuộc (**Rô-ma 7:7-25**).
+
+::: bible
+<sup>7</sup> Vậy chúng ta sẽ nói làm sao? Luật pháp há là tội lỗi sao? Chẳng hề như vậy! Nhưng tôi chỉ bởi luật pháp mà biết tội lỗi; vì nếu luật pháp không nói: Ngươi chớ tham lam, thì tôi đã không biết sự tham lam. <sup>8</sup> Ấy là tội lỗi đã nhân dịp, bởi điều răn mà sanh ra mọi thứ ham muốn trong lòng tôi: Vì không có luật pháp thì tội lỗi chết đi. <sup>9</sup> Ngày xưa tôi không có luật pháp mà tôi sống; nhưng khi điều răn đến, thì tội lỗi lại sống, <sup>10</sup> còn tôi thì chết; vậy thì té ra điều răn vốn nên làm cho tôi sống, đã dắt tôi đến sự chết. <sup>11</sup> Vì tội lỗi đã nhân dịp, dùng điều răn dỗ dành tôi và nhân đó làm cho tôi chết. <sup>12</sup> Ấy vậy, luật pháp là thánh, điều răn cũng là thánh, công bình và tốt lành. <sup>13</sup> Vậy thì điều lành trở làm cớ cho tôi chết sao? Chẳng hề như vậy! Nhưng ấy là tội lỗi đã làm cho tôi chết, hầu khi nó nhân điều lành làm chết tôi, tự bày ra nó là tội lỗi; đến nỗi tội lỗi nhân điều răn trở nên cực ác. <sup>14</sup> Vả, chúng ta biết luật pháp là thiêng liêng; nhưng tôi là tánh xác thịt đã bị bán cho tội lỗi. <sup>15</sup> Vì tôi không hiểu điều mình làm: Tôi chẳng làm điều mình muốn, nhưng làm điều mình ghét. <sup>16</sup> Song nếu tôi làm điều mình chẳng muốn, thì bởi đó nhận biết luật pháp là tốt lành. <sup>17</sup> Bấy giờ chẳng phải tôi làm điều đó nữa, nhưng ấy là tội lỗi ở trong tôi. <sup>18</sup> Vả, tôi biết điều lành chẳng ở trong tôi đâu, nghĩa là trong xác thịt tôi, bởi tôi có ý muốn làm điều lành, nhưng không có quyền làm trọn; 19vì tôi không làm điều lành mình muốn, nhưng làm điều dữ mình không muốn. 20Ví bằng tôi làm điều mình không muốn, ấy chẳng phải là tôi làm điều đó nữa, nhưng là tội lỗi ở trong tôi vậy. <sup>21</sup> Vậy tôi thấy có luật nầy trong tôi: Khi tôi muốn làm điều lành, thì điều dữ dính dấp theo tôi. <sup>22</sup> Vì theo người bề trong, tôi vẫn lấy luật pháp Đức Chúa Trời làm đẹp lòng; <sup>23</sup> nhưng tôi cảm biết trong chi thể mình có một luật khác giao chiến với luật trong trí mình, bắt mình phải làm phu tù cho luật của tội lỗi, tức là luật ở trong chi thể tôi vậy. <sup>24</sup> Khốn nạn cho tôi! Ai sẽ cứu tôi thoát khỏi thân thể hay chết nầy? <sup>25</sup> Cảm tạ Đức Chúa Trời, nhờ Đức Chúa Jêsus Christ, là Chúa chúng ta! Như vậy, thì chính mình tôi lấy trí khôn phục luật pháp của Đức Chúa Trời, nhưng lấy xác thịt phục luật pháp của tội lỗi.
+:::bible_address
+[Rô-ma 7:7-25](https://bible.com/bible/193/ROM.7.7-25)
+:::
 
 Nếu bạn thấy không thể tưởng tượng nổi mình có thể sống cả cuộc đời thánh khiết, hãy bắt đầu bằng việc cố giữ mình thánh khiết từng 24 giờ một. Bạn có muốn thoát khỏi hành động và sự ám ảnh của xác thịt? Hãy cầu cứu. Hãy khôn ngoan. Tránh sự cám dỗ. Đi gặp Chúa. Kinh nghiệm sự đầy đủ Ngài mang lại. Hãy dựa vào quyền năng của Ngài.
 
 Và khi 24 giờ đầu tiên trôi qua, và bạn đã nếm trải được Chúa và đã thấy Ngài là tốt lành (**Thi Thiên 34:8**), hãy tiếp tục cam kết giữ mình thánh khiết trong 24 giờ kế. Hãy dựa vào Ngài từng ngày một.
 
+::: bible
+Khá nếm thử xem Đức Giê-hô-va tốt lành dường bao! Phước cho người nào nương náu mình nơi Ngài!
+:::bible_address
+[Thi Thiên 34:8](https://bible.com/bible/193/PSA.34.8)
+:::
+
 Đừng bao giờ xem nhẹ tầm quan trọng của Chúa. Tội lỗi không thể mạnh hơn Đức Chúa Trời. Đừng tưởng tượng rằng chỉ có thể chiến thắng được cám dỗ khi chúng ta lên đến thiên đàng.
 
 Đức Chúa Trời tuyên bố ngược lại. Chúng ta không cần phải chờ chiến thắng đến. Chúng ta phải sống trong chiến thắng (**I Giăng 5:4**).
+
+::: bible
+vì hễ sự gì sanh bởi Đức Chúa Trời, thì thắng hơn thế gian; và sự thắng hơn thế gian, ấy là đức tin của chúng ta.
+:::bible_address
+[I Giăng 5:4](https://bible.com/bible/193/1JN.5.4)
+:::
 
 ## Chương 7: Hành động triệt để
 
