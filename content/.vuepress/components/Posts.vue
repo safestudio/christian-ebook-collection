@@ -171,9 +171,13 @@ export default {
       justify-content space-between
       .reading-time
         @extend .tag
-        height 25px
+        min-height 25px
+        margin-right 5px
+        text-align center
+        align-items center
+        display: flex
       .read-more
-        text-align right
+        text-align center
         a
           color var(--element-color)
           display inline-block
@@ -224,4 +228,6 @@ export default {
     --content-text-color var(--color-black)
     .post-status
       --tag-color var(--color-black)
+      display flex
+      align-items center
 </style>
