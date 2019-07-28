@@ -1357,7 +1357,7 @@ Giả sử tôi mời bạn ăn một chiếc bánh quy nhỏ, nói rằng, *"c�
 ::: bible
 Kính sợ Đức Chúa Trời tức là căm ghét điều ác
 ::: bible_address
-(Châm Ngôn 8:13)
+[Châm ngôn 8:13](https://bible.com/bible/193/PRO.8.13)
 :::
 
 Khi chúng ta đang bị mua vui bởi tội lỗi, làm sao chúng ta ghét nó được? Làm sao chúng ta thánh khiết nếu chúng ta giải trí bằng điều bất khiết?
@@ -1367,7 +1367,7 @@ Khi chúng ta đang bị mua vui bởi tội lỗi, làm sao chúng ta ghét nó
 ::: bible
 Phàm những sự gian dâm, hoặc sự ô uế, hoặc sự tham lam, cũng chớ nên nói đến giữa anh em, theo như cách xứng đáng cho các thánh đồ. Chớ nên nói lời tục tĩu, chớ giễu cợt, chớ giả ngộ tầm phào, là những đều không đáng.
 ::: bible_address
-(Ê-phê-sô 5:3-4)
+[Ê-phê-sô 5:3-4](https://bible.com/bible/193/EPH.5.3,4)
 :::
 
 Làm sao những cuốn phim tình cảm và phim hài nhiều tập của chúng ta giúp chúng ta sống đúng với những câu Kinh Thánh này được? Còn kịch hài Seinfeld và những vở kịch khác được chiếu đi chiếu lại hàng đêm? Những phim đó có chứa *"một chút bậy bạ"* hay *"đùa tục tĩu"* nào không? Nếu chúng ta có thể chịu nghe những mẩu độc thoại đêm khuya của các vai hài đố vui với những lời bóng gió tục tĩu, chúng ta có đang thực sự kính sợ Chúa và căm ghét tội lỗi?
@@ -1379,7 +1379,7 @@ Hãy xem lời Chúa:
 ::: bible
 Các ngươi có nghe lời phán rằng: Ngươi chớ phạm tội tà dâm. Song ta phán cho các ngươi biết: Hễ ai ngó đàn bà mà động tình tham muốn, thì trong lòng đã phạm tội tà dâm cùng người rồi. Vậy nếu con mắt bên hữu xui cho người phạm tội, thì hãy móc mà quăng nó cho xa ngươi đi; vì thà chịu một phần thân thể ngươi phải hư, còn hơn là cả thân thể bị ném vào địa ngục. Lại nếu tay hữu xui cho ngươi phạm tội, thì hãy chặt mà liệng nó cho xa ngươi đi; vì thà chịu một phần thân thể ngươi phải hư, còn hơn là cả thân thể vào địa ngục.
 ::: bible_address
-(Ma-thi-ơ 5:27-30)
+[Ma-thi-ơ 5:27-30](https://bible.com/bible/193/MAT.5.27-30)
 :::
 
 Tại sao Chúa Giê-xu lại vẽ bức tranh ghê sợ như vậy? Tôi tin rằng Ngài muốn chúng ta có những bước hành động dứt khoát, làm bất kỳ điều gì cần thiết để đối phó với sự cám dỗ tình dục.
@@ -1416,7 +1416,21 @@ Cách đây nhiều năm tôi bắt đầu xé bỏ những bìa khiêu gợi tr
 
 **Rô-ma 13:14** hướng dẫn chúng ta **"không chừa chỗ cho xác thịt" (NASB)**. Chỉ cần cố tình đặt mình trong hoàn cảnh có thể phạm tội đã là tội lỗi rồi. Cho dù là đi vào cửa hàng đồ lót, hay hồ bơi, hay phòng tập thể dục ở câu lạc bộ điền kinh; nếu nó làm bạn vấp ngã, hãy tránh xa nó.
 
-Sách Châm ngôn mô tả người đàn bà luông tuồng gặp người đàn ông ngu dại sau khi trời tối (**Châm Ngôn 7:8-9**). Chúng ta phải tránh xa những người, những nơi và bối cảnh có thể tội lỗi dễ xảy ra.
+::: bible
+nhưng hãy mặc lấy Đức Chúa Giê-xu Christ, chớ chăm nom về xác thịt mà làm cho phỉ lòng dục nó.
+::: bible_address
+[Rô-ma 13:14](https://bible.com/bible/193/ROM.13.14)
+:::
+
+Sách Châm ngôn mô tả người đàn bà luông tuồng gặp người đàn ông ngu dại sau khi trời tối (**Châm ngôn 7:8-9**). Chúng ta phải tránh xa những người, những nơi và bối cảnh có thể tội lỗi dễ xảy ra.
+
+::: bible
+<sup>8</sup> Đi qua ngoài đường gần góc nhà đàn-bà ấy; Người bắt đi đường dẫn đến nhà nàng,
+
+<sup>9</sup> Hoặc trong lúc chạng-vạng khi rốt ngày, Hoặc giữa ban đêm khi tối-tăm mù-mịt.
+::: bible_address
+[Châm ngôn 7:8-9](https://bible.com/bible/193/PRO.7.8,9)
+:::
 
 Nếu gặp một cửa hàng sách bậy bạ, chỗ tụ tập đàn đúm, những bạn bè cũ từ hồi phổ thông, **HÃY TRÁNH XA**. Nếu truyền hình cáp, internet gây vấn đề cho bạn, **HÃY VỨT BỎ CHÚNG ĐI**.
 
@@ -1461,6 +1475,12 @@ Nhiều người nói rằng họ nghiêm túc về sự thánh khiết, nhưng 
 Những người theo Chúa đã chịu tra tấn và dâng đời mình trong sự vâng phục Ngài. Và chúng ta lại đang rên rỉ vì phải từ bỏ truyền hình cáp sao?
 
 Khi Chúa Giê-xu kêu gọi chúng ta mang thập tự đi theo Ngài (**Ma-thi-ơ 10:38**), điều đó không bao hàm ý hy sinh to lớn hơn việc bỏ internet sao?
+
+::: bible
+ai không vác cây thập tự mình mà theo ta, thì cũng chẳng đáng cho ta.
+::: bible_address
+[Ma-thi-ơ 10:38](https://bible.com/bible/193/MAT.10.38)
+:::
 
 *Thế nào? Bạn đã cảm thấy thuyết phục phải chiến đấu giữ gìn sự thánh khiết chưa? Bạn đã tuyệt vọng như thế nào khi muốn chiến thắng tội lỗi? Bạn sẵn lòng triệt để như thế nào vì Chúa? Bạn muốn có được bao nhiêu niềm vui và sự bình an mà chỉ có thể tìm thấy trong Ngài?*
 
@@ -1842,7 +1862,7 @@ Chúng ta không dám chần chừ xưng tội.
 :::bible
 "Người nào giấu tội lỗi mình, sẽ không được may mắn. Nhưng ai xưng nó ra và lìa bỏ nó sẽ được thương xót."
 :::bible_address
-[Châm Ngôn 28:13](https://bible.com/bible/193/PRO.28.13)
+[Châm ngôn 28:13](https://bible.com/bible/193/PRO.28.13)
 :::
 
 Sự ăn năn thực sự có nghĩa là phải bỏ đi cám dỗ và thay đổi những lựa chọn làm bạn tiếp xúc với cám dỗ một cách không cần thiết.
