@@ -32,7 +32,7 @@ Cuốn sách **NGUYÊN TẮC THÁNH KHIẾT** của tác giả Randy Alcorn vi�
 6. <a href="#chuong-6-sach-luoc-khon-ngoan">Chương 6: Sách lược khôn ngoan</a>
 7. <a href="#chuong-7-hanh-dong-triet-de">Chương 7: Hành động triệt để</a>
 8. <a href="#chuong-8-huong-dan-cho-nguoi-doc-than">Chương 8: Hướng dẫn cho người độc thân</a>
-9. Chương 9: Hướng dẫn cho vợ chồng và phụ huynh
+9. <a href="#chuong-9-huong-dan-cho-vo-chong-va-phu-huynh">Chương 9: Hướng dẫn cho vợ chồng và phụ huynh</a>
 10. Chương 10: Xưng tội, tinh thần trách nhiệm và cái giá phải trả
 
 ## Chương 1: Bỏ lỡ cơ hội
@@ -1396,3 +1396,115 @@ Vậy, tôi nói với những kẻ chưa cưới gả, và kẻ góa-bụa rằ
 ::: bible_address
 (I Cô-rinh-tô 7:8-9)
 :::
+
+## Chương 9. Hướng dẫn cho vợ chồng và phụ huynh
+
+Vô số hôn nhân đã bị phá hoại khi những quan hệ dễ dãi nơi làm việc, học đường, và thậm chí ở Hội Thánh trở nên những đam mê bồng bột.
+
+Khi bạn trò chuyện với mọi người, hãy nói về vợ (chồng) và con cái của mình. Hãy cẩn thận với những suy nghĩ của bạn, những gì bạn nói bằng mắt và động tác. Thậm chí nếu bạn không bị người đối diện thu hút, bạn cũng không biết được họ đang suy nghĩ gì.
+
+Hãy tự nói với bạn rằng, "Điều này có thể trở thành một cám dỗ đe doạ mọi thứ mà tôi đang giữ gìn trân trọng. Tôi sẽ không để chuyện này xảy ra." Bạn không cần phải lo lắng không cần thiết – bạn chỉ cần cảnh giác.
+
+Hãy xua tan làn khói hoả mù của Sa-tan trước khi nó dày đặc làm bạn chết ngạt. Hãy trốn chạy khỏi lời nói dối truớc khi nanh vuốt của nó siết quanh cổ bạn.
+
+Chúng ta phải tạo cho mình một hệ thống phát hiện sớm những hiểm hoạ đạo đức trước khi chúng ta bị tụt xuống chỗ cát lún. Một quan hệ không đúng đắn có thể kéo dài rất lâu trước khi trở thành quan hệ tình dục.
+
+### Nuôi dưỡng và gìn giữ hôn nhân của bạn
+
+Mỗi vụ ngoại tình đều bắt đầu bằng sự lừa dối, và hầu hết sự lừa dối đều bắt đầu bằng những bí mật có vẻ vô tội ("Chồng tôi không cần biết việc này"). Nếu bạn đã có gia đình, hãy thường xuyên đánh giá lại quan hệ với người bạn đời của mình. Hãy để ý đến cờ đỏ báo hiệu sự bất mãn và quan hệ tình dục giảm sút. Hãy trao đổi một cách thẳng thắn cởi mở. Hãy giãi quyết nó cho dù có đau đớn.
+
+Hãy nhạy cảm với nhu cầu tình dục của người bạn đời. Hãy nhớ rằng hôn nhân bao gồm cả trách nhiệm tình dục – "đừng lấy mất của nhau" (I Cô-rinh-tô 7:5). Hãy trao đổi với nhau một cách trung thực về vấn đề này. Đừng ấp ủ sự bất bình. Nếu một trong hai người cảm thấy cần nhiều (hoặc ít) nhu cầu tình dục hơn, hãy dành ra những thời điểm cố định để cả hai không phải bối rối không biết lúc nào là đúng lúc (Cảm hứng bất chợt không phải lúc nào cũng tuyệt).
+
+Hãy hẹn hò với chồng (vợ) của bạn – ghi chuyện này vào trong lịch làm việc của bạn. Ở nơi làm việc, hãy luôn nhớ đến những chuyện nhỏ nhặt về vợ (chồng) và con cái. Khi đi xa, hãy gọi điện thoại thường xuyên.
+
+Hãy hết lòng trung thành với bạn đời, luôn khen tặng người ấy. Đừng tâm sự những trục trặc trong hôn nhân với người khác phái trừ khi đó là người thân trong gia đình hoặc là nhà tư vấn chuyên nghiệp. Ngay trong trường hợp đó cũng phải hết sức cẩn thận.
+
+Hãy cầu nguyện với nhau và cho nhau. Hãy chăm sóc sức khoẻ thuộc thể của bạn; hãy làm cho bạn càng hấp dẫn với chồng/vợ càng tốt. Hãy kín đáo với người khác ở nơi công cộng, và hấp dẫn với bạn đời ở nơi riêng tư – đừng bao giờ làm ngược lại.
+
+Hãy làm hết sức để mang chồng/vợ bạn vào thế giới của bạn. Hãy tâm sự về công việc của nhau. Tâm sự về những đấu tranh, khi nản lòng, mối quan tâm. Hãy lắng nghe nhau. (Nhớ bỏ tờ báo xuống). Đừng sống với thế giới riêng của mỗi người trong cùng một mái nhà. Đây là bước khởi đầu cho một cuộc tình với "một người hiểu tôi và thế giới của tôi".
+
+Các cuộc hôn nhân của Cơ Đốc nhân cũng gặp phải những đau tim, tranh chiến, và bực bội giống như những cuộc hôn nhân khác. (Nhưng chúng ta có sức mạnh siêu nhiên để giải quyết những chuyện này.) Hôn nhân của chúng ta cũng bị ám ảnh bởi cay đắng, buồn chán và thương tổn. Điều này làm cho chúng ta dễ bị lừa bởi sự dối trá của Sa-tan về sự hấp dẫn và thích thú về một người thứ ba. Câu trả lời là không có một người thứ ba mà là một sự cảm nhận mới về người phối ngẫu "cũ" của mình.
+
+### Hãy châm lửa lại sự hấp dẫn đối với bạn đời của mình
+
+Một người bạn đã chia sẻ rằng anh ta không cảm thấy vợ còn hấp dẫn đối với anh nữa. Anh ta quyết tâm cầu nguyện mỗi ngày xin Chúa biến vợ anh thành một người phụ nữ quyến rũ nhất trần gian dưới mắt anh. Trong vòng một tháng, lời cầu nguyện ấy được đáp lại một cách rõ ràng. Cô ta không hề thay đổi gì. Nhưng anh ta đã thay đổi. Sau khi nghe câu chuyện của anh bạn này, một người đàn ông khác cũng làm như vậy và thấy kết quả không ngờ. Cả hai cuộc hôn nhân đều được ban sức sống mới.
+
+Tập mắt mình đừng nhìn vào những hình ảnh khêu gợi và dán mắt mình vào chồng/vợ của bạn. Khi sự thôi thúc tình dục của bạn được khơi dậy, khoá chặt nó vào người bạn đời của mình. Sự ngon miệng có thể nuôi giữ được. Những gì chúng ta tập trung quan tâm sẽ định hình khát vọng của chúng ta. Bằng cách chối từ sự ngon miệng sai trật và suy nghĩ sâu xa về những thứ ngon miệng đúng đắn– kể cả bị "bắt hồn" bởi tình yêu của vợ bạn (Châm ngôn 5:19) – bạn có thể tự tập cho mình khao khát những gì phải lẽ.
+
+::: bible
+Như nai cái đáng thương, và hoàng dương có duyên tốt,
+Nguyện nương long nàng làm thỏa lòng con luôn luôn,
+Và ái tình nàng khiến cho con say mê mãi mãi.
+::: bible_address
+(Châm ngôn 5:19)
+:::
+
+Hãy trân trọng người bạn đời của mình. Hãy công nhận rằng những phẩm chất của chồng/vợ không phải là kết quả của kỹ xảo tạo hình, của điện ảnh và giải phẫu thẩm mỹ. Những phẩm chất thực sẽ không phai nhạt mất như những thứ kể trên, mà lâu bền và ngày càng sâu sắc. Giới hạn mắt nhìn chỉ vào vợ/chồng mình, và người ấy sẽ trở thành sự khao khát thực sự của trái tim bạn.
+
+Đôi khi những vấn đề trong hôn nhân của chúng ta cần sự giúp đỡ từ bên ngoài. Hãy cầu cứu ngay.
+
+Hãy tận dụng sách Cơ Đốc và những nguồn nào giúp làm phong phú cuộc sống vợ chồng. Học Kinh Thánh về đời sống gia đình là những buổi gặp mặt cuối tuần tuyệt vời có thể giúp củng cố những cuộc hôn nhân.
+
+### Hãy thành thực với người phối ngẫu
+
+Một phụ nữ kể rằng cách đây một năm chồng cô ta khóc với cô ta thú nhận là anh ta say mê một đồng nghiệp. Anh ta bị cám dỗ thường xuyên và cảm thấy mình đang trượt dần. Anh ta quyết tâm rút lui khỏi quan hệ không tốt này và xin vợ hiểu và cầu nguyện cho anh. Cô ta bị thương tổn nhưng ý thức được rằng cô cần giúp anh ta hơn là ngồi thương cho thân mình.
+
+**Kết quả ra sao?**
+
+Anh ta không chỉ rút lui khỏi mối quan hệ bất chính mà sự nâng đỡ của người vợ đã đưa họ gần nhau hơn bao giờ hết. Trong nước mắt, cô ta nói với tôi, "Hai tháng trước đây chồng tôi chết một cách bất ngờ. Nếu tối hôm đó anh ấy đã không nói thực với tôi thì anh ấy đã dan díu với người phụ nữ đó và có lẽ đã bỏ tôi rồi.
+
+Nếu thế anh ấy chết mà không chuẩn bị để ra mắt Chúa và tôi có lẽ đã phải sống suốt cuộc đời còn lại đau buồn về vụ ngoại tình này. Nhưng điều đó đã không xảy ra. Những lời cuối cùng của anh ấy với tôi là, "Anh yêu em!" và tôi biết đó là sự thật – anh ấy đã chứng minh bằng hành động. Tôi cám ơn Chúa mỗi ngày vì tôi nghĩ về anh với sự kính trọng và ngưỡng mộ hoàn toàn vì đã yêu Chúa và yêu tôi đủ để thành thực về sự tranh chiến trong anh."
+
+Dục vọng nảy nở trên sự lén lút. Không có gì phá vỡ nó bằng sự phơi bày. (Có người nói với tôi, "Chúng ta bệnh nặng cũng bằng với sự bí mật sâu kín nhất của chúng ta.") Sự thông đạt thành thực giữa vợ chồng sẽ làm cho họ liên minh với nhau chứ không phải đối đầu. Dù cho ban đầu có sự đau đớn khi nói cho nhau biết về bị cám dỗ tình dục, trong đó cũng có sự nhẹ nhõm và trưởng thành.
+
+:::bible
+Vậy hãy xưng tội cùng nhau và cầu-nguyện cho nhau, hầu cho anh em được lành bịnh: người công-bình lấy lòng sốt-sắng cầu-nguyện, thật có linh-nghiệm nhiều.
+:::bible_address
+Gia-cơ 5:16
+:::
+
+Dù cho người vợ có thể không biết gì về tội lỗi của chồng, cô ta đã bị ảnh hưởng một cách sâu xa. Nếu bạn không thú tội, bạn đã lừa dối vợ mình hai lần: lần thứ nhất vì tội ngoại tình, lần thứ nhì vì không để vợ mình tha thứ cho bạn hoặc có phản ứng. (Tuy vậy, đừng cảm thấy bị bắt buộc phải nói ra mọi chi tiết bẩn thỉu. Nói ra sự thực một cách đơn giản là đủ rồi.)
+
+Hỡi những ông chồng, hãy nhờ vợ mình giúp đỡ theo cách chúng ta vừa mới nói ở trên. Hỡi những bà vợ, hãy hỏi chồng mình về những gì đang cám dỗ họ. Bạn có thể làm gì cho chồng? Hãy biết ơn nếu anh ấy cởi mở với bạn. Đừng ngây thơ. Có quá nhiều phụ nữ vô tình không để ý gì đến sự tranh chiến trong đầu của chồng. Đừng khuyên chồng và bạn thân nhất của anh ấy chạy bộ với nhau. Nếu bạn đã đồng ý rằng anh ta chỉ nên dùng Internet khi có bạn bên cạnh thì đừng nghĩ tôi đi ngủ đây, anh ta sẽ ổn thôi.
+
+Đừng hành động như kẻ bề trên vì anh ấy đang tranh chiến còn bạn thì không sao. Có bao giờ bạn bị vấp ngã vì vướng vào những mơ tưởng lãng mạn về đàn ông, vì những vở kịch uỷ mị hoặc tiểu thuyết diễm tình bốc khói, hoặc vì tin đồn hoặc scandal? Bạn cũng nên thú tội với anh ta. Anh ta cần bạn như là một người bạn và đồng minh, chứ không phải là kẻ đối nghịch.
+
+### Nuôi dạy con cái thành người thánh khiết
+
+Đôi khi con cái chúng ta có thể không nghe lời chúng ta. Nhưng ít khi nào chúng không bắt chước chúng ta. Con trai học theo cách của cha – hoặc là nhìn chằm chằm vào hoặc là quay mắt đi không nhìn vũ nữ, các nữ cổ động viên và phim quảng cáo có phụ nữ quyến rũ. Con gái cũng sẽ để ý xem mắt của bố nhìn ai – và mắt của mẹ nhìn ai.
+
+Gia tài lớn nhất chúng ta có thể cho con cái là cho chúng thấy một hôn nhân thánh khiết, đầy tình yêu thương.
+
+Hãy tập cho con trẻ ý thức được về chọn lựa một hành động sẽ dẫn đến một hậu quả, phân biệt giữa khôn ngoan và ngu dại, như đã ví dụ trong sách Châm ngôn.
+
+:::bible
+Hỡi những kẻ yêu-mến Đức Giê-hô-va, hãy ghét sự ác:
+Ngài bảo hộ linh hồn của các thánh Ngài,
+Và giải cứu họ khỏi tay kẻ dữ.
+:::bible_address
+Thi Thiên 97:10
+:::
+
+Hãy dạy chúng biết kiềm chế – khả năng từ khước trong những lĩnh vực khác – những điều này dần dần sẽ đưa đến sự thánh khiết. Cha mẹ nên kiểm soát một cách khéo léo nhưng cương quyết về mối quan hệ bạn bè và thói quen xem phim ảnh sách báo của con. Chúng ta nên tránh đưa ra các tiêu chuẩn nước đôi - cấm con xem phim bậy bạ trên TV, nhưng người lớn lại được quyền xem.
+
+Hãy bảo vệ con bạn. Có phụ huynh biết suy nghĩ nào chất một đống tạp chí đồi truỵ trong phòng ngủ của con trai rồi nói, "Bố mẹ tin rằng con sẽ không xem những thứ đó." Đó cũng là trường hợp chúng ta cho phép con có computer gắn internet trong phòng riêng.
+
+Phụ huynh cần soát quần áo của con cái. Đàn ông có trách nhiệm giúp vợ và con gái hiểu tại sao điều này quan trọng. Hỡi các bà, hãy tin chúng tôi – khi chúng tôi nói rằng mặc loại quần soóc, áo thun lá hoặc đồ tắm này không đàng hoàng là chúng tôi biết rõ là nó trông rất khêu gợi.
+
+### Giáo dục về tình dục cho con bạn
+
+Mọi đứa trẻ đều nhận được sự giáo dục tình dục. Câu hỏi duy nhất là: (1) Khi nào? (2) Ở đâu? (3) Từ ai? Cha mẹ phải là người chịu trách nhiệm cuối cùng về giáo dục cho chúng về tình dục.
+
+Nếu bạn không biết rõ hết mọi vấn đề, đừng cảm thấy bối rối. Hãy tìm hiểu từ những nguồn tài liệu thích hợp. Đừng nói về tình dục như trong môn sinh vật, mà phải nói từ góc độ những giá trị sống, trách nhiệm và hôn nhân.
+
+**Hãy hiểu rõ con bạn**
+
+Nó sẵn sàng được dạy điều gì và chưa sẵn sàng biết điều gì. Hãy trả lời mọi câu hỏi một cách thành thực, nhưng thích hợp với tuổi của con. Hãy nói cho nó biết mọi điều nó cần biết đối với tuổi của nó – không hơn không kém.
+
+Đừng trì hoãn. Sự an toàn của con bạn đang bị nguy hiểm. Đừng đợi đến khi cô con gái 15 tuổi có thai rồi mới nói chuyện với nó về tình dục.
+
+Hãy giữ thái độ tích cực. Hãy nói tình dục sẽ tuyệt diệu biết bao trong giới hạn của hôn nhân. Đừng xấu hổ khi nói về điều mà Đức Chúa Trời đã không xấu hổ khi tạo nên nó.
+
+Nếu có người nào khác đang dạy con bạn về tình dục, hãy tìm hiểu chính xác xem họ đang dạy cái gì.
+
+Hãy dạy và làm gương về cách ăn mặc kín đáo ở nhà. Con bạn còn có thể học ở chỗ nào khác được nữa?
