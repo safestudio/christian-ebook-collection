@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div class="posts" v-if="filteredPosts.length">
-      <article :class="['post-card', post.frontmatter.status.toLowerCase()]" v-for="post in filteredPosts" :key="post.key">
+      <article :class="['post-card', post.frontmatter.status ? post.frontmatter.status.toLowerCase() : '']" v-for="post in filteredPosts" :key="post.key">
         <img class="post-image" :src="post.frontmatter.cover" @click="goToURL(post.frontmatter.permalink)" />
         <div class="post-content">
           <div class="post-title">
