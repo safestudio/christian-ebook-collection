@@ -406,7 +406,7 @@ Hãy tránh sự dâm-dục. Mặc dầu người ta phạm tội gì, tội ấ
 [I Cô-rinh-tô 6:18](https://bible.com/bible/193/1CO.6.18)
 :::
 
-Ngay từ đầu có một sự khác biệt về chất đối với tội tà dâm. Tại sao? Bời vì tình dục không chỉ là điều mà bạn làm, mà còn chính là con người của bạn. Khi bạn quan hệ tình dục, bạn đặt cuộc đời bạn đi trên dây trong không trung. Bạn cho đi một điều mà có thể không bao giờ lấy lại được.
+Ngay từ đầu có một sự khác biệt về chất đối với tội tà dâm. Tại sao? Bởi vì tình dục không chỉ là điều mà bạn làm, mà còn chính là con người của bạn. Khi bạn quan hệ tình dục, bạn đặt cuộc đời bạn đi trên dây trong không trung. Bạn cho đi một điều mà có thể không bao giờ lấy lại được.
 
 Sự thánh khiết và bất khiết không đơn thuần chỉ là những vấn đề bên ngoài như cách cư xử, văn hóa, và tập quán. Nó liên quan đến tận linh hồn. Nó xẻ vào vấn đề cốt lõi cuộc sống: bạn là ai và bạn sẽ trở thành người như thế nào.
 
