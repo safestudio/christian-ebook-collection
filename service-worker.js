@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "db0c4e6523bfc9b3e2ed6805d8613785"
+    "revision": "fc18b272ee022bbd10514a81f38ae433"
   },
   {
     "url": "assets/css/0.styles.062dd85c.css",
@@ -38,64 +38,64 @@ self.__precacheManifest = [
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/10.1d9b03b9.js",
-    "revision": "743695d3571b2f1a238b1e102b30dc2f"
+    "url": "assets/js/10.c4831908.js",
+    "revision": "23abdfa52cbfd8913b34834efee69071"
   },
   {
-    "url": "assets/js/11.f393d636.js",
-    "revision": "21df4ac64552585725719a177a18d99c"
+    "url": "assets/js/11.12aa7f2d.js",
+    "revision": "8107a80fa53462194cc382bf95ee44d0"
   },
   {
-    "url": "assets/js/12.49e74c80.js",
-    "revision": "27f0c16158e10e30171e834975743842"
+    "url": "assets/js/12.f89e2c7c.js",
+    "revision": "4ef2a50b821bb449e99faa08fca70e88"
   },
   {
-    "url": "assets/js/2.4b4cc014.js",
-    "revision": "49d9d1140dc9aa4bb021456645af3bc5"
+    "url": "assets/js/2.00d6c5d6.js",
+    "revision": "065476c74bcc40bc121debe12a1a1c6d"
   },
   {
-    "url": "assets/js/3.b734341a.js",
-    "revision": "2c9f3d3cea846112afe85d5b5f0e2746"
+    "url": "assets/js/3.07b2db07.js",
+    "revision": "828b6ae67fb03508e28f4c18b7afbd7b"
   },
   {
-    "url": "assets/js/4.77497632.js",
-    "revision": "7e51c5df290f704325eb9ec363b08806"
+    "url": "assets/js/4.6a9389c0.js",
+    "revision": "ea9532c290c8692504e414555b39b76b"
   },
   {
-    "url": "assets/js/5.5d4633dc.js",
-    "revision": "c531c74deba7467bc87911ee207d6535"
+    "url": "assets/js/5.796583e3.js",
+    "revision": "149e53752dfdef09f923ec3dc0f9add6"
   },
   {
-    "url": "assets/js/6.b9b287ac.js",
-    "revision": "a1b89845917f5e021682cf37582f7d84"
+    "url": "assets/js/6.8403e966.js",
+    "revision": "2616f4c23dadcce952f41aa5e29b44d9"
   },
   {
-    "url": "assets/js/7.0e463ca8.js",
-    "revision": "3c4a43d921fdbe5d668f3f0b93d13593"
+    "url": "assets/js/7.5a54fe95.js",
+    "revision": "b63dd77935f11606c147313fed35ec83"
   },
   {
-    "url": "assets/js/8.42ed5908.js",
-    "revision": "b7aa66e53f097a1173b71662bab6f7f7"
+    "url": "assets/js/8.8364194c.js",
+    "revision": "3bf0a9d91ceef8a3c65a976a97474570"
   },
   {
-    "url": "assets/js/9.f85590d8.js",
-    "revision": "40d910cb36195d820d0835baf8a90f0f"
+    "url": "assets/js/9.23092d3f.js",
+    "revision": "47abdcd6579e784ce5ef09cda813dee5"
   },
   {
-    "url": "assets/js/app.626459ae.js",
-    "revision": "7c4743759edaebbd9c043a016d14d8b9"
+    "url": "assets/js/app.63df519d.js",
+    "revision": "a4f1605c606d945f5dce711a57baabfe"
   },
   {
     "url": "books.html",
-    "revision": "37f9d70d723337e6c7899ee9187c37fa"
+    "revision": "44f115cdcd5550d4e9ef72088bef6474"
   },
   {
     "url": "books/duong-linh/binh-an-voi-chua/index.html",
-    "revision": "55c61ad4292039f39ffcddb5ed9cb4a3"
+    "revision": "a7325ba49e7f2a26d16b383bd0fb794e"
   },
   {
     "url": "books/duong-linh/nguyen-tac-thanh-khiet/index.html",
-    "revision": "dec3de89d45bf42dc883210595297745"
+    "revision": "f4c2082d00c4490b082eff9b111a07b4"
   },
   {
     "url": "covers/duong-linh/binh-an-voi-chua.jpg",
@@ -523,7 +523,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "cb17d3cba9296c9ab2ce51ec890adbb3"
+    "revision": "8f9db8bf5149fc9fb1f7ec2fc5dc46e3"
   },
   {
     "url": "logo.png",
