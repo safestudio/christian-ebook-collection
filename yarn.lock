@@ -7719,6 +7719,13 @@ vuepress-plugin-container@^2.0.2:
   dependencies:
     markdown-it-container "^2.0.0"
 
+vuepress-plugin-container@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/vuepress-plugin-container/-/vuepress-plugin-container-2.1.0.tgz#eb2ba3e01cdac419bd678d40e05c934caffe6db0"
+  integrity sha512-i4p7S1cqYUrg/3pt+xSghZtKSHVI3VXMQNept8ILxA+lMK1XJkdRkjNovZzwpXlrErQssvrUOTWBV0hdBv7eXQ==
+  dependencies:
+    markdown-it-container "^2.0.0"
+
 vuepress-plugin-nprogress@^1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/vuepress-plugin-nprogress/-/vuepress-plugin-nprogress-1.1.1.tgz#ec4ec35ae09256c552fa10e671d7416324bd53b0"
