@@ -43,7 +43,7 @@
   },
   "dependencies": {
     "vuepress-plugin-container": "^2.0.2",
-    "vuepress-plugin-nprogress": "^1.1.1",
+    "vuepress-plugin-nprogress": "^1.1.4",
     "vuepress-plugin-sitemap": "^2.1.2"
   }
 }
