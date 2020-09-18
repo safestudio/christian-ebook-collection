@@ -35,7 +35,7 @@
     "@vuepress/plugin-blog": "^1.2.4",
     "@vuepress/plugin-google-analytics": "^1.0.2",
     "@vuepress/plugin-pwa": "^1.0.2",
-    "markdownlint-cli": "^0.18.0",
+    "markdownlint-cli": "^0.19.0",
     "node-sass": "^4.13.1",
     "sass-loader": "^8.0.0",
     "vuepress": "^1.2.0",
